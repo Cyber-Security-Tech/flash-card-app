@@ -1,81 +1,82 @@
+# main.py
+
 from tkinter import *
+import os
+import json
 import pandas as pd
-import random
+from flashcard_ui import FlashCardApp
+import data_manager
 
-# ---------------------------- CONSTANTS ------------------------------- #
-BACKGROUND_COLOR = "#B1DDC6"
-current_card = {}
-to_learn = {}
-flip_timer = None
+# ----- SUPPORTED LANGUAGES -----
+SUPPORTED_LANGUAGES = ["french", "spanish", "german", "italian"]
 
-# ---------------------------- DATA LOADING ---------------------------- #
-try:
-    data = pd.read_csv("data/words_to_learn.csv")
-    if data.empty:
-        raise ValueError("File is empty.")
-except (FileNotFoundError, ValueError, pd.errors.EmptyDataError):
-    original_data = pd.read_csv("data/french_words.csv")
-    to_learn = original_data.to_dict(orient="records")
-else:
-    to_learn = data.to_dict(orient="records")
+class LanguageSelector:
+    def __init__(self):
+        self.window = Tk()
+        self.window.title("Choose Language")
+        self.window.config(padx=50, pady=50, bg="#B1DDC6")
 
-# ---------------------------- FUNCTIONS ------------------------------- #
-def next_card():
-    global current_card, flip_timer
-    window.after_cancel(flip_timer)
+        Label(self.window, text="Choose a language to learn:", font=("Ariel", 24, "bold"), bg="#B1DDC6").pack(pady=20)
 
-    if not to_learn:
-        canvas.itemconfig(card_title, text="Done!", fill="black")
-        canvas.itemconfig(card_word, text="All words learned 🎉", fill="black", font=("Ariel", 40, "bold"))
-        canvas.itemconfig(card_background, image=card_front_img)
-        return
+        for lang in SUPPORTED_LANGUAGES:
+            Button(
+                text=lang.capitalize(),
+                font=("Ariel", 18),
+                width=20,
+                command=lambda l=lang: self.handle_language(l)
+            ).pack(pady=10)
 
+        self.window.mainloop()
 
-    current_card = random.choice(to_learn)
-    canvas.itemconfig(card_title, text="French", fill="black")
-    canvas.itemconfig(card_word, text=current_card["French"], fill="black")
-    canvas.itemconfig(card_background, image=card_front_img)
-    flip_timer = window.after(3000, flip_card)
+    def handle_language(self, language):
+        self.window.destroy()
+        self.show_progress_prompt(language)
 
-def flip_card():
-    canvas.itemconfig(card_title, text="English", fill="white")
-    canvas.itemconfig(card_word, text=current_card["English"], fill="white")
-    canvas.itemconfig(card_background, image=card_back_img)
+    def show_progress_prompt(self, language):
+        progress_path = f"progress/words_to_learn_{language}.json"
+        original_csv_path = f"assets/{language}_words.csv"
 
-def is_known():
-    global current_card
-    if current_card in to_learn:
-        to_learn.remove(current_card)
-        data = pd.DataFrame(to_learn)
-        data.to_csv("data/words_to_learn.csv", index=False)
-    next_card()
+        if os.path.exists(progress_path):
+            try:
+                with open(progress_path, "r", encoding="utf-8") as f:
+                    saved_words = json.load(f)
+                total_words = len(pd.read_csv(original_csv_path))
+                remaining_words = len(saved_words)
+            except Exception:
+                saved_words = None
 
-# ---------------------------- UI SETUP ------------------------------- #
-window = Tk()
-window.title("Flash Card App")
-window.config(padx=50, pady=50, bg=BACKGROUND_COLOR)
+            # Show continue/reset prompt
+            progress_window = Tk()
+            progress_window.title("Continue or Reset")
+            progress_window.config(padx=40, pady=40, bg="#B1DDC6")
 
-flip_timer = window.after(3000, flip_card)
+            Label(progress_window,
+                  text=f"You have {remaining_words} / {total_words} words left in {language.capitalize()}",
+                  font=("Ariel", 16), bg="#B1DDC6").pack(pady=20)
 
-canvas = Canvas(width=800, height=526, bg=BACKGROUND_COLOR, highlightthickness=0)
-card_front_img = PhotoImage(file="images/card_front.png")
-card_back_img = PhotoImage(file="images/card_back.png")
-card_background = canvas.create_image(400, 263, image=card_front_img)
-card_title = canvas.create_text(400, 150, text="", font=("Ariel", 40, "italic"))
-card_word = canvas.create_text(400, 263, text="", font=("Ariel", 60, "bold"))
-canvas.grid(row=0, column=0, columnspan=2)
+            Button(progress_window, text="Continue", font=("Ariel", 14), width=20,
+                   command=lambda: self.launch_app(progress_window, language)).pack(pady=10)
 
-# ❌ Button (SKIP, does NOT remove word)
-wrong_image = PhotoImage(file="images/wrong.png")
-wrong_button = Button(image=wrong_image, highlightthickness=0, command=next_card)
-wrong_button.grid(row=1, column=0)
+            Button(progress_window, text="Reset Progress", font=("Ariel", 14), width=20,
+                   command=lambda: self.reset_and_launch(progress_window, language)).pack(pady=10)
 
-# ✅ Button (MARK KNOWN, removes word)
-right_image = PhotoImage(file="images/right.png")
-right_button = Button(image=right_image, highlightthickness=0, command=is_known)
-right_button.grid(row=1, column=1)
+            progress_window.mainloop()
+        else:
+            self.launch_app(None, language)
 
-# Start
-next_card()
+    def launch_app(self, win, language):
+        if win:
+            win.destroy()
+        FlashCardApp(language=language)
 
-window.mainloop()
+    def reset_and_launch(self, win, language):
+        if win:
+            win.destroy()
+        # Remove saved progress file
+        progress_path = f"progress/words_to_learn_{language}.json"
+        if os.path.exists(progress_path):
+            os.remove(progress_path)
+        FlashCardApp(language=language)
+
+# Launch the language selection
+LanguageSelector()
