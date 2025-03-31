@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "French": "partie",
+    "English": "part"
+  },
+  {
+    "French": "chien",
+    "English": "dog"
+  },
+  {
+    "French": "rouge",
+    "English": "red"
+  },
+  {
+    "French": "maison",
+    "English": "house"
+  },
+  {
+    "French": "livre",
+    "English": "book"
+  }
+]
