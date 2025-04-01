@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "Italian": "ciao",
+    "English": "hello"
+  },
+  {
+    "Italian": "gatto",
+    "English": "cat"
+  },
+  {
+    "Italian": "casa",
+    "English": "house"
+  },
+  {
+    "Italian": "grazie",
+    "English": "thank you"
+  }
+]

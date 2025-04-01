@@ -1,29 +1,32 @@
-from tkinter import *
 from flashcard_ui import FlashCardApp
+import ttkbootstrap as ttk
+from ttkbootstrap.constants import *
 
-SUPPORTED_LANGUAGES = ["french", "spanish", "german", "italian"]
+def launch_home():
+    # Home screen for language selection
+    window = ttk.Window(themename="flatly")
+    window.title("Language Flash Cards")
+    window.geometry("400x300")
+    window.resizable(False, False)
 
-class LanguageSelector:
-    def __init__(self):
-        self.window = Tk()
-        self.window.title("Choose Language")
-        self.window.config(padx=50, pady=50, bg="#B1DDC6")
+    label = ttk.Label(window, text="Select a Language", font=("Segoe UI", 20))
+    label.pack(pady=20)
 
-        Label(self.window, text="Choose a language to learn:", font=("Ariel", 24, "bold"), bg="#B1DDC6").pack(pady=20)
+    languages = ["French", "German", "Italian", "Spanish"]
+    for lang in languages:
+        ttk.Button(
+            window,
+            text=lang,
+            width=20,
+            bootstyle="primary",
+            command=lambda l=lang: launch_flashcards(l, window)
+        ).pack(pady=5)
 
-        for lang in SUPPORTED_LANGUAGES:
-            Button(
-                text=lang.capitalize(),
-                font=("Ariel", 18),
-                width=20,
-                command=lambda l=lang: self.handle_language(l)
-            ).pack(pady=10)
+    window.mainloop()
 
-        self.window.mainloop()
+def launch_flashcards(language, parent_window):
+    parent_window.destroy()  # Close the home window
+    FlashCardApp(language)   # Launch flashcard UI
 
-    def handle_language(self, language):
-        self.window.destroy()
-        FlashCardApp(language=language)
-
-# Launch selector
-LanguageSelector()
+if __name__ == "__main__":
+    launch_home()
