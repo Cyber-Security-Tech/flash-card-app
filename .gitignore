@@ -1,0 +1,23 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Progress files
+progress/*.json
+
+# Logs or backups
+*.log
+*.bak
