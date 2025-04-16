@@ -1,18 +1,2002 @@
 [
   {
-    "Italian": "ciao",
-    "English": "hello"
+    "Italian": "io",
+    "English": "I"
+  },
+  {
+    "Italian": "tu",
+    "English": "you (informal singular)"
+  },
+  {
+    "Italian": "lui",
+    "English": "he"
+  },
+  {
+    "Italian": "lei",
+    "English": "she"
+  },
+  {
+    "Italian": "noi",
+    "English": "we"
+  },
+  {
+    "Italian": "voi",
+    "English": "you (plural)"
+  },
+  {
+    "Italian": "loro",
+    "English": "they"
+  },
+  {
+    "Italian": "mi",
+    "English": "myself"
+  },
+  {
+    "Italian": "ti",
+    "English": "yourself"
+  },
+  {
+    "Italian": "si",
+    "English": "himself/herself/themselves"
+  },
+  {
+    "Italian": "ci",
+    "English": "ourselves"
+  },
+  {
+    "Italian": "vi",
+    "English": "yourselves"
+  },
+  {
+    "Italian": "me",
+    "English": "me"
+  },
+  {
+    "Italian": "te",
+    "English": "you"
+  },
+  {
+    "Italian": "sé",
+    "English": "oneself"
+  },
+  {
+    "Italian": "questo",
+    "English": "this"
+  },
+  {
+    "Italian": "quello",
+    "English": "that"
+  },
+  {
+    "Italian": "qui",
+    "English": "here"
+  },
+  {
+    "Italian": "lì",
+    "English": "there"
+  },
+  {
+    "Italian": "là",
+    "English": "over there"
+  },
+  {
+    "Italian": "chi",
+    "English": "who"
+  },
+  {
+    "Italian": "che",
+    "English": "what"
+  },
+  {
+    "Italian": "cosa",
+    "English": "thing/what"
+  },
+  {
+    "Italian": "dove",
+    "English": "where"
+  },
+  {
+    "Italian": "quando",
+    "English": "when"
+  },
+  {
+    "Italian": "perché",
+    "English": "why/because"
+  },
+  {
+    "Italian": "come",
+    "English": "how"
+  },
+  {
+    "Italian": "quanto",
+    "English": "how much"
+  },
+  {
+    "Italian": "quale",
+    "English": "which"
+  },
+  {
+    "Italian": "e",
+    "English": "and"
+  },
+  {
+    "Italian": "o",
+    "English": "or"
+  },
+  {
+    "Italian": "ma",
+    "English": "but"
+  },
+  {
+    "Italian": "per",
+    "English": "for"
+  },
+  {
+    "Italian": "con",
+    "English": "with"
+  },
+  {
+    "Italian": "senza",
+    "English": "without"
+  },
+  {
+    "Italian": "tra",
+    "English": "between/among"
+  },
+  {
+    "Italian": "fra",
+    "English": "between/among"
+  },
+  {
+    "Italian": "su",
+    "English": "on"
+  },
+  {
+    "Italian": "giù",
+    "English": "down"
+  },
+  {
+    "Italian": "sotto",
+    "English": "under"
+  },
+  {
+    "Italian": "sopra",
+    "English": "above"
+  },
+  {
+    "Italian": "davanti",
+    "English": "in front"
+  },
+  {
+    "Italian": "dietro",
+    "English": "behind"
+  },
+  {
+    "Italian": "dentro",
+    "English": "inside"
+  },
+  {
+    "Italian": "fuori",
+    "English": "outside"
+  },
+  {
+    "Italian": "prima",
+    "English": "before"
+  },
+  {
+    "Italian": "dopo",
+    "English": "after"
+  },
+  {
+    "Italian": "sempre",
+    "English": "always"
+  },
+  {
+    "Italian": "mai",
+    "English": "never"
+  },
+  {
+    "Italian": "spesso",
+    "English": "often"
+  },
+  {
+    "Italian": "a volte",
+    "English": "sometimes"
+  },
+  {
+    "Italian": "oggi",
+    "English": "today"
+  },
+  {
+    "Italian": "ieri",
+    "English": "yesterday"
+  },
+  {
+    "Italian": "domani",
+    "English": "tomorrow"
+  },
+  {
+    "Italian": "adesso",
+    "English": "now"
+  },
+  {
+    "Italian": "poi",
+    "English": "then/later"
+  },
+  {
+    "Italian": "già",
+    "English": "already"
+  },
+  {
+    "Italian": "ancora",
+    "English": "still/yet"
+  },
+  {
+    "Italian": "subito",
+    "English": "immediately"
+  },
+  {
+    "Italian": "presto",
+    "English": "soon"
+  },
+  {
+    "Italian": "tardi",
+    "English": "late"
+  },
+  {
+    "Italian": "ora",
+    "English": "now/hour"
+  },
+  {
+    "Italian": "uomo",
+    "English": "man"
+  },
+  {
+    "Italian": "donna",
+    "English": "woman"
+  },
+  {
+    "Italian": "bambino",
+    "English": "child (boy)"
+  },
+  {
+    "Italian": "bambina",
+    "English": "child (girl)"
+  },
+  {
+    "Italian": "persona",
+    "English": "person"
+  },
+  {
+    "Italian": "gente",
+    "English": "people"
+  },
+  {
+    "Italian": "amico",
+    "English": "friend (male)"
+  },
+  {
+    "Italian": "amica",
+    "English": "friend (female)"
+  },
+  {
+    "Italian": "madre",
+    "English": "mother"
+  },
+  {
+    "Italian": "padre",
+    "English": "father"
+  },
+  {
+    "Italian": "fratello",
+    "English": "brother"
+  },
+  {
+    "Italian": "sorella",
+    "English": "sister"
+  },
+  {
+    "Italian": "figlio",
+    "English": "son"
+  },
+  {
+    "Italian": "figlia",
+    "English": "daughter"
+  },
+  {
+    "Italian": "marito",
+    "English": "husband"
+  },
+  {
+    "Italian": "moglie",
+    "English": "wife"
+  },
+  {
+    "Italian": "famiglia",
+    "English": "family"
+  },
+  {
+    "Italian": "casa",
+    "English": "house/home"
+  },
+  {
+    "Italian": "scuola",
+    "English": "school"
+  },
+  {
+    "Italian": "lavoro",
+    "English": "work/job"
+  },
+  {
+    "Italian": "giorno",
+    "English": "day"
+  },
+  {
+    "Italian": "notte",
+    "English": "night"
+  },
+  {
+    "Italian": "mattina",
+    "English": "morning"
+  },
+  {
+    "Italian": "sera",
+    "English": "evening"
+  },
+  {
+    "Italian": "tempo",
+    "English": "time/weather"
+  },
+  {
+    "Italian": "anno",
+    "English": "year"
+  },
+  {
+    "Italian": "mese",
+    "English": "month"
+  },
+  {
+    "Italian": "settimana",
+    "English": "week"
+  },
+  {
+    "Italian": "ora",
+    "English": "hour"
+  },
+  {
+    "Italian": "minuto",
+    "English": "minute"
+  },
+  {
+    "Italian": "secondo",
+    "English": "second"
+  },
+  {
+    "Italian": "vita",
+    "English": "life"
+  },
+  {
+    "Italian": "mano",
+    "English": "hand"
+  },
+  {
+    "Italian": "occhio",
+    "English": "eye"
+  },
+  {
+    "Italian": "testa",
+    "English": "head"
+  },
+  {
+    "Italian": "cuore",
+    "English": "heart"
+  },
+  {
+    "Italian": "faccia",
+    "English": "face"
+  },
+  {
+    "Italian": "bocca",
+    "English": "mouth"
+  },
+  {
+    "Italian": "naso",
+    "English": "nose"
+  },
+  {
+    "Italian": "orecchio",
+    "English": "ear"
+  },
+  {
+    "Italian": "capelli",
+    "English": "hair"
+  },
+  {
+    "Italian": "piede",
+    "English": "foot"
+  },
+  {
+    "Italian": "gamba",
+    "English": "leg"
+  },
+  {
+    "Italian": "braccio",
+    "English": "arm"
+  },
+  {
+    "Italian": "corpo",
+    "English": "body"
+  },
+  {
+    "Italian": "voce",
+    "English": "voice"
+  },
+  {
+    "Italian": "parola",
+    "English": "word"
+  },
+  {
+    "Italian": "lingua",
+    "English": "language/tongue"
+  },
+  {
+    "Italian": "nome",
+    "English": "name"
+  },
+  {
+    "Italian": "numero",
+    "English": "number"
+  },
+  {
+    "Italian": "colore",
+    "English": "color"
+  },
+  {
+    "Italian": "cosa",
+    "English": "thing"
+  },
+  {
+    "Italian": "oggetto",
+    "English": "object"
+  },
+  {
+    "Italian": "luogo",
+    "English": "place"
+  },
+  {
+    "Italian": "strada",
+    "English": "street"
+  },
+  {
+    "Italian": "città",
+    "English": "city"
+  },
+  {
+    "Italian": "paese",
+    "English": "country/town"
+  },
+  {
+    "Italian": "mondo",
+    "English": "world"
+  },
+  {
+    "Italian": "acqua",
+    "English": "water"
+  },
+  {
+    "Italian": "cibo",
+    "English": "food"
+  },
+  {
+    "Italian": "pane",
+    "English": "bread"
+  },
+  {
+    "Italian": "latte",
+    "English": "milk"
+  },
+  {
+    "Italian": "carne",
+    "English": "meat"
+  },
+  {
+    "Italian": "pesce",
+    "English": "fish"
+  },
+  {
+    "Italian": "frutta",
+    "English": "fruit"
+  },
+  {
+    "Italian": "verdura",
+    "English": "vegetable"
+  },
+  {
+    "Italian": "zucchero",
+    "English": "sugar"
+  },
+  {
+    "Italian": "sale",
+    "English": "salt"
+  },
+  {
+    "Italian": "bevanda",
+    "English": "drink"
+  },
+  {
+    "Italian": "caffè",
+    "English": "coffee"
+  },
+  {
+    "Italian": "tè",
+    "English": "tea"
+  },
+  {
+    "Italian": "birra",
+    "English": "beer"
+  },
+  {
+    "Italian": "vino",
+    "English": "wine"
+  },
+  {
+    "Italian": "colazione",
+    "English": "breakfast"
+  },
+  {
+    "Italian": "pranzo",
+    "English": "lunch"
+  },
+  {
+    "Italian": "cena",
+    "English": "dinner"
+  },
+  {
+    "Italian": "ristorante",
+    "English": "restaurant"
+  },
+  {
+    "Italian": "bar",
+    "English": "bar/café"
+  },
+  {
+    "Italian": "negozio",
+    "English": "shop"
+  },
+  {
+    "Italian": "mercato",
+    "English": "market"
+  },
+  {
+    "Italian": "scuola",
+    "English": "school"
+  },
+  {
+    "Italian": "università",
+    "English": "university"
+  },
+  {
+    "Italian": "ospedale",
+    "English": "hospital"
+  },
+  {
+    "Italian": "farmacia",
+    "English": "pharmacy"
+  },
+  {
+    "Italian": "medico",
+    "English": "doctor"
+  },
+  {
+    "Italian": "infermiere",
+    "English": "nurse"
+  },
+  {
+    "Italian": "polizia",
+    "English": "police"
+  },
+  {
+    "Italian": "stazione",
+    "English": "station"
+  },
+  {
+    "Italian": "treno",
+    "English": "train"
+  },
+  {
+    "Italian": "autobus",
+    "English": "bus"
+  },
+  {
+    "Italian": "macchina",
+    "English": "car"
+  },
+  {
+    "Italian": "bicicletta",
+    "English": "bicycle"
+  },
+  {
+    "Italian": "aereo",
+    "English": "airplane"
+  },
+  {
+    "Italian": "nave",
+    "English": "ship"
+  },
+  {
+    "Italian": "viaggio",
+    "English": "trip"
+  },
+  {
+    "Italian": "vacanza",
+    "English": "vacation"
+  },
+  {
+    "Italian": "valigia",
+    "English": "suitcase"
+  },
+  {
+    "Italian": "mappa",
+    "English": "map"
+  },
+  {
+    "Italian": "biglietto",
+    "English": "ticket"
+  },
+  {
+    "Italian": "denaro",
+    "English": "money"
+  },
+  {
+    "Italian": "soldi",
+    "English": "money"
+  },
+  {
+    "Italian": "prezzo",
+    "English": "price"
+  },
+  {
+    "Italian": "conto",
+    "English": "bill"
+  },
+  {
+    "Italian": "moneta",
+    "English": "coin"
+  },
+  {
+    "Italian": "banconota",
+    "English": "bill (paper money)"
+  },
+  {
+    "Italian": "borsa",
+    "English": "bag/purse"
+  },
+  {
+    "Italian": "portafoglio",
+    "English": "wallet"
+  },
+  {
+    "Italian": "carta",
+    "English": "card/paper"
+  },
+  {
+    "Italian": "documento",
+    "English": "document"
+  },
+  {
+    "Italian": "passaporto",
+    "English": "passport"
+  },
+  {
+    "Italian": "telefono",
+    "English": "phone"
+  },
+  {
+    "Italian": "computer",
+    "English": "computer"
+  },
+  {
+    "Italian": "internet",
+    "English": "internet"
+  },
+  {
+    "Italian": "email",
+    "English": "email"
+  },
+  {
+    "Italian": "lettera",
+    "English": "letter"
+  },
+  {
+    "Italian": "giornale",
+    "English": "newspaper"
+  },
+  {
+    "Italian": "rivista",
+    "English": "magazine"
+  },
+  {
+    "Italian": "libro",
+    "English": "book"
+  },
+  {
+    "Italian": "pagina",
+    "English": "page"
+  },
+  {
+    "Italian": "penna",
+    "English": "pen"
+  },
+  {
+    "Italian": "matita",
+    "English": "pencil"
+  },
+  {
+    "Italian": "carta",
+    "English": "paper"
+  },
+  {
+    "Italian": "sedia",
+    "English": "chair"
+  },
+  {
+    "Italian": "tavolo",
+    "English": "table"
+  },
+  {
+    "Italian": "letto",
+    "English": "bed"
+  },
+  {
+    "Italian": "porta",
+    "English": "door"
+  },
+  {
+    "Italian": "finestra",
+    "English": "window"
+  },
+  {
+    "Italian": "muro",
+    "English": "wall"
+  },
+  {
+    "Italian": "soffitto",
+    "English": "ceiling"
+  },
+  {
+    "Italian": "pavimento",
+    "English": "floor"
+  },
+  {
+    "Italian": "chiave",
+    "English": "key"
+  },
+  {
+    "Italian": "orologio",
+    "English": "watch/clock"
+  },
+  {
+    "Italian": "specchio",
+    "English": "mirror"
+  },
+  {
+    "Italian": "doccia",
+    "English": "shower"
+  },
+  {
+    "Italian": "bagno",
+    "English": "bathroom"
+  },
+  {
+    "Italian": "cucina",
+    "English": "kitchen"
+  },
+  {
+    "Italian": "camera",
+    "English": "room"
+  },
+  {
+    "Italian": "salotto",
+    "English": "living room"
+  },
+  {
+    "Italian": "giardino",
+    "English": "garden"
+  },
+  {
+    "Italian": "balcone",
+    "English": "balcony"
+  },
+  {
+    "Italian": "lavorare",
+    "English": "to work"
+  },
+  {
+    "Italian": "studiare",
+    "English": "to study"
+  },
+  {
+    "Italian": "leggere",
+    "English": "to read"
+  },
+  {
+    "Italian": "scrivere",
+    "English": "to write"
+  },
+  {
+    "Italian": "parlare",
+    "English": "to speak"
+  },
+  {
+    "Italian": "ascoltare",
+    "English": "to listen"
+  },
+  {
+    "Italian": "vedere",
+    "English": "to see"
+  },
+  {
+    "Italian": "guardare",
+    "English": "to watch"
+  },
+  {
+    "Italian": "mangiare",
+    "English": "to eat"
+  },
+  {
+    "Italian": "bere",
+    "English": "to drink"
+  },
+  {
+    "Italian": "dormire",
+    "English": "to sleep"
+  },
+  {
+    "Italian": "alzarsi",
+    "English": "to get up"
+  },
+  {
+    "Italian": "sedersi",
+    "English": "to sit down"
+  },
+  {
+    "Italian": "camminare",
+    "English": "to walk"
+  },
+  {
+    "Italian": "correre",
+    "English": "to run"
+  },
+  {
+    "Italian": "nuotare",
+    "English": "to swim"
+  },
+  {
+    "Italian": "giocare",
+    "English": "to play"
+  },
+  {
+    "Italian": "aprire",
+    "English": "to open"
+  },
+  {
+    "Italian": "chiudere",
+    "English": "to close"
+  },
+  {
+    "Italian": "entrare",
+    "English": "to enter"
+  },
+  {
+    "Italian": "uscire",
+    "English": "to exit"
+  },
+  {
+    "Italian": "comprare",
+    "English": "to buy"
+  },
+  {
+    "Italian": "vendere",
+    "English": "to sell"
+  },
+  {
+    "Italian": "pagare",
+    "English": "to pay"
+  },
+  {
+    "Italian": "cucinare",
+    "English": "to cook"
+  },
+  {
+    "Italian": "pulire",
+    "English": "to clean"
+  },
+  {
+    "Italian": "lavare",
+    "English": "to wash"
+  },
+  {
+    "Italian": "mettere",
+    "English": "to put"
+  },
+  {
+    "Italian": "prendere",
+    "English": "to take"
+  },
+  {
+    "Italian": "dare",
+    "English": "to give"
+  },
+  {
+    "Italian": "ricevere",
+    "English": "to receive"
+  },
+  {
+    "Italian": "amare",
+    "English": "to love"
+  },
+  {
+    "Italian": "piacere",
+    "English": "to like"
+  },
+  {
+    "Italian": "odiare",
+    "English": "to hate"
+  },
+  {
+    "Italian": "pensare",
+    "English": "to think"
+  },
+  {
+    "Italian": "credere",
+    "English": "to believe"
+  },
+  {
+    "Italian": "sapere",
+    "English": "to know (facts)"
+  },
+  {
+    "Italian": "conoscere",
+    "English": "to know (people)"
+  },
+  {
+    "Italian": "capire",
+    "English": "to understand"
+  },
+  {
+    "Italian": "ricordare",
+    "English": "to remember"
+  },
+  {
+    "Italian": "dimenticare",
+    "English": "to forget"
+  },
+  {
+    "Italian": "volere",
+    "English": "to want"
+  },
+  {
+    "Italian": "potere",
+    "English": "to be able/can"
+  },
+  {
+    "Italian": "dovere",
+    "English": "to have to/must"
+  },
+  {
+    "Italian": "avere",
+    "English": "to have"
+  },
+  {
+    "Italian": "essere",
+    "English": "to be"
+  },
+  {
+    "Italian": "andare",
+    "English": "to go"
+  },
+  {
+    "Italian": "venire",
+    "English": "to come"
+  },
+  {
+    "Italian": "tornare",
+    "English": "to return"
+  },
+  {
+    "Italian": "arrivare",
+    "English": "to arrive"
+  },
+  {
+    "Italian": "partire",
+    "English": "to leave"
+  },
+  {
+    "Italian": "stare",
+    "English": "to stay"
+  },
+  {
+    "Italian": "vivere",
+    "English": "to live"
+  },
+  {
+    "Italian": "morire",
+    "English": "to die"
+  },
+  {
+    "Italian": "nascere",
+    "English": "to be born"
+  },
+  {
+    "Italian": "diventare",
+    "English": "to become"
+  },
+  {
+    "Italian": "sentire",
+    "English": "to hear/feel"
+  },
+  {
+    "Italian": "chiedere",
+    "English": "to ask"
+  },
+  {
+    "Italian": "rispondere",
+    "English": "to answer"
+  },
+  {
+    "Italian": "iniziare",
+    "English": "to start"
+  },
+  {
+    "Italian": "finire",
+    "English": "to finish"
+  },
+  {
+    "Italian": "giocattolo",
+    "English": "toy"
+  },
+  {
+    "Italian": "animale",
+    "English": "animal"
+  },
+  {
+    "Italian": "cane",
+    "English": "dog"
   },
   {
     "Italian": "gatto",
     "English": "cat"
   },
   {
-    "Italian": "casa",
-    "English": "house"
+    "Italian": "uccello",
+    "English": "bird"
+  },
+  {
+    "Italian": "pesce",
+    "English": "fish"
+  },
+  {
+    "Italian": "mucca",
+    "English": "cow"
+  },
+  {
+    "Italian": "cavallo",
+    "English": "horse"
+  },
+  {
+    "Italian": "pecora",
+    "English": "sheep"
+  },
+  {
+    "Italian": "maiale",
+    "English": "pig"
+  },
+  {
+    "Italian": "scimmia",
+    "English": "monkey"
+  },
+  {
+    "Italian": "orso",
+    "English": "bear"
+  },
+  {
+    "Italian": "leone",
+    "English": "lion"
+  },
+  {
+    "Italian": "tigre",
+    "English": "tiger"
+  },
+  {
+    "Italian": "elefante",
+    "English": "elephant"
+  },
+  {
+    "Italian": "zebra",
+    "English": "zebra"
+  },
+  {
+    "Italian": "animale domestico",
+    "English": "pet"
+  },
+  {
+    "Italian": "insetto",
+    "English": "insect"
+  },
+  {
+    "Italian": "ragno",
+    "English": "spider"
+  },
+  {
+    "Italian": "ape",
+    "English": "bee"
+  },
+  {
+    "Italian": "formica",
+    "English": "ant"
+  },
+  {
+    "Italian": "farfalla",
+    "English": "butterfly"
+  },
+  {
+    "Italian": "tempo",
+    "English": "weather/time"
+  },
+  {
+    "Italian": "sole",
+    "English": "sun"
+  },
+  {
+    "Italian": "pioggia",
+    "English": "rain"
+  },
+  {
+    "Italian": "neve",
+    "English": "snow"
+  },
+  {
+    "Italian": "vento",
+    "English": "wind"
+  },
+  {
+    "Italian": "nuvola",
+    "English": "cloud"
+  },
+  {
+    "Italian": "cielo",
+    "English": "sky"
+  },
+  {
+    "Italian": "freddo",
+    "English": "cold"
+  },
+  {
+    "Italian": "caldo",
+    "English": "hot"
+  },
+  {
+    "Italian": "primavera",
+    "English": "spring"
+  },
+  {
+    "Italian": "estate",
+    "English": "summer"
+  },
+  {
+    "Italian": "autunno",
+    "English": "autumn"
+  },
+  {
+    "Italian": "inverno",
+    "English": "winter"
+  },
+  {
+    "Italian": "giorno",
+    "English": "day"
+  },
+  {
+    "Italian": "notte",
+    "English": "night"
+  },
+  {
+    "Italian": "mattina",
+    "English": "morning"
+  },
+  {
+    "Italian": "pomeriggio",
+    "English": "afternoon"
+  },
+  {
+    "Italian": "sera",
+    "English": "evening"
+  },
+  {
+    "Italian": "oggi",
+    "English": "today"
+  },
+  {
+    "Italian": "domani",
+    "English": "tomorrow"
+  },
+  {
+    "Italian": "ieri",
+    "English": "yesterday"
+  },
+  {
+    "Italian": "settimana",
+    "English": "week"
+  },
+  {
+    "Italian": "mese",
+    "English": "month"
+  },
+  {
+    "Italian": "anno",
+    "English": "year"
+  },
+  {
+    "Italian": "lunedì",
+    "English": "Monday"
+  },
+  {
+    "Italian": "martedì",
+    "English": "Tuesday"
+  },
+  {
+    "Italian": "mercoledì",
+    "English": "Wednesday"
+  },
+  {
+    "Italian": "giovedì",
+    "English": "Thursday"
+  },
+  {
+    "Italian": "venerdì",
+    "English": "Friday"
+  },
+  {
+    "Italian": "sabato",
+    "English": "Saturday"
+  },
+  {
+    "Italian": "domenica",
+    "English": "Sunday"
+  },
+  {
+    "Italian": "gennaio",
+    "English": "January"
+  },
+  {
+    "Italian": "febbraio",
+    "English": "February"
+  },
+  {
+    "Italian": "marzo",
+    "English": "March"
+  },
+  {
+    "Italian": "aprile",
+    "English": "April"
+  },
+  {
+    "Italian": "maggio",
+    "English": "May"
+  },
+  {
+    "Italian": "giugno",
+    "English": "June"
+  },
+  {
+    "Italian": "luglio",
+    "English": "July"
+  },
+  {
+    "Italian": "agosto",
+    "English": "August"
+  },
+  {
+    "Italian": "settembre",
+    "English": "September"
+  },
+  {
+    "Italian": "ottobre",
+    "English": "October"
+  },
+  {
+    "Italian": "novembre",
+    "English": "November"
+  },
+  {
+    "Italian": "dicembre",
+    "English": "December"
+  },
+  {
+    "Italian": "rosso",
+    "English": "red"
+  },
+  {
+    "Italian": "blu",
+    "English": "blue"
+  },
+  {
+    "Italian": "verde",
+    "English": "green"
+  },
+  {
+    "Italian": "giallo",
+    "English": "yellow"
+  },
+  {
+    "Italian": "arancione",
+    "English": "orange"
+  },
+  {
+    "Italian": "rosa",
+    "English": "pink"
+  },
+  {
+    "Italian": "viola",
+    "English": "purple"
+  },
+  {
+    "Italian": "marrone",
+    "English": "brown"
+  },
+  {
+    "Italian": "bianco",
+    "English": "white"
+  },
+  {
+    "Italian": "nero",
+    "English": "black"
+  },
+  {
+    "Italian": "grigio",
+    "English": "gray"
+  },
+  {
+    "Italian": "chiaro",
+    "English": "light (color)"
+  },
+  {
+    "Italian": "scuro",
+    "English": "dark (color)"
+  },
+  {
+    "Italian": "alto",
+    "English": "tall"
+  },
+  {
+    "Italian": "basso",
+    "English": "short/low"
+  },
+  {
+    "Italian": "grande",
+    "English": "big"
+  },
+  {
+    "Italian": "piccolo",
+    "English": "small"
+  },
+  {
+    "Italian": "lungo",
+    "English": "long"
+  },
+  {
+    "Italian": "corto",
+    "English": "short"
+  },
+  {
+    "Italian": "veloce",
+    "English": "fast"
+  },
+  {
+    "Italian": "lento",
+    "English": "slow"
+  },
+  {
+    "Italian": "forte",
+    "English": "strong"
+  },
+  {
+    "Italian": "debole",
+    "English": "weak"
+  },
+  {
+    "Italian": "pesante",
+    "English": "heavy"
+  },
+  {
+    "Italian": "leggero",
+    "English": "light"
+  },
+  {
+    "Italian": "facile",
+    "English": "easy"
+  },
+  {
+    "Italian": "difficile",
+    "English": "difficult"
+  },
+  {
+    "Italian": "pulito",
+    "English": "clean"
+  },
+  {
+    "Italian": "sporco",
+    "English": "dirty"
+  },
+  {
+    "Italian": "giovane",
+    "English": "young"
+  },
+  {
+    "Italian": "vecchio",
+    "English": "old"
+  },
+  {
+    "Italian": "nuovo",
+    "English": "new"
+  },
+  {
+    "Italian": "vecchio",
+    "English": "old"
+  },
+  {
+    "Italian": "bello",
+    "English": "beautiful"
+  },
+  {
+    "Italian": "brutto",
+    "English": "ugly"
+  },
+  {
+    "Italian": "buono",
+    "English": "good"
+  },
+  {
+    "Italian": "cattivo",
+    "English": "bad"
+  },
+  {
+    "Italian": "felice",
+    "English": "happy"
+  },
+  {
+    "Italian": "triste",
+    "English": "sad"
+  },
+  {
+    "Italian": "arrabbiato",
+    "English": "angry"
+  },
+  {
+    "Italian": "stanco",
+    "English": "tired"
+  },
+  {
+    "Italian": "malato",
+    "English": "sick"
+  },
+  {
+    "Italian": "sano",
+    "English": "healthy"
+  },
+  {
+    "Italian": "ricco",
+    "English": "rich"
+  },
+  {
+    "Italian": "povero",
+    "English": "poor"
+  },
+  {
+    "Italian": "aperto",
+    "English": "open"
+  },
+  {
+    "Italian": "chiuso",
+    "English": "closed"
+  },
+  {
+    "Italian": "giusto",
+    "English": "right/correct"
+  },
+  {
+    "Italian": "sbagliato",
+    "English": "wrong"
+  },
+  {
+    "Italian": "vero",
+    "English": "true"
+  },
+  {
+    "Italian": "falso",
+    "English": "false"
+  },
+  {
+    "Italian": "fortunato",
+    "English": "lucky"
+  },
+  {
+    "Italian": "sfortunato",
+    "English": "unlucky"
+  },
+  {
+    "Italian": "contento",
+    "English": "content"
+  },
+  {
+    "Italian": "preoccupato",
+    "English": "worried"
+  },
+  {
+    "Italian": "calmo",
+    "English": "calm"
+  },
+  {
+    "Italian": "nervoso",
+    "English": "nervous"
+  },
+  {
+    "Italian": "silenzioso",
+    "English": "quiet"
+  },
+  {
+    "Italian": "rumoroso",
+    "English": "noisy"
+  },
+  {
+    "Italian": "educato",
+    "English": "polite"
+  },
+  {
+    "Italian": "scortese",
+    "English": "impolite"
+  },
+  {
+    "Italian": "gentile",
+    "English": "kind"
+  },
+  {
+    "Italian": "cattivo",
+    "English": "mean"
+  },
+  {
+    "Italian": "intelligente",
+    "English": "intelligent"
+  },
+  {
+    "Italian": "stupido",
+    "English": "stupid"
+  },
+  {
+    "Italian": "onesto",
+    "English": "honest"
+  },
+  {
+    "Italian": "bugiardo",
+    "English": "liar"
+  },
+  {
+    "Italian": "simpatico",
+    "English": "nice/friendly"
+  },
+  {
+    "Italian": "antipatico",
+    "English": "unfriendly"
+  },
+  {
+    "Italian": "timido",
+    "English": "shy"
+  },
+  {
+    "Italian": "sicuro",
+    "English": "safe/confident"
+  },
+  {
+    "Italian": "pericoloso",
+    "English": "dangerous"
+  },
+  {
+    "Italian": "occupato",
+    "English": "busy"
+  },
+  {
+    "Italian": "libero",
+    "English": "free"
+  },
+  {
+    "Italian": "interessante",
+    "English": "interesting"
+  },
+  {
+    "Italian": "noioso",
+    "English": "boring"
+  },
+  {
+    "Italian": "divertente",
+    "English": "fun"
+  },
+  {
+    "Italian": "importante",
+    "English": "important"
+  },
+  {
+    "Italian": "necessario",
+    "English": "necessary"
+  },
+  {
+    "Italian": "utile",
+    "English": "useful"
+  },
+  {
+    "Italian": "inutile",
+    "English": "useless"
+  },
+  {
+    "Italian": "pronto",
+    "English": "ready"
+  },
+  {
+    "Italian": "famoso",
+    "English": "famous"
+  },
+  {
+    "Italian": "normale",
+    "English": "normal"
+  },
+  {
+    "Italian": "strano",
+    "English": "strange"
+  },
+  {
+    "Italian": "locale",
+    "English": "local"
+  },
+  {
+    "Italian": "internazionale",
+    "English": "international"
+  },
+  {
+    "Italian": "personale",
+    "English": "personal"
+  },
+  {
+    "Italian": "pubblico",
+    "English": "public"
+  },
+  {
+    "Italian": "fortunatamente",
+    "English": "fortunately"
+  },
+  {
+    "Italian": "sfortunatamente",
+    "English": "unfortunately"
+  },
+  {
+    "Italian": "probabilmente",
+    "English": "probably"
+  },
+  {
+    "Italian": "semplicemente",
+    "English": "simply"
+  },
+  {
+    "Italian": "finalmente",
+    "English": "finally"
+  },
+  {
+    "Italian": "normalmente",
+    "English": "normally"
+  },
+  {
+    "Italian": "spesso",
+    "English": "often"
+  },
+  {
+    "Italian": "raramente",
+    "English": "rarely"
+  },
+  {
+    "Italian": "ogni",
+    "English": "every"
+  },
+  {
+    "Italian": "qualche",
+    "English": "some"
+  },
+  {
+    "Italian": "alcuni",
+    "English": "some (plural)"
+  },
+  {
+    "Italian": "nessuno",
+    "English": "no one"
+  },
+  {
+    "Italian": "tutti",
+    "English": "everyone"
+  },
+  {
+    "Italian": "qualcuno",
+    "English": "someone"
+  },
+  {
+    "Italian": "qualcosa",
+    "English": "something"
+  },
+  {
+    "Italian": "niente",
+    "English": "nothing"
+  },
+  {
+    "Italian": "ognuno",
+    "English": "everyone (individual)"
+  },
+  {
+    "Italian": "altro",
+    "English": "other"
+  },
+  {
+    "Italian": "stesso",
+    "English": "same"
+  },
+  {
+    "Italian": "diverso",
+    "English": "different"
+  },
+  {
+    "Italian": "prima",
+    "English": "before"
+  },
+  {
+    "Italian": "dopo",
+    "English": "after"
+  },
+  {
+    "Italian": "durante",
+    "English": "during"
+  },
+  {
+    "Italian": "mentre",
+    "English": "while"
+  },
+  {
+    "Italian": "senza",
+    "English": "without"
+  },
+  {
+    "Italian": "con",
+    "English": "with"
+  },
+  {
+    "Italian": "sotto",
+    "English": "under"
+  },
+  {
+    "Italian": "sopra",
+    "English": "above"
+  },
+  {
+    "Italian": "contro",
+    "English": "against"
+  },
+  {
+    "Italian": "verso",
+    "English": "toward"
+  },
+  {
+    "Italian": "intorno",
+    "English": "around"
+  },
+  {
+    "Italian": "dentro",
+    "English": "inside"
+  },
+  {
+    "Italian": "fuori",
+    "English": "outside"
+  },
+  {
+    "Italian": "oltre",
+    "English": "beyond"
+  },
+  {
+    "Italian": "circa",
+    "English": "about/around"
+  },
+  {
+    "Italian": "secondo",
+    "English": "according to"
+  },
+  {
+    "Italian": "invece",
+    "English": "instead"
+  },
+  {
+    "Italian": "anche",
+    "English": "also"
+  },
+  {
+    "Italian": "pure",
+    "English": "too/as well"
+  },
+  {
+    "Italian": "perfino",
+    "English": "even"
+  },
+  {
+    "Italian": "neanche",
+    "English": "not even"
+  },
+  {
+    "Italian": "anzi",
+    "English": "on the contrary"
+  },
+  {
+    "Italian": "cioè",
+    "English": "that is"
+  },
+  {
+    "Italian": "infatti",
+    "English": "in fact"
+  },
+  {
+    "Italian": "dunque",
+    "English": "so/therefore"
+  },
+  {
+    "Italian": "perciò",
+    "English": "therefore"
+  },
+  {
+    "Italian": "allora",
+    "English": "then/so"
+  },
+  {
+    "Italian": "insomma",
+    "English": "in short"
+  },
+  {
+    "Italian": "comunque",
+    "English": "anyway"
+  },
+  {
+    "Italian": "magari",
+    "English": "maybe/perhaps"
+  },
+  {
+    "Italian": "addirittura",
+    "English": "even (emphatic)"
+  },
+  {
+    "Italian": "appena",
+    "English": "just (now)"
+  },
+  {
+    "Italian": "quasi",
+    "English": "almost"
+  },
+  {
+    "Italian": "giusto",
+    "English": "right"
+  },
+  {
+    "Italian": "esatto",
+    "English": "exact"
+  },
+  {
+    "Italian": "preciso",
+    "English": "precise"
+  },
+  {
+    "Italian": "chiaro",
+    "English": "clear"
+  },
+  {
+    "Italian": "ovviamente",
+    "English": "obviously"
+  },
+  {
+    "Italian": "naturalmente",
+    "English": "naturally"
+  },
+  {
+    "Italian": "certamente",
+    "English": "certainly"
+  },
+  {
+    "Italian": "assolutamente",
+    "English": "absolutely"
+  },
+  {
+    "Italian": "forse",
+    "English": "maybe"
+  },
+  {
+    "Italian": "probabile",
+    "English": "likely"
+  },
+  {
+    "Italian": "impossibile",
+    "English": "impossible"
+  },
+  {
+    "Italian": "possibile",
+    "English": "possible"
+  },
+  {
+    "Italian": "vero",
+    "English": "true"
+  },
+  {
+    "Italian": "falso",
+    "English": "false"
+  },
+  {
+    "Italian": "pieno",
+    "English": "full"
+  },
+  {
+    "Italian": "vuoto",
+    "English": "empty"
+  },
+  {
+    "Italian": "lontano",
+    "English": "far"
+  },
+  {
+    "Italian": "vicino",
+    "English": "near"
+  },
+  {
+    "Italian": "dietro",
+    "English": "behind"
+  },
+  {
+    "Italian": "davanti",
+    "English": "in front"
+  },
+  {
+    "Italian": "insieme",
+    "English": "together"
+  },
+  {
+    "Italian": "da solo",
+    "English": "alone"
+  },
+  {
+    "Italian": "per esempio",
+    "English": "for example"
+  },
+  {
+    "Italian": "per favore",
+    "English": "please"
   },
   {
     "Italian": "grazie",
     "English": "thank you"
+  },
+  {
+    "Italian": "prego",
+    "English": "you’re welcome"
+  },
+  {
+    "Italian": "scusa",
+    "English": "excuse me/sorry"
+  },
+  {
+    "Italian": "mi dispiace",
+    "English": "I’m sorry"
+  },
+  {
+    "Italian": "sì",
+    "English": "yes"
+  },
+  {
+    "Italian": "porta",
+    "English": "door"
   }
 ]

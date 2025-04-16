@@ -1,76 +1,103 @@
 # 🧠 FlashCard Pro – Multi-Language Desktop App
 
-An elegant, animated flashcard app that helps you master daily conversational vocabulary in multiple languages.
+An elegant, animated flashcard app that helps you master daily conversational vocabulary in multiple languages. Built with `Tkinter` and `ttkbootstrap`, this desktop tool brings together polished UI, smooth flip animations, and persistent progress tracking across four languages.
+
+---
+
+## 🎥 Demo
+
+![Demo](media/demo/demo.gif)
 
 ---
 
 ## 🚀 Features
 
-- 🔤 **Supports Multiple Languages** (French, German, Italian, Spanish)
-- 🧠 **Learn Mode**: Automatically flips flashcards to show English translation
-- ❌✅ **Track Progress**: Mark known words, and they won't reappear
-- 💾 **Persistent Progress**: Saves your learned words even after closing the app
-- 🔁 **Reset Anytime**: Reset your progress and start fresh
-- 🏠 **Home Navigation**: Switch languages or restart from the main screen
-- ✨ **Polished Flip Animation**: Smooth card flip (front to back) and return animation when pressing ❌
-- 🪄 **Professional UI**: Built with `ttkbootstrap` for a modern, stylish look
-- 🧯 **Safe Exit Handling**: Clean shutdown with no terminal errors
+- 🔤 **Multiple Language Support** – French, German, Italian, and Spanish word banks
+- ✨ **Smooth Flip Animations** – Realistic flashcard front-to-back transitions
+- ✅ ❌ **Mark Known/Unknown** – Known words are removed from rotation
+- 💾 **Persistent Progress** – Progress is saved to disk and restored on restart
+- 🔁 **Reset Anytime** – One-click reset lets you start fresh
+- 🏠 **Home Navigation** – Switch between languages easily
+- 🧯 **Safe Exit Handling** – Graceful shutdown with no terminal errors
+- 🎨 **Modern Look** – Clean interface using `ttkbootstrap`
 
 ---
 
-## 📂 Folder Structure
+## 🖼️ Screenshots
 
-```
-flash_card_app/
-│
-├── data/                  # Contains CSV word lists (e.g., french_words.csv)
-├── progress/              # Stores user progress in JSON
-├── images/                # All card images and icons
-├── main.py                # Launches the home screen
-├── flashcard_ui.py        # Core GUI and logic
-└── README.md              # This file
-```
+| Home Screen | Flashcard View |
+|-------------|----------------|
+| ![Home](media/screenshots/home.png) | ![Flashcard](media/screenshots/flashcard.png) |
+
+*(Optional – you can add these images to `media/screenshots/`)*
 
 ---
 
-## 🧪 Technologies Used
+## 💻 How to Run Locally
 
-- `Python 3`
-- `Tkinter`
-- `PIL` (Pillow)
-- `ttkbootstrap`
-- `pandas` (for CSV reading)
-
----
-
-## 🛠️ Installation
-
-1. Clone the repo:
+1. **Clone the repository**
 ```bash
 git clone https://github.com/your-username/flashcard-pro.git
+cd flashcard-pro
 ```
 
-2. Install dependencies:
+2. **Install dependencies**
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Run the app:
+3. **Run the app**
 ```bash
 python main.py
 ```
 
 ---
 
-## 💡 Future Ideas
+## 📚 What I Learned
 
-- Web version using Flask or Django
-- Sound effects
-- Dark/light mode toggle
-- Keyboard support
+- Creating multi-screen Tkinter apps with smooth state transitions
+- Handling and debugging asynchronous animations using `.after()` callbacks
+- Managing persistent state using local JSON files
+- Designing user-friendly UIs using `ttkbootstrap`
+- Building reusable logic with modular `data_manager.py` and clean UI structure
 
 ---
 
-## 📜 License
+## 🧪 Tech Stack
 
-MIT — free to use, modify, and learn from.
+- `Python 3`
+- `Tkinter`
+- `ttkbootstrap`
+- `Pillow (PIL)`
+- `pandas`
+
+---
+
+## 🌱 Future Improvements
+
+- Sound effects when flipping cards or completing decks
+- Dark/light mode toggle
+- Web-based version using Flask or Django
+- Keyboard shortcuts for ❌ and ✅
+- Stats dashboard (words learned, time spent, etc.)
+- Support for user-added word packs
+
+---
+
+## 🗂️ Project Structure
+
+```
+flash_card_app/
+│
+├── assets/                 # CSV word lists (french_words.csv, etc.)
+├── progress/               # Progress-tracking JSON files
+├── images/                 # Card front/back + icon images
+├── media/
+│   ├── demo/               # GIF demo
+│   └── screenshots/        # Optional screenshots for README
+├── flashcard_ui.py         # Flashcard UI logic and animation
+├── data_manager.py         # Word loading and progress management
+├── main.py                 # Home screen launcher
+├── requirements.txt        # Project dependencies
+└── README.md               # This file
+```

@@ -1,14 +1,1998 @@
 [
   {
-    "German": "hallo",
-    "English": "hello"
+    "German": "ich",
+    "English": "I"
   },
   {
-    "German": "haus",
+    "German": "du",
+    "English": "you (informal singular)"
+  },
+  {
+    "German": "er",
+    "English": "he"
+  },
+  {
+    "German": "es",
+    "English": "it"
+  },
+  {
+    "German": "wir",
+    "English": "we"
+  },
+  {
+    "German": "ihr",
+    "English": "you (informal plural)"
+  },
+  {
+    "German": "Sie",
+    "English": "you (formal)"
+  },
+  {
+    "German": "was",
+    "English": "what"
+  },
+  {
+    "German": "wer",
+    "English": "who"
+  },
+  {
+    "German": "wie",
+    "English": "how"
+  },
+  {
+    "German": "wo",
+    "English": "where"
+  },
+  {
+    "German": "warum",
+    "English": "why"
+  },
+  {
+    "German": "wann",
+    "English": "when"
+  },
+  {
+    "German": "nicht",
+    "English": "not"
+  },
+  {
+    "German": "kein",
+    "English": "no/none"
+  },
+  {
+    "German": "ja",
+    "English": "yes"
+  },
+  {
+    "German": "nein",
+    "English": "no"
+  },
+  {
+    "German": "und",
+    "English": "and"
+  },
+  {
+    "German": "aber",
+    "English": "but"
+  },
+  {
+    "German": "oder",
+    "English": "or"
+  },
+  {
+    "German": "denn",
+    "English": "because"
+  },
+  {
+    "German": "dass",
+    "English": "that"
+  },
+  {
+    "German": "wenn",
+    "English": "if/when"
+  },
+  {
+    "German": "weil",
+    "English": "because"
+  },
+  {
+    "German": "ob",
+    "English": "whether"
+  },
+  {
+    "German": "mit",
+    "English": "with"
+  },
+  {
+    "German": "ohne",
+    "English": "without"
+  },
+  {
+    "German": "für",
+    "English": "for"
+  },
+  {
+    "German": "gegen",
+    "English": "against"
+  },
+  {
+    "German": "um",
+    "English": "to/in order to"
+  },
+  {
+    "German": "an",
+    "English": "at/on"
+  },
+  {
+    "German": "auf",
+    "English": "on"
+  },
+  {
+    "German": "in",
+    "English": "in"
+  },
+  {
+    "German": "unter",
+    "English": "under"
+  },
+  {
+    "German": "über",
+    "English": "over/about"
+  },
+  {
+    "German": "neben",
+    "English": "next to"
+  },
+  {
+    "German": "zwischen",
+    "English": "between"
+  },
+  {
+    "German": "vor",
+    "English": "before/in front of"
+  },
+  {
+    "German": "hinter",
+    "English": "behind"
+  },
+  {
+    "German": "aus",
+    "English": "out of"
+  },
+  {
+    "German": "zu",
+    "English": "to"
+  },
+  {
+    "German": "nach",
+    "English": "after/to"
+  },
+  {
+    "German": "von",
+    "English": "from/of"
+  },
+  {
+    "German": "bei",
+    "English": "at/near"
+  },
+  {
+    "German": "seit",
+    "English": "since"
+  },
+  {
+    "German": "bis",
+    "English": "until"
+  },
+  {
+    "German": "durch",
+    "English": "through"
+  },
+  {
+    "German": "dies",
+    "English": "this"
+  },
+  {
+    "German": "das",
+    "English": "that/the"
+  },
+  {
+    "German": "ein",
+    "English": "a/an (masculine/neuter)"
+  },
+  {
+    "German": "eine",
+    "English": "a/an (feminine)"
+  },
+  {
+    "German": "der",
+    "English": "the (masculine)"
+  },
+  {
+    "German": "die",
+    "English": "the (feminine/plural)"
+  },
+  {
+    "German": "mein",
+    "English": "my"
+  },
+  {
+    "German": "dein",
+    "English": "your (informal singular)"
+  },
+  {
+    "German": "sein",
+    "English": "his/its"
+  },
+  {
+    "German": "unser",
+    "English": "our"
+  },
+  {
+    "German": "euer",
+    "English": "your (plural informal)"
+  },
+  {
+    "German": "Ihr",
+    "English": "your (formal)"
+  },
+  {
+    "German": "werde",
+    "English": "will/become (1st person)"
+  },
+  {
+    "German": "wirst",
+    "English": "will/become (2nd person)"
+  },
+  {
+    "German": "wird",
+    "English": "will/become (3rd person)"
+  },
+  {
+    "German": "sind",
+    "English": "are (1st/3rd person plural)"
+  },
+  {
+    "German": "ist",
+    "English": "is"
+  },
+  {
+    "German": "war",
+    "English": "was (1st/3rd person)"
+  },
+  {
+    "German": "waren",
+    "English": "were"
+  },
+  {
+    "German": "hat",
+    "English": "has"
+  },
+  {
+    "German": "habe",
+    "English": "have"
+  },
+  {
+    "German": "hast",
+    "English": "have (2nd person)"
+  },
+  {
+    "German": "hatte",
+    "English": "had"
+  },
+  {
+    "German": "kann",
+    "English": "can"
+  },
+  {
+    "German": "können",
+    "English": "can (plural)"
+  },
+  {
+    "German": "muss",
+    "English": "must"
+  },
+  {
+    "German": "müssen",
+    "English": "must (plural)"
+  },
+  {
+    "German": "soll",
+    "English": "should"
+  },
+  {
+    "German": "sollen",
+    "English": "should (plural)"
+  },
+  {
+    "German": "will",
+    "English": "want"
+  },
+  {
+    "German": "wollen",
+    "English": "want (plural)"
+  },
+  {
+    "German": "mag",
+    "English": "like"
+  },
+  {
+    "German": "mögen",
+    "English": "like (plural)"
+  },
+  {
+    "German": "weiß",
+    "English": "know"
+  },
+  {
+    "German": "wissen",
+    "English": "to know"
+  },
+  {
+    "German": "sehe",
+    "English": "see"
+  },
+  {
+    "German": "siehst",
+    "English": "see (2nd person)"
+  },
+  {
+    "German": "sieht",
+    "English": "sees"
+  },
+  {
+    "German": "sehen",
+    "English": "to see"
+  },
+  {
+    "German": "sage",
+    "English": "say"
+  },
+  {
+    "German": "sagst",
+    "English": "say (2nd person)"
+  },
+  {
+    "German": "sagt",
+    "English": "says"
+  },
+  {
+    "German": "sagen",
+    "English": "to say"
+  },
+  {
+    "German": "mache",
+    "English": "do/make"
+  },
+  {
+    "German": "machst",
+    "English": "do/make (2nd person)"
+  },
+  {
+    "German": "macht",
+    "English": "does/makes"
+  },
+  {
+    "German": "machen",
+    "English": "to do/make"
+  },
+  {
+    "German": "gehe",
+    "English": "go"
+  },
+  {
+    "German": "gehst",
+    "English": "go (2nd person)"
+  },
+  {
+    "German": "geht",
+    "English": "goes"
+  },
+  {
+    "German": "gehen",
+    "English": "to go"
+  },
+  {
+    "German": "komme",
+    "English": "come"
+  },
+  {
+    "German": "kommst",
+    "English": "come (2nd person)"
+  },
+  {
+    "German": "kommt",
+    "English": "comes"
+  },
+  {
+    "German": "kommen",
+    "English": "to come"
+  },
+  {
+    "German": "den",
+    "English": "the (accusative masculine)"
+  },
+  {
+    "German": "dem",
+    "English": "the (dative masculine/neuter)"
+  },
+  {
+    "German": "einen",
+    "English": "a/an (accusative masculine)"
+  },
+  {
+    "German": "einem",
+    "English": "a/an (dative masculine/neuter)"
+  },
+  {
+    "German": "einer",
+    "English": "a/an (dative feminine)"
+  },
+  {
+    "German": "dieser",
+    "English": "this (masculine)"
+  },
+  {
+    "German": "diese",
+    "English": "this (feminine/plural)"
+  },
+  {
+    "German": "dieses",
+    "English": "this (neuter)"
+  },
+  {
+    "German": "jeder",
+    "English": "every (masculine)"
+  },
+  {
+    "German": "jede",
+    "English": "every (feminine)"
+  },
+  {
+    "German": "jedes",
+    "English": "every (neuter)"
+  },
+  {
+    "German": "man",
+    "English": "one/people/you (general)"
+  },
+  {
+    "German": "jemand",
+    "English": "someone"
+  },
+  {
+    "German": "niemand",
+    "English": "no one"
+  },
+  {
+    "German": "alle",
+    "English": "everyone/all"
+  },
+  {
+    "German": "alles",
+    "English": "everything"
+  },
+  {
+    "German": "etwas",
+    "English": "something"
+  },
+  {
+    "German": "nichts",
+    "English": "nothing"
+  },
+  {
+    "German": "viele",
+    "English": "many"
+  },
+  {
+    "German": "wenige",
+    "English": "few"
+  },
+  {
+    "German": "mehr",
+    "English": "more"
+  },
+  {
+    "German": "weniger",
+    "English": "less"
+  },
+  {
+    "German": "andere",
+    "English": "other"
+  },
+  {
+    "German": "neu",
+    "English": "new"
+  },
+  {
+    "German": "alt",
+    "English": "old"
+  },
+  {
+    "German": "jung",
+    "English": "young"
+  },
+  {
+    "German": "groß",
+    "English": "large/big"
+  },
+  {
+    "German": "klein",
+    "English": "small"
+  },
+  {
+    "German": "lang",
+    "English": "long"
+  },
+  {
+    "German": "kurz",
+    "English": "short"
+  },
+  {
+    "German": "gut",
+    "English": "good"
+  },
+  {
+    "German": "schlecht",
+    "English": "bad"
+  },
+  {
+    "German": "schön",
+    "English": "beautiful"
+  },
+  {
+    "German": "hässlich",
+    "English": "ugly"
+  },
+  {
+    "German": "richtig",
+    "English": "right/correct"
+  },
+  {
+    "German": "falsch",
+    "English": "wrong/false"
+  },
+  {
+    "German": "heiß",
+    "English": "hot"
+  },
+  {
+    "German": "kalt",
+    "English": "cold"
+  },
+  {
+    "German": "warm",
+    "English": "warm"
+  },
+  {
+    "German": "freundlich",
+    "English": "friendly"
+  },
+  {
+    "German": "nett",
+    "English": "nice"
+  },
+  {
+    "German": "glücklich",
+    "English": "happy"
+  },
+  {
+    "German": "traurig",
+    "English": "sad"
+  },
+  {
+    "German": "müde",
+    "English": "tired"
+  },
+  {
+    "German": "wach",
+    "English": "awake"
+  },
+  {
+    "German": "krank",
+    "English": "sick"
+  },
+  {
+    "German": "gesund",
+    "English": "healthy"
+  },
+  {
+    "German": "schnell",
+    "English": "fast"
+  },
+  {
+    "German": "langsam",
+    "English": "slow"
+  },
+  {
+    "German": "laut",
+    "English": "loud"
+  },
+  {
+    "German": "leise",
+    "English": "quiet"
+  },
+  {
+    "German": "stark",
+    "English": "strong"
+  },
+  {
+    "German": "schwach",
+    "English": "weak"
+  },
+  {
+    "German": "leicht",
+    "English": "light/easy"
+  },
+  {
+    "German": "schwer",
+    "English": "heavy/hard"
+  },
+  {
+    "German": "früh",
+    "English": "early"
+  },
+  {
+    "German": "spät",
+    "English": "late"
+  },
+  {
+    "German": "bereit",
+    "English": "ready"
+  },
+  {
+    "German": "interessant",
+    "English": "interesting"
+  },
+  {
+    "German": "langweilig",
+    "English": "boring"
+  },
+  {
+    "German": "wichtig",
+    "English": "important"
+  },
+  {
+    "German": "möglich",
+    "English": "possible"
+  },
+  {
+    "German": "unmöglich",
+    "English": "impossible"
+  },
+  {
+    "German": "dunkel",
+    "English": "dark"
+  },
+  {
+    "German": "hell",
+    "English": "bright"
+  },
+  {
+    "German": "nah",
+    "English": "near"
+  },
+  {
+    "German": "fern",
+    "English": "far"
+  },
+  {
+    "German": "oben",
+    "English": "up"
+  },
+  {
+    "German": "unten",
+    "English": "down"
+  },
+  {
+    "German": "drinnen",
+    "English": "inside"
+  },
+  {
+    "German": "draußen",
+    "English": "outside"
+  },
+  {
+    "German": "jetzt",
+    "English": "now"
+  },
+  {
+    "German": "heute",
+    "English": "today"
+  },
+  {
+    "German": "gestern",
+    "English": "yesterday"
+  },
+  {
+    "German": "morgen",
+    "English": "tomorrow"
+  },
+  {
+    "German": "bald",
+    "English": "soon"
+  },
+  {
+    "German": "später",
+    "English": "later"
+  },
+  {
+    "German": "immer",
+    "English": "always"
+  },
+  {
+    "German": "nie",
+    "English": "never"
+  },
+  {
+    "German": "manchmal",
+    "English": "sometimes"
+  },
+  {
+    "German": "oft",
+    "English": "often"
+  },
+  {
+    "German": "selten",
+    "English": "rarely"
+  },
+  {
+    "German": "schon",
+    "English": "already"
+  },
+  {
+    "German": "nicht mehr",
+    "English": "no longer"
+  },
+  {
+    "German": "wieder",
+    "English": "again"
+  },
+  {
+    "German": "einmal",
+    "English": "once"
+  },
+  {
+    "German": "zweimal",
+    "English": "twice"
+  },
+  {
+    "German": "vielleicht",
+    "English": "maybe"
+  },
+  {
+    "German": "natürlich",
+    "English": "of course"
+  },
+  {
+    "German": "wirklich",
+    "English": "really"
+  },
+  {
+    "German": "gern",
+    "English": "gladly"
+  },
+  {
+    "German": "lieber",
+    "English": "rather/preferably"
+  },
+  {
+    "German": "am liebsten",
+    "English": "most preferably"
+  },
+  {
+    "German": "immer noch",
+    "English": "still"
+  },
+  {
+    "German": "schließlich",
+    "English": "eventually/finally"
+  },
+  {
+    "German": "plötzlich",
+    "English": "suddenly"
+  },
+  {
+    "German": "oftmals",
+    "English": "often"
+  },
+  {
+    "German": "beide",
+    "English": "both"
+  },
+  {
+    "German": "mehrere",
+    "English": "several"
+  },
+  {
+    "German": "ein paar",
+    "English": "a few"
+  },
+  {
+    "German": "einige",
+    "English": "some"
+  },
+  {
+    "German": "alleine",
+    "English": "alone"
+  },
+  {
+    "German": "zusammen",
+    "English": "together"
+  },
+  {
+    "German": "manuell",
+    "English": "manually"
+  },
+  {
+    "German": "automatisch",
+    "English": "automatically"
+  },
+  {
+    "German": "sicher",
+    "English": "safe/sure"
+  },
+  {
+    "German": "unsicher",
+    "English": "unsafe/uncertain"
+  },
+  {
+    "German": "fertig",
+    "English": "finished/ready"
+  },
+  {
+    "German": "offen",
+    "English": "open"
+  },
+  {
+    "German": "geschlossen",
+    "English": "closed"
+  },
+  {
+    "German": "leer",
+    "English": "empty"
+  },
+  {
+    "German": "voll",
+    "English": "full"
+  },
+  {
+    "German": "ganz",
+    "English": "whole/entire"
+  },
+  {
+    "German": "halb",
+    "English": "half"
+  },
+  {
+    "German": "vorne",
+    "English": "in front"
+  },
+  {
+    "German": "hinten",
+    "English": "at the back"
+  },
+  {
+    "German": "links",
+    "English": "left"
+  },
+  {
+    "German": "rechts",
+    "English": "right"
+  },
+  {
+    "German": "hier",
+    "English": "here"
+  },
+  {
+    "German": "dort",
+    "English": "there"
+  },
+  {
+    "German": "überall",
+    "English": "everywhere"
+  },
+  {
+    "German": "nirgendwo",
+    "English": "nowhere"
+  },
+  {
+    "German": "irgendwo",
+    "English": "somewhere"
+  },
+  {
+    "German": "niemanden",
+    "English": "no one (accusative)"
+  },
+  {
+    "German": "jemanden",
+    "English": "someone (accusative)"
+  },
+  {
+    "German": "mich",
+    "English": "me (accusative)"
+  },
+  {
+    "German": "dich",
+    "English": "you"
+  },
+  {
+    "German": "ihn",
+    "English": "him"
+  },
+  {
+    "German": "uns",
+    "English": "us"
+  },
+  {
+    "German": "euch",
+    "English": "you (plural informal)"
+  },
+  {
+    "German": "mir",
+    "English": "to me (dative)"
+  },
+  {
+    "German": "dir",
+    "English": "to you (informal)"
+  },
+  {
+    "German": "ihm",
+    "English": "to him"
+  },
+  {
+    "German": "ihnen",
+    "English": "to them"
+  },
+  {
+    "German": "Ihnen",
+    "English": "to you (formal)"
+  },
+  {
+    "German": "jenes",
+    "English": "that (neuter)"
+  },
+  {
+    "German": "solch",
+    "English": "such"
+  },
+  {
+    "German": "welcher",
+    "English": "which (masculine)"
+  },
+  {
+    "German": "welche",
+    "English": "which (feminine/plural)"
+  },
+  {
+    "German": "welches",
+    "English": "which (neuter)"
+  },
+  {
+    "German": "was für",
+    "English": "what kind of"
+  },
+  {
+    "German": "wie viel",
+    "English": "how much"
+  },
+  {
+    "German": "wie viele",
+    "English": "how many"
+  },
+  {
+    "German": "irgendjemand",
+    "English": "anybody"
+  },
+  {
+    "German": "mancher",
+    "English": "some (masculine)"
+  },
+  {
+    "German": "manche",
+    "English": "some (feminine/plural)"
+  },
+  {
+    "German": "manches",
+    "English": "some (neuter)"
+  },
+  {
+    "German": "viel",
+    "English": "a lot"
+  },
+  {
+    "German": "wenig",
+    "English": "little"
+  },
+  {
+    "German": "genug",
+    "English": "enough"
+  },
+  {
+    "German": "zu viel",
+    "English": "too much"
+  },
+  {
+    "German": "zu wenig",
+    "English": "too little"
+  },
+  {
+    "German": "mehr als",
+    "English": "more than"
+  },
+  {
+    "German": "weniger als",
+    "English": "less than"
+  },
+  {
+    "German": "mindestens",
+    "English": "at least"
+  },
+  {
+    "German": "höchstens",
+    "English": "at most"
+  },
+  {
+    "German": "circa",
+    "English": "about/approximately"
+  },
+  {
+    "German": "ungefähr",
+    "English": "approximately"
+  },
+  {
+    "German": "fast",
+    "English": "almost"
+  },
+  {
+    "German": "genau",
+    "English": "exactly"
+  },
+  {
+    "German": "nur",
+    "English": "only"
+  },
+  {
+    "German": "auch",
+    "English": "also/too"
+  },
+  {
+    "German": "sogar",
+    "English": "even"
+  },
+  {
+    "German": "eben",
+    "English": "just now"
+  },
+  {
+    "German": "gerade",
+    "English": "just/just now"
+  },
+  {
+    "German": "doch",
+    "English": "however/but/still"
+  },
+  {
+    "German": "noch",
+    "English": "still/yet"
+  },
+  {
+    "German": "niemals",
+    "English": "never"
+  },
+  {
+    "German": "kaum",
+    "English": "hardly"
+  },
+  {
+    "German": "wohl",
+    "English": "probably"
+  },
+  {
+    "German": "eventuell",
+    "English": "possibly"
+  },
+  {
+    "German": "bestimmt",
+    "English": "definitely"
+  },
+  {
+    "German": "eigentlich",
+    "English": "actually"
+  },
+  {
+    "German": "tatsächlich",
+    "English": "indeed/actually"
+  },
+  {
+    "German": "offensichtlich",
+    "English": "obviously"
+  },
+  {
+    "German": "dennoch",
+    "English": "nevertheless"
+  },
+  {
+    "German": "jedoch",
+    "English": "however"
+  },
+  {
+    "German": "zwar",
+    "English": "indeed (but...)"
+  },
+  {
+    "German": "sowieso",
+    "English": "anyway"
+  },
+  {
+    "German": "übrigens",
+    "English": "by the way"
+  },
+  {
+    "German": "deshalb",
+    "English": "therefore"
+  },
+  {
+    "German": "darum",
+    "English": "that’s why"
+  },
+  {
+    "German": "daher",
+    "English": "from there/hence"
+  },
+  {
+    "German": "weshalb",
+    "English": "why/for what reason"
+  },
+  {
+    "German": "weswegen",
+    "English": "why/for what reason"
+  },
+  {
+    "German": "inzwischen",
+    "English": "meanwhile"
+  },
+  {
+    "German": "mittlerweile",
+    "English": "by now"
+  },
+  {
+    "German": "danach",
+    "English": "after that"
+  },
+  {
+    "German": "darauf",
+    "English": "thereon/afterward"
+  },
+  {
+    "German": "davor",
+    "English": "before that"
+  },
+  {
+    "German": "zuerst",
+    "English": "first"
+  },
+  {
+    "German": "dann",
+    "English": "then"
+  },
+  {
+    "German": "zuletzt",
+    "English": "lastly"
+  },
+  {
+    "German": "endlich",
+    "English": "finally"
+  },
+  {
+    "German": "heutzutage",
+    "English": "nowadays"
+  },
+  {
+    "German": "früher",
+    "English": "formerly"
+  },
+  {
+    "German": "damals",
+    "English": "back then"
+  },
+  {
+    "German": "bisher",
+    "English": "so far"
+  },
+  {
+    "German": "schon einmal",
+    "English": "ever before"
+  },
+  {
+    "German": "noch nie",
+    "English": "never before"
+  },
+  {
+    "German": "ab und zu",
+    "English": "now and then"
+  },
+  {
+    "German": "immer wieder",
+    "English": "again and again"
+  },
+  {
+    "German": "tag",
+    "English": "today"
+  },
+  {
+    "German": "woche",
+    "English": "week"
+  },
+  {
+    "German": "monat",
+    "English": "month"
+  },
+  {
+    "German": "jahr",
+    "English": "year"
+  },
+  {
+    "German": "abend",
+    "English": "evening"
+  },
+  {
+    "German": "nacht",
+    "English": "night"
+  },
+  {
+    "German": "mittwoch",
+    "English": "Wednesday"
+  },
+  {
+    "German": "freitag",
+    "English": "Friday"
+  },
+  {
+    "German": "samstag",
+    "English": "Saturday"
+  },
+  {
+    "German": "sonntag",
+    "English": "Sunday"
+  },
+  {
+    "German": "montag",
+    "English": "Monday"
+  },
+  {
+    "German": "dienstag",
+    "English": "Tuesday"
+  },
+  {
+    "German": "donnerstag",
+    "English": "Thursday"
+  },
+  {
+    "German": "frühstück",
+    "English": "breakfast"
+  },
+  {
+    "German": "mittag",
+    "English": "lunch"
+  },
+  {
+    "German": "abendessen",
+    "English": "dinner"
+  },
+  {
+    "German": "brot",
+    "English": "bread"
+  },
+  {
+    "German": "wasser",
+    "English": "water"
+  },
+  {
+    "German": "kaffee",
+    "English": "coffee"
+  },
+  {
+    "German": "tee",
+    "English": "tea"
+  },
+  {
+    "German": "milch",
+    "English": "milk"
+  },
+  {
+    "German": "saft",
+    "English": "juice"
+  },
+  {
+    "German": "trinken",
+    "English": "to drink"
+  },
+  {
+    "German": "essen",
+    "English": "to eat"
+  },
+  {
+    "German": "kochen",
+    "English": "to cook"
+  },
+  {
+    "German": "backen",
+    "English": "to bake"
+  },
+  {
+    "German": "kaufen",
+    "English": "to buy"
+  },
+  {
+    "German": "verkaufen",
+    "English": "to sell"
+  },
+  {
+    "German": "bezahlen",
+    "English": "to pay"
+  },
+  {
+    "German": "kosten",
+    "English": "to cost"
+  },
+  {
+    "German": "preis",
+    "English": "price"
+  },
+  {
+    "German": "billig",
+    "English": "cheap"
+  },
+  {
+    "German": "teuer",
+    "English": "expensive"
+  },
+  {
+    "German": "laden",
+    "English": "store"
+  },
+  {
+    "German": "supermarkt",
+    "English": "supermarket"
+  },
+  {
+    "German": "geschäft",
+    "English": "shop/business"
+  },
+  {
+    "German": "bäcker",
+    "English": "baker"
+  },
+  {
+    "German": "fleischer",
+    "English": "butcher"
+  },
+  {
+    "German": "markt",
+    "English": "market"
+  },
+  {
+    "German": "öffnen",
+    "English": "to open"
+  },
+  {
+    "German": "schließen",
+    "English": "to close"
+  },
+  {
+    "German": "beginnen",
+    "English": "to begin"
+  },
+  {
+    "German": "enden",
+    "English": "to end"
+  },
+  {
+    "German": "starten",
+    "English": "to start"
+  },
+  {
+    "German": "stoppen",
+    "English": "to stop"
+  },
+  {
+    "German": "arbeiten",
+    "English": "to work"
+  },
+  {
+    "German": "ruhen",
+    "English": "to rest"
+  },
+  {
+    "German": "schlafen",
+    "English": "to sleep"
+  },
+  {
+    "German": "aufwachen",
+    "English": "to wake up"
+  },
+  {
+    "German": "anziehen",
+    "English": "to get dressed"
+  },
+  {
+    "German": "ausziehen",
+    "English": "to undress"
+  },
+  {
+    "German": "duschen",
+    "English": "to shower"
+  },
+  {
+    "German": "baden",
+    "English": "to bathe"
+  },
+  {
+    "German": "putzen",
+    "English": "to clean"
+  },
+  {
+    "German": "waschen",
+    "English": "to wash"
+  },
+  {
+    "German": "frisieren",
+    "English": "to do hair"
+  },
+  {
+    "German": "kämmen",
+    "English": "to comb"
+  },
+  {
+    "German": "rasieren",
+    "English": "to shave"
+  },
+  {
+    "German": "Zähne putzen",
+    "English": "to brush teeth"
+  },
+  {
+    "German": "fahren",
+    "English": "to drive"
+  },
+  {
+    "German": "laufen",
+    "English": "to run"
+  },
+  {
+    "German": "rennen",
+    "English": "to sprint"
+  },
+  {
+    "German": "fliegen",
+    "English": "to fly"
+  },
+  {
+    "German": "steigen",
+    "English": "to climb"
+  },
+  {
+    "German": "fallen",
+    "English": "to fall"
+  },
+  {
+    "German": "sitzen",
+    "English": "to sit"
+  },
+  {
+    "German": "stehen",
+    "English": "to stand"
+  },
+  {
+    "German": "liegen",
+    "English": "to lie (recline)"
+  },
+  {
+    "German": "bringen",
+    "English": "to bring"
+  },
+  {
+    "German": "nehmen",
+    "English": "to take"
+  },
+  {
+    "German": "halten",
+    "English": "to hold"
+  },
+  {
+    "German": "lassen",
+    "English": "to let/leave"
+  },
+  {
+    "German": "geben",
+    "English": "to give"
+  },
+  {
+    "German": "bekommen",
+    "English": "to receive"
+  },
+  {
+    "German": "zeigen",
+    "English": "to show"
+  },
+  {
+    "German": "finden",
+    "English": "to find"
+  },
+  {
+    "German": "suchen",
+    "English": "to search"
+  },
+  {
+    "German": "tun",
+    "English": "to do"
+  },
+  {
+    "German": "denken",
+    "English": "to think"
+  },
+  {
+    "German": "kennen",
+    "English": "to know (someone/something)"
+  },
+  {
+    "German": "verstehen",
+    "English": "to understand"
+  },
+  {
+    "German": "glauben",
+    "English": "to believe"
+  },
+  {
+    "German": "meinen",
+    "English": "to mean"
+  },
+  {
+    "German": "erklären",
+    "English": "to explain"
+  },
+  {
+    "German": "erzählen",
+    "English": "to tell"
+  },
+  {
+    "German": "fragen",
+    "English": "to ask"
+  },
+  {
+    "German": "antworten",
+    "English": "to answer"
+  },
+  {
+    "German": "rufen",
+    "English": "to call"
+  },
+  {
+    "German": "schreien",
+    "English": "to scream"
+  },
+  {
+    "German": "hören",
+    "English": "to hear"
+  },
+  {
+    "German": "fühlen",
+    "English": "to feel"
+  },
+  {
+    "German": "riechen",
+    "English": "to smell"
+  },
+  {
+    "German": "schmecken",
+    "English": "to taste"
+  },
+  {
+    "German": "anfassen",
+    "English": "to touch"
+  },
+  {
+    "German": "lieben",
+    "English": "to love"
+  },
+  {
+    "German": "hassen",
+    "English": "to hate"
+  },
+  {
+    "German": "freuen (sich)",
+    "English": "to be happy"
+  },
+  {
+    "German": "ärgern (sich)",
+    "English": "to be annoyed"
+  },
+  {
+    "German": "weinen",
+    "English": "to cry"
+  },
+  {
+    "German": "lachen",
+    "English": "to laugh"
+  },
+  {
+    "German": "spielen",
+    "English": "to play"
+  },
+  {
+    "German": "lernen",
+    "English": "to learn"
+  },
+  {
+    "German": "studieren",
+    "English": "to study"
+  },
+  {
+    "German": "unterrichten",
+    "English": "to teach"
+  },
+  {
+    "German": "lesen",
+    "English": "to read"
+  },
+  {
+    "German": "schreiben",
+    "English": "to write"
+  },
+  {
+    "German": "zeichnen",
+    "English": "to draw"
+  },
+  {
+    "German": "malen",
+    "English": "to paint"
+  },
+  {
+    "German": "singen",
+    "English": "to sing"
+  },
+  {
+    "German": "tanzen",
+    "English": "to dance"
+  },
+  {
+    "German": "fotografieren",
+    "English": "to take photos"
+  },
+  {
+    "German": "telefonieren",
+    "English": "to make a call"
+  },
+  {
+    "German": "texten",
+    "English": "to text"
+  },
+  {
+    "German": "reisen",
+    "English": "to travel"
+  },
+  {
+    "German": "besuchen",
+    "English": "to visit"
+  },
+  {
+    "German": "bleiben",
+    "English": "to stay"
+  },
+  {
+    "German": "verlassen",
+    "English": "to leave"
+  },
+  {
+    "German": "leben",
+    "English": "to live"
+  },
+  {
+    "German": "wohnen",
+    "English": "to reside"
+  },
+  {
+    "German": "heiraten",
+    "English": "to marry"
+  },
+  {
+    "German": "gewinnen",
+    "English": "to win"
+  },
+  {
+    "German": "verlieren",
+    "English": "to lose"
+  },
+  {
+    "German": "verdienen",
+    "English": "to earn"
+  },
+  {
+    "German": "zahlen",
+    "English": "to pay"
+  },
+  {
+    "German": "Rechnung",
+    "English": "bill/invoice"
+  },
+  {
+    "German": "Schlüssel",
+    "English": "key"
+  },
+  {
+    "German": "Tür",
+    "English": "door"
+  },
+  {
+    "German": "Fenster",
+    "English": "window"
+  },
+  {
+    "German": "Auto",
+    "English": "car"
+  },
+  {
+    "German": "Zug",
+    "English": "train"
+  },
+  {
+    "German": "Bus",
+    "English": "bus"
+  },
+  {
+    "German": "Fahrrad",
+    "English": "bicycle"
+  },
+  {
+    "German": "Straße",
+    "English": "street"
+  },
+  {
+    "German": "Haus",
     "English": "house"
   },
   {
-    "German": "danke",
-    "English": "thank you"
+    "German": "Wohnung",
+    "English": "apartment"
+  },
+  {
+    "German": "Stadt",
+    "English": "city"
+  },
+  {
+    "German": "Dorf",
+    "English": "village"
+  },
+  {
+    "German": "Land",
+    "English": "country"
+  },
+  {
+    "German": "Welt",
+    "English": "world"
+  },
+  {
+    "German": "Freund",
+    "English": "friend (male)"
+  },
+  {
+    "German": "freundin",
+    "English": "friend (female)"
+  },
+  {
+    "German": "familie",
+    "English": "family"
+  },
+  {
+    "German": "schule",
+    "English": "school"
+  },
+  {
+    "German": "universität",
+    "English": "university"
+  },
+  {
+    "German": "zeit",
+    "English": "time"
+  },
+  {
+    "German": "uhr",
+    "English": "clock"
+  },
+  {
+    "German": "wetter",
+    "English": "weather"
+  },
+  {
+    "German": "regen",
+    "English": "rain"
+  },
+  {
+    "German": "schnee",
+    "English": "snow"
+  },
+  {
+    "German": "schlüsselbund",
+    "English": "keychain"
+  },
+  {
+    "German": "telefon",
+    "English": "telephone"
+  },
+  {
+    "German": "kamera",
+    "English": "camera"
+  },
+  {
+    "German": "computer",
+    "English": "computer"
+  },
+  {
+    "German": "Hund",
+    "English": "dog  "
+  },
+  {
+    "German": "Katze",
+    "English": "cat  "
+  },
+  {
+    "German": "Vogel",
+    "English": "bird  "
+  },
+  {
+    "German": "Fisch",
+    "English": "fish  "
+  },
+  {
+    "German": "Pferd",
+    "English": "horse  "
+  },
+  {
+    "German": "Schwein",
+    "English": "pig  "
+  },
+  {
+    "German": "Huhn",
+    "English": "chicken  "
+  },
+  {
+    "German": "Tisch",
+    "English": "table  "
+  },
+  {
+    "German": "Stuhl",
+    "English": "chair  "
+  },
+  {
+    "German": "Lampe",
+    "English": "lamp  "
+  },
+  {
+    "German": "Buch",
+    "English": "book  "
+  },
+  {
+    "German": "Zeitung",
+    "English": "newspaper  "
+  },
+  {
+    "German": "Heft",
+    "English": "notebook  "
+  },
+  {
+    "German": "Fensterbank",
+    "English": "windowsill  "
+  },
+  {
+    "German": "Kühlschrank",
+    "English": "fridge  "
+  },
+  {
+    "German": "Ofen",
+    "English": "oven  "
+  },
+  {
+    "German": "Herd",
+    "English": "stove  "
+  },
+  {
+    "German": "Besteck",
+    "English": "cutlery  "
+  },
+  {
+    "German": "Löffel",
+    "English": "spoon  "
+  },
+  {
+    "German": "Gabel",
+    "English": "fork  "
+  },
+  {
+    "German": "Messer",
+    "English": "knife  "
+  },
+  {
+    "German": "Teller",
+    "English": "plate  "
+  },
+  {
+    "German": "Schüssel",
+    "English": "bowl  "
+  },
+  {
+    "German": "Tasse",
+    "English": "cup  "
+  },
+  {
+    "German": "Glas",
+    "English": "glass  "
+  },
+  {
+    "German": "Schrank",
+    "English": "cabinet  "
+  },
+  {
+    "German": "Spiegel",
+    "English": "mirror  "
+  },
+  {
+    "German": "Seife",
+    "English": "soap  "
+  },
+  {
+    "German": "Handtuch",
+    "English": "towel  "
+  },
+  {
+    "German": "Zahnbürste",
+    "English": "toothbrush  "
+  },
+  {
+    "German": "Zahnpasta",
+    "English": "toothpaste  "
+  },
+  {
+    "German": "Drucker",
+    "English": "printer  "
+  },
+  {
+    "German": "Bild",
+    "English": "picture  "
+  },
+  {
+    "German": "Treppe",
+    "English": "staircase  "
+  },
+  {
+    "German": "Decke",
+    "English": "blanket/ceiling (depending on context)  "
+  },
+  {
+    "German": "Boden",
+    "English": "floor  "
+  },
+  {
+    "German": "Tasche",
+    "English": "bag  "
+  },
+  {
+    "German": "Kleidung",
+    "English": "clothing  "
+  },
+  {
+    "German": "Jacke",
+    "English": "jacket  "
+  },
+  {
+    "German": "Hose",
+    "English": "pants  "
+  },
+  {
+    "German": "Schuh",
+    "English": "shoe "
+  },
+  {
+    "German": "Mütze",
+    "English": "cap/hat"
   }
 ]

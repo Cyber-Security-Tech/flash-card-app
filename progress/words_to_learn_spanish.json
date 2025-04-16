@@ -1,14 +1,2002 @@
 [
   {
-    "Spanish": "hola",
-    "English": "hello"
+    "Spanish": "yo",
+    "English": "I"
   },
   {
-    "Spanish": "gato",
-    "English": "cat"
+    "Spanish": "tú",
+    "English": "you (informal singular)"
+  },
+  {
+    "Spanish": "él",
+    "English": "he"
+  },
+  {
+    "Spanish": "ella",
+    "English": "she"
+  },
+  {
+    "Spanish": "nosotros",
+    "English": "we (masculine/mixed)"
+  },
+  {
+    "Spanish": "nosotras",
+    "English": "we (feminine)"
+  },
+  {
+    "Spanish": "vosotros",
+    "English": "you all"
+  },
+  {
+    "Spanish": "vosotras",
+    "English": "you all"
+  },
+  {
+    "Spanish": "ellos",
+    "English": "they (masculine/mixed)"
+  },
+  {
+    "Spanish": "ellas",
+    "English": "they (feminine)"
+  },
+  {
+    "Spanish": "usted",
+    "English": "you (formal singular)"
+  },
+  {
+    "Spanish": "ustedes",
+    "English": "you all (formal/plural in Latin America)"
+  },
+  {
+    "Spanish": "me",
+    "English": "me"
+  },
+  {
+    "Spanish": "te",
+    "English": "you "
+  },
+  {
+    "Spanish": "lo",
+    "English": "him/it (masculine)"
+  },
+  {
+    "Spanish": "la",
+    "English": "her/it (feminine)"
+  },
+  {
+    "Spanish": "nos",
+    "English": "us"
+  },
+  {
+    "Spanish": "os",
+    "English": "you all"
+  },
+  {
+    "Spanish": "los",
+    "English": "them (masculine)"
+  },
+  {
+    "Spanish": "las",
+    "English": "them (feminine)"
+  },
+  {
+    "Spanish": "mi",
+    "English": "my"
+  },
+  {
+    "Spanish": "tu",
+    "English": "your (informal)"
+  },
+  {
+    "Spanish": "su",
+    "English": "his/her/your (formal)/their"
+  },
+  {
+    "Spanish": "nuestro",
+    "English": "our (masculine)"
+  },
+  {
+    "Spanish": "nuestra",
+    "English": "our (feminine)"
+  },
+  {
+    "Spanish": "vuestro",
+    "English": "your"
+  },
+  {
+    "Spanish": "vuestra",
+    "English": "your"
+  },
+  {
+    "Spanish": "este",
+    "English": "this (masculine)"
+  },
+  {
+    "Spanish": "esta",
+    "English": "this (feminine)"
+  },
+  {
+    "Spanish": "estos",
+    "English": "these (masculine)"
+  },
+  {
+    "Spanish": "estas",
+    "English": "these (feminine)"
+  },
+  {
+    "Spanish": "ese",
+    "English": "that (masculine)"
+  },
+  {
+    "Spanish": "esa",
+    "English": "that (feminine)"
+  },
+  {
+    "Spanish": "esos",
+    "English": "those (masculine)"
+  },
+  {
+    "Spanish": "esas",
+    "English": "those (feminine)"
+  },
+  {
+    "Spanish": "a",
+    "English": "to"
+  },
+  {
+    "Spanish": "de",
+    "English": "of/from"
+  },
+  {
+    "Spanish": "con",
+    "English": "with"
+  },
+  {
+    "Spanish": "sin",
+    "English": "without"
+  },
+  {
+    "Spanish": "por",
+    "English": "by/through"
+  },
+  {
+    "Spanish": "para",
+    "English": "for/in order to"
+  },
+  {
+    "Spanish": "en",
+    "English": "in/on"
+  },
+  {
+    "Spanish": "sobre",
+    "English": "on/about"
+  },
+  {
+    "Spanish": "entre",
+    "English": "between/among"
+  },
+  {
+    "Spanish": "hasta",
+    "English": "until"
+  },
+  {
+    "Spanish": "desde",
+    "English": "from/since"
+  },
+  {
+    "Spanish": "del",
+    "English": "of the (contraction of de + el)"
+  },
+  {
+    "Spanish": "al",
+    "English": "to the (contraction of a + el)"
+  },
+  {
+    "Spanish": "sí",
+    "English": "yes"
+  },
+  {
+    "Spanish": "no",
+    "English": "no"
+  },
+  {
+    "Spanish": "y",
+    "English": "and"
+  },
+  {
+    "Spanish": "o",
+    "English": "or"
+  },
+  {
+    "Spanish": "pero",
+    "English": "but"
+  },
+  {
+    "Spanish": "porque",
+    "English": "because"
+  },
+  {
+    "Spanish": "aunque",
+    "English": "although"
+  },
+  {
+    "Spanish": "que",
+    "English": "that/which"
+  },
+  {
+    "Spanish": "quien",
+    "English": "who"
+  },
+  {
+    "Spanish": "cual",
+    "English": "which"
+  },
+  {
+    "Spanish": "donde",
+    "English": "where"
+  },
+  {
+    "Spanish": "cuando",
+    "English": "when"
+  },
+  {
+    "Spanish": "como",
+    "English": "how"
+  },
+  {
+    "Spanish": "cuanto",
+    "English": "how much"
+  },
+  {
+    "Spanish": "cuántos",
+    "English": "how many (masculine)"
+  },
+  {
+    "Spanish": "cuántas",
+    "English": "how many (feminine)"
+  },
+  {
+    "Spanish": "qué",
+    "English": "what"
+  },
+  {
+    "Spanish": "todo",
+    "English": "everything"
+  },
+  {
+    "Spanish": "nada",
+    "English": "nothing"
+  },
+  {
+    "Spanish": "algo",
+    "English": "something"
+  },
+  {
+    "Spanish": "alguien",
+    "English": "someone"
+  },
+  {
+    "Spanish": "nadie",
+    "English": "no one"
+  },
+  {
+    "Spanish": "cada",
+    "English": "each"
+  },
+  {
+    "Spanish": "más",
+    "English": "more"
+  },
+  {
+    "Spanish": "menos",
+    "English": "less"
+  },
+  {
+    "Spanish": "muy",
+    "English": "very"
+  },
+  {
+    "Spanish": "tan",
+    "English": "so"
+  },
+  {
+    "Spanish": "también",
+    "English": "also"
+  },
+  {
+    "Spanish": "tampoco",
+    "English": "neither"
+  },
+  {
+    "Spanish": "ya",
+    "English": "already"
+  },
+  {
+    "Spanish": "todavía",
+    "English": "still"
+  },
+  {
+    "Spanish": "aún",
+    "English": "still/yet"
+  },
+  {
+    "Spanish": "nunca",
+    "English": "never"
+  },
+  {
+    "Spanish": "si",
+    "English": "if"
+  },
+  {
+    "Spanish": "pues",
+    "English": "well"
+  },
+  {
+    "Spanish": "entonces",
+    "English": "then"
+  },
+  {
+    "Spanish": "luego",
+    "English": "later/then"
+  },
+  {
+    "Spanish": "después",
+    "English": "after"
+  },
+  {
+    "Spanish": "antes",
+    "English": "before"
+  },
+  {
+    "Spanish": "ahora",
+    "English": "now"
+  },
+  {
+    "Spanish": "hoy",
+    "English": "today"
+  },
+  {
+    "Spanish": "ayer",
+    "English": "yesterday"
+  },
+  {
+    "Spanish": "mañana",
+    "English": "tomorrow"
+  },
+  {
+    "Spanish": "siempre",
+    "English": "always"
+  },
+  {
+    "Spanish": "pronto",
+    "English": "soon"
+  },
+  {
+    "Spanish": "tarde",
+    "English": "late/afternoon"
+  },
+  {
+    "Spanish": "temprano",
+    "English": "early"
+  },
+  {
+    "Spanish": "bien",
+    "English": "well"
+  },
+  {
+    "Spanish": "mal",
+    "English": "badly"
+  },
+  {
+    "Spanish": "mejor",
+    "English": "better"
+  },
+  {
+    "Spanish": "peor",
+    "English": "worse"
+  },
+  {
+    "Spanish": "grande",
+    "English": "big"
+  },
+  {
+    "Spanish": "pequeño",
+    "English": "small"
+  },
+  {
+    "Spanish": "alto",
+    "English": "tall/high"
+  },
+  {
+    "Spanish": "bajo",
+    "English": "short/low"
+  },
+  {
+    "Spanish": "largo",
+    "English": "long"
+  },
+  {
+    "Spanish": "corto",
+    "English": "short"
+  },
+  {
+    "Spanish": "nuevo",
+    "English": "new"
+  },
+  {
+    "Spanish": "viejo",
+    "English": "old"
+  },
+  {
+    "Spanish": "bueno",
+    "English": "good"
+  },
+  {
+    "Spanish": "malo",
+    "English": "bad"
+  },
+  {
+    "Spanish": "mejor",
+    "English": "better"
+  },
+  {
+    "Spanish": "peor",
+    "English": "worse"
+  },
+  {
+    "Spanish": "fácil",
+    "English": "easy"
+  },
+  {
+    "Spanish": "difícil",
+    "English": "difficult"
+  },
+  {
+    "Spanish": "rápido",
+    "English": "fast"
+  },
+  {
+    "Spanish": "lento",
+    "English": "slow"
+  },
+  {
+    "Spanish": "caliente",
+    "English": "hot"
+  },
+  {
+    "Spanish": "frío",
+    "English": "cold"
+  },
+  {
+    "Spanish": "duro",
+    "English": "hard"
+  },
+  {
+    "Spanish": "blando",
+    "English": "soft"
+  },
+  {
+    "Spanish": "fuerte",
+    "English": "strong"
+  },
+  {
+    "Spanish": "débil",
+    "English": "weak"
+  },
+  {
+    "Spanish": "limpio",
+    "English": "clean"
+  },
+  {
+    "Spanish": "sucio",
+    "English": "dirty"
+  },
+  {
+    "Spanish": "bonito",
+    "English": "pretty"
+  },
+  {
+    "Spanish": "feo",
+    "English": "ugly"
+  },
+  {
+    "Spanish": "feliz",
+    "English": "happy"
+  },
+  {
+    "Spanish": "triste",
+    "English": "sad"
+  },
+  {
+    "Spanish": "enojado",
+    "English": "angry"
+  },
+  {
+    "Spanish": "cansado",
+    "English": "tired"
+  },
+  {
+    "Spanish": "enfermo",
+    "English": "sick"
+  },
+  {
+    "Spanish": "sano",
+    "English": "healthy"
+  },
+  {
+    "Spanish": "rico",
+    "English": "rich/delicious"
+  },
+  {
+    "Spanish": "pobre",
+    "English": "poor"
+  },
+  {
+    "Spanish": "caro",
+    "English": "expensive"
+  },
+  {
+    "Spanish": "barato",
+    "English": "cheap"
+  },
+  {
+    "Spanish": "abierto",
+    "English": "open"
+  },
+  {
+    "Spanish": "cerrado",
+    "English": "closed"
+  },
+  {
+    "Spanish": "correcto",
+    "English": "correct"
+  },
+  {
+    "Spanish": "incorrecto",
+    "English": "incorrect"
+  },
+  {
+    "Spanish": "cierto",
+    "English": "true"
+  },
+  {
+    "Spanish": "falso",
+    "English": "false"
+  },
+  {
+    "Spanish": "lleno",
+    "English": "full"
+  },
+  {
+    "Spanish": "vacío",
+    "English": "empty"
+  },
+  {
+    "Spanish": "cerca",
+    "English": "near"
+  },
+  {
+    "Spanish": "lejos",
+    "English": "far"
+  },
+  {
+    "Spanish": "adentro",
+    "English": "inside"
+  },
+  {
+    "Spanish": "afuera",
+    "English": "outside"
+  },
+  {
+    "Spanish": "arriba",
+    "English": "up"
+  },
+  {
+    "Spanish": "abajo",
+    "English": "down"
+  },
+  {
+    "Spanish": "delante",
+    "English": "in front"
+  },
+  {
+    "Spanish": "detrás",
+    "English": "behind"
+  },
+  {
+    "Spanish": "izquierda",
+    "English": "left"
+  },
+  {
+    "Spanish": "derecha",
+    "English": "right"
+  },
+  {
+    "Spanish": "aquí",
+    "English": "here"
+  },
+  {
+    "Spanish": "ahí",
+    "English": "there"
+  },
+  {
+    "Spanish": "allí",
+    "English": "over there"
+  },
+  {
+    "Spanish": "encima",
+    "English": "on top"
+  },
+  {
+    "Spanish": "debajo",
+    "English": "under"
+  },
+  {
+    "Spanish": "primero",
+    "English": "first"
+  },
+  {
+    "Spanish": "último",
+    "English": "last"
+  },
+  {
+    "Spanish": "anterior",
+    "English": "previous"
+  },
+  {
+    "Spanish": "siguiente",
+    "English": "next"
+  },
+  {
+    "Spanish": "mismo",
+    "English": "same"
+  },
+  {
+    "Spanish": "otro",
+    "English": "other/another"
+  },
+  {
+    "Spanish": "diferente",
+    "English": "different"
+  },
+  {
+    "Spanish": "nuevo",
+    "English": "new"
+  },
+  {
+    "Spanish": "viejo",
+    "English": "old"
+  },
+  {
+    "Spanish": "gracioso",
+    "English": "funny"
+  },
+  {
+    "Spanish": "serio",
+    "English": "serious"
+  },
+  {
+    "Spanish": "tranquilo",
+    "English": "calm"
+  },
+  {
+    "Spanish": "nervioso",
+    "English": "nervous"
+  },
+  {
+    "Spanish": "ocupado",
+    "English": "busy"
+  },
+  {
+    "Spanish": "libre",
+    "English": "free (available)"
+  },
+  {
+    "Spanish": "listo",
+    "English": "ready/smart"
+  },
+  {
+    "Spanish": "importante",
+    "English": "important"
+  },
+  {
+    "Spanish": "interesante",
+    "English": "interesting"
+  },
+  {
+    "Spanish": "aburrido",
+    "English": "boring"
+  },
+  {
+    "Spanish": "útil",
+    "English": "useful"
+  },
+  {
+    "Spanish": "inútil",
+    "English": "useless"
+  },
+  {
+    "Spanish": "posible",
+    "English": "possible"
+  },
+  {
+    "Spanish": "imposible",
+    "English": "impossible"
+  },
+  {
+    "Spanish": "seguro",
+    "English": "safe/sure"
+  },
+  {
+    "Spanish": "peligroso",
+    "English": "dangerous"
+  },
+  {
+    "Spanish": "amable",
+    "English": "kind"
+  },
+  {
+    "Spanish": "educado",
+    "English": "polite"
+  },
+  {
+    "Spanish": "grosero",
+    "English": "rude"
+  },
+  {
+    "Spanish": "famoso",
+    "English": "famous"
+  },
+  {
+    "Spanish": "normal",
+    "English": "normal"
+  },
+  {
+    "Spanish": "extraño",
+    "English": "strange"
+  },
+  {
+    "Spanish": "típico",
+    "English": "typical"
+  },
+  {
+    "Spanish": "común",
+    "English": "common"
+  },
+  {
+    "Spanish": "especial",
+    "English": "special"
+  },
+  {
+    "Spanish": "favorito",
+    "English": "favorite"
+  },
+  {
+    "Spanish": "real",
+    "English": "real"
+  },
+  {
+    "Spanish": "difícil",
+    "English": "difficult"
+  },
+  {
+    "Spanish": "fácil",
+    "English": "easy"
+  },
+  {
+    "Spanish": "rápido",
+    "English": "fast"
+  },
+  {
+    "Spanish": "lento",
+    "English": "slow"
+  },
+  {
+    "Spanish": "pesado",
+    "English": "heavy"
+  },
+  {
+    "Spanish": "ligero",
+    "English": "light (weight)"
+  },
+  {
+    "Spanish": "persona",
+    "English": "person"
+  },
+  {
+    "Spanish": "gente",
+    "English": "people"
+  },
+  {
+    "Spanish": "hombre",
+    "English": "man"
+  },
+  {
+    "Spanish": "mujer",
+    "English": "woman"
+  },
+  {
+    "Spanish": "niño",
+    "English": "boy/child"
+  },
+  {
+    "Spanish": "niña",
+    "English": "girl/child"
+  },
+  {
+    "Spanish": "chico",
+    "English": "boy"
+  },
+  {
+    "Spanish": "chica",
+    "English": "girl"
+  },
+  {
+    "Spanish": "amigo",
+    "English": "friend (male)"
+  },
+  {
+    "Spanish": "amiga",
+    "English": "friend (female)"
+  },
+  {
+    "Spanish": "padre",
+    "English": "father"
+  },
+  {
+    "Spanish": "madre",
+    "English": "mother"
+  },
+  {
+    "Spanish": "hermano",
+    "English": "brother"
+  },
+  {
+    "Spanish": "hermana",
+    "English": "sister"
+  },
+  {
+    "Spanish": "hijo",
+    "English": "son"
+  },
+  {
+    "Spanish": "hija",
+    "English": "daughter"
+  },
+  {
+    "Spanish": "abuelo",
+    "English": "grandfather"
+  },
+  {
+    "Spanish": "abuela",
+    "English": "grandmother"
+  },
+  {
+    "Spanish": "tío",
+    "English": "uncle"
+  },
+  {
+    "Spanish": "tía",
+    "English": "aunt"
+  },
+  {
+    "Spanish": "primo",
+    "English": "cousin (male)"
+  },
+  {
+    "Spanish": "prima",
+    "English": "cousin (female)"
+  },
+  {
+    "Spanish": "esposo",
+    "English": "husband"
+  },
+  {
+    "Spanish": "esposa",
+    "English": "wife"
+  },
+  {
+    "Spanish": "familia",
+    "English": "family"
+  },
+  {
+    "Spanish": "pareja",
+    "English": "partner/couple"
+  },
+  {
+    "Spanish": "bebé",
+    "English": "baby"
+  },
+  {
+    "Spanish": "profesor",
+    "English": "teacher (male)"
+  },
+  {
+    "Spanish": "profesora",
+    "English": "teacher (female)"
+  },
+  {
+    "Spanish": "alumno",
+    "English": "student (male)"
+  },
+  {
+    "Spanish": "alumna",
+    "English": "student (female)"
+  },
+  {
+    "Spanish": "estudiante",
+    "English": "student"
+  },
+  {
+    "Spanish": "doctor",
+    "English": "doctor (male)"
+  },
+  {
+    "Spanish": "doctora",
+    "English": "doctor (female)"
+  },
+  {
+    "Spanish": "paciente",
+    "English": "patient"
+  },
+  {
+    "Spanish": "cliente",
+    "English": "client/customer"
+  },
+  {
+    "Spanish": "jefe",
+    "English": "boss (male)"
+  },
+  {
+    "Spanish": "jefa",
+    "English": "boss (female)"
+  },
+  {
+    "Spanish": "trabajador",
+    "English": "worker (male)"
+  },
+  {
+    "Spanish": "trabajadora",
+    "English": "worker (female)"
+  },
+  {
+    "Spanish": "compañero",
+    "English": "colleague/partner"
+  },
+  {
+    "Spanish": "vecino",
+    "English": "neighbor (male)"
+  },
+  {
+    "Spanish": "vecina",
+    "English": "neighbor (female)"
+  },
+  {
+    "Spanish": "dueño",
+    "English": "owner (male)"
+  },
+  {
+    "Spanish": "dueña",
+    "English": "owner (female)"
+  },
+  {
+    "Spanish": "conductor",
+    "English": "driver (male)"
+  },
+  {
+    "Spanish": "conductora",
+    "English": "driver (female)"
+  },
+  {
+    "Spanish": "policía",
+    "English": "police officer"
+  },
+  {
+    "Spanish": "bombero",
+    "English": "firefighter (male)"
+  },
+  {
+    "Spanish": "bombera",
+    "English": "firefighter (female)"
+  },
+  {
+    "Spanish": "camarero",
+    "English": "waiter"
+  },
+  {
+    "Spanish": "camarera",
+    "English": "waitress"
+  },
+  {
+    "Spanish": "mesero",
+    "English": "waiter (Latin America)"
+  },
+  {
+    "Spanish": "mesera",
+    "English": "waitress (Latin America)"
+  },
+  {
+    "Spanish": "cocinero",
+    "English": "cook (male)"
+  },
+  {
+    "Spanish": "cocinera",
+    "English": "cook (female)"
+  },
+  {
+    "Spanish": "ingeniero",
+    "English": "engineer (male)"
+  },
+  {
+    "Spanish": "ingeniera",
+    "English": "engineer (female)"
+  },
+  {
+    "Spanish": "abogado",
+    "English": "lawyer (male)"
+  },
+  {
+    "Spanish": "abogada",
+    "English": "lawyer (female)"
+  },
+  {
+    "Spanish": "artista",
+    "English": "artist"
+  },
+  {
+    "Spanish": "cantante",
+    "English": "singer"
+  },
+  {
+    "Spanish": "actor",
+    "English": "actor"
+  },
+  {
+    "Spanish": "actriz",
+    "English": "actress"
+  },
+  {
+    "Spanish": "deportista",
+    "English": "athlete"
+  },
+  {
+    "Spanish": "peluquero",
+    "English": "hairdresser (male)"
+  },
+  {
+    "Spanish": "peluquera",
+    "English": "hairdresser (female)"
+  },
+  {
+    "Spanish": "estilista",
+    "English": "stylist"
+  },
+  {
+    "Spanish": "panadero",
+    "English": "baker (male)"
+  },
+  {
+    "Spanish": "panadera",
+    "English": "baker (female)"
+  },
+  {
+    "Spanish": "carpintero",
+    "English": "carpenter (male)"
+  },
+  {
+    "Spanish": "carpintera",
+    "English": "carpenter (female)"
+  },
+  {
+    "Spanish": "electricista",
+    "English": "electrician"
+  },
+  {
+    "Spanish": "mecánico",
+    "English": "mechanic (male)"
+  },
+  {
+    "Spanish": "mecánica",
+    "English": "mechanic (female)"
+  },
+  {
+    "Spanish": "veterinario",
+    "English": "veterinarian (male)"
+  },
+  {
+    "Spanish": "veterinaria",
+    "English": "veterinarian (female)"
+  },
+  {
+    "Spanish": "científico",
+    "English": "scientist (male)"
+  },
+  {
+    "Spanish": "científica",
+    "English": "scientist (female)"
+  },
+  {
+    "Spanish": "secretario",
+    "English": "secretary (male)"
+  },
+  {
+    "Spanish": "secretaria",
+    "English": "secretary (female)"
+  },
+  {
+    "Spanish": "director",
+    "English": "director/principal (male)"
+  },
+  {
+    "Spanish": "directora",
+    "English": "director/principal (female)"
+  },
+  {
+    "Spanish": "repartidor",
+    "English": "delivery person (male)"
+  },
+  {
+    "Spanish": "repartidora",
+    "English": "delivery person (female)"
+  },
+  {
+    "Spanish": "juez",
+    "English": "judge"
+  },
+  {
+    "Spanish": "político",
+    "English": "politician (male)"
+  },
+  {
+    "Spanish": "política",
+    "English": "politician (female)"
+  },
+  {
+    "Spanish": "religioso",
+    "English": "religious (person)"
+  },
+  {
+    "Spanish": "sacerdote",
+    "English": "priest"
+  },
+  {
+    "Spanish": "monja",
+    "English": "nun"
+  },
+  {
+    "Spanish": "rey",
+    "English": "king"
+  },
+  {
+    "Spanish": "reina",
+    "English": "queen"
+  },
+  {
+    "Spanish": "presidente",
+    "English": "president"
+  },
+  {
+    "Spanish": "presidenta",
+    "English": "president (female)"
+  },
+  {
+    "Spanish": "soldado",
+    "English": "soldier"
+  },
+  {
+    "Spanish": "guarda",
+    "English": "guard"
+  },
+  {
+    "Spanish": "criminal",
+    "English": "criminal"
+  },
+  {
+    "Spanish": "ladrón",
+    "English": "thief (male)"
+  },
+  {
+    "Spanish": "ladrona",
+    "English": "thief (female)"
   },
   {
     "Spanish": "casa",
     "English": "house"
+  },
+  {
+    "Spanish": "hogar",
+    "English": "home"
+  },
+  {
+    "Spanish": "apartamento",
+    "English": "apartment"
+  },
+  {
+    "Spanish": "habitación",
+    "English": "room"
+  },
+  {
+    "Spanish": "cuarto",
+    "English": "room"
+  },
+  {
+    "Spanish": "baño",
+    "English": "bathroom"
+  },
+  {
+    "Spanish": "cocina",
+    "English": "kitchen"
+  },
+  {
+    "Spanish": "comedor",
+    "English": "dining room"
+  },
+  {
+    "Spanish": "sala",
+    "English": "living room"
+  },
+  {
+    "Spanish": "puerta",
+    "English": "door"
+  },
+  {
+    "Spanish": "ventana",
+    "English": "window"
+  },
+  {
+    "Spanish": "pared",
+    "English": "wall"
+  },
+  {
+    "Spanish": "techo",
+    "English": "ceiling/roof"
+  },
+  {
+    "Spanish": "piso",
+    "English": "floor/apartment"
+  },
+  {
+    "Spanish": "escalera",
+    "English": "staircase"
+  },
+  {
+    "Spanish": "ascensor",
+    "English": "elevator"
+  },
+  {
+    "Spanish": "garaje",
+    "English": "garage"
+  },
+  {
+    "Spanish": "jardín",
+    "English": "garden"
+  },
+  {
+    "Spanish": "balcón",
+    "English": "balcony"
+  },
+  {
+    "Spanish": "terraza",
+    "English": "terrace"
+  },
+  {
+    "Spanish": "mueble",
+    "English": "furniture"
+  },
+  {
+    "Spanish": "silla",
+    "English": "chair"
+  },
+  {
+    "Spanish": "mesa",
+    "English": "table"
+  },
+  {
+    "Spanish": "sofá",
+    "English": "sofa"
+  },
+  {
+    "Spanish": "cama",
+    "English": "bed"
+  },
+  {
+    "Spanish": "almohada",
+    "English": "pillow"
+  },
+  {
+    "Spanish": "colchón",
+    "English": "mattress"
+  },
+  {
+    "Spanish": "sábana",
+    "English": "sheet"
+  },
+  {
+    "Spanish": "mantas",
+    "English": "blankets"
+  },
+  {
+    "Spanish": "cobija",
+    "English": "blanket"
+  },
+  {
+    "Spanish": "toalla",
+    "English": "towel"
+  },
+  {
+    "Spanish": "espejo",
+    "English": "mirror"
+  },
+  {
+    "Spanish": "armario",
+    "English": "closet"
+  },
+  {
+    "Spanish": "ropero",
+    "English": "wardrobe"
+  },
+  {
+    "Spanish": "cajón",
+    "English": "drawer"
+  },
+  {
+    "Spanish": "estante",
+    "English": "shelf"
+  },
+  {
+    "Spanish": "luz",
+    "English": "light"
+  },
+  {
+    "Spanish": "lámpara",
+    "English": "lamp"
+  },
+  {
+    "Spanish": "bombilla",
+    "English": "lightbulb"
+  },
+  {
+    "Spanish": "interruptor",
+    "English": "light switch"
+  },
+  {
+    "Spanish": "enchufe",
+    "English": "plug"
+  },
+  {
+    "Spanish": "televisor",
+    "English": "TV"
+  },
+  {
+    "Spanish": "radio",
+    "English": "radio"
+  },
+  {
+    "Spanish": "reloj",
+    "English": "clock/watch"
+  },
+  {
+    "Spanish": "computadora",
+    "English": "computer"
+  },
+  {
+    "Spanish": "ordenador",
+    "English": "computer (Spain)"
+  },
+  {
+    "Spanish": "teléfono",
+    "English": "telephone"
+  },
+  {
+    "Spanish": "celular",
+    "English": "cell phone"
+  },
+  {
+    "Spanish": "cargador",
+    "English": "charger"
+  },
+  {
+    "Spanish": "internet",
+    "English": "internet"
+  },
+  {
+    "Spanish": "correo",
+    "English": "email"
+  },
+  {
+    "Spanish": "papel",
+    "English": "paper"
+  },
+  {
+    "Spanish": "libro",
+    "English": "book"
+  },
+  {
+    "Spanish": "revista",
+    "English": "magazine"
+  },
+  {
+    "Spanish": "periódico",
+    "English": "newspaper"
+  },
+  {
+    "Spanish": "cuaderno",
+    "English": "notebook"
+  },
+  {
+    "Spanish": "bolígrafo",
+    "English": "pen"
+  },
+  {
+    "Spanish": "pluma",
+    "English": "pen (Mexico)"
+  },
+  {
+    "Spanish": "lápiz",
+    "English": "pencil"
+  },
+  {
+    "Spanish": "borrador",
+    "English": "eraser"
+  },
+  {
+    "Spanish": "mochila",
+    "English": "backpack"
+  },
+  {
+    "Spanish": "carpeta",
+    "English": "folder"
+  },
+  {
+    "Spanish": "documento",
+    "English": "document"
+  },
+  {
+    "Spanish": "archivo",
+    "English": "file"
+  },
+  {
+    "Spanish": "impresora",
+    "English": "printer"
+  },
+  {
+    "Spanish": "pantalla",
+    "English": "screen"
+  },
+  {
+    "Spanish": "teclado",
+    "English": "keyboard"
+  },
+  {
+    "Spanish": "ratón",
+    "English": "mouse"
+  },
+  {
+    "Spanish": "altavoz",
+    "English": "speaker"
+  },
+  {
+    "Spanish": "cámara",
+    "English": "camera"
+  },
+  {
+    "Spanish": "foto",
+    "English": "photo"
+  },
+  {
+    "Spanish": "imagen",
+    "English": "image"
+  },
+  {
+    "Spanish": "video",
+    "English": "video"
+  },
+  {
+    "Spanish": "película",
+    "English": "movie"
+  },
+  {
+    "Spanish": "música",
+    "English": "music"
+  },
+  {
+    "Spanish": "canción",
+    "English": "song"
+  },
+  {
+    "Spanish": "voz",
+    "English": "voice"
+  },
+  {
+    "Spanish": "sonido",
+    "English": "sound"
+  },
+  {
+    "Spanish": "silencio",
+    "English": "silence"
+  },
+  {
+    "Spanish": "ruido",
+    "English": "noise"
+  },
+  {
+    "Spanish": "palabra",
+    "English": "word"
+  },
+  {
+    "Spanish": "frase",
+    "English": "sentence"
+  },
+  {
+    "Spanish": "oración",
+    "English": "sentence/prayer"
+  },
+  {
+    "Spanish": "pregunta",
+    "English": "question"
+  },
+  {
+    "Spanish": "respuesta",
+    "English": "answer"
+  },
+  {
+    "Spanish": "historia",
+    "English": "story/history"
+  },
+  {
+    "Spanish": "cuento",
+    "English": "short story"
+  },
+  {
+    "Spanish": "novela",
+    "English": "novel"
+  },
+  {
+    "Spanish": "poema",
+    "English": "poem"
+  },
+  {
+    "Spanish": "lengua",
+    "English": "language/tongue"
+  },
+  {
+    "Spanish": "idioma",
+    "English": "language"
+  },
+  {
+    "Spanish": "traducción",
+    "English": "translation"
+  },
+  {
+    "Spanish": "significado",
+    "English": "meaning"
+  },
+  {
+    "Spanish": "diccionario",
+    "English": "dictionary"
+  },
+  {
+    "Spanish": "escuela",
+    "English": "school"
+  },
+  {
+    "Spanish": "colegio",
+    "English": "school (some regions)"
+  },
+  {
+    "Spanish": "universidad",
+    "English": "university"
+  },
+  {
+    "Spanish": "clase",
+    "English": "class"
+  },
+  {
+    "Spanish": "estudio",
+    "English": "study"
+  },
+  {
+    "Spanish": "maestro",
+    "English": "teacher (primary school)"
+  },
+  {
+    "Spanish": "maestra",
+    "English": "teacher"
+  },
+  {
+    "Spanish": "estudiante",
+    "English": "student"
+  },
+  {
+    "Spanish": "examen",
+    "English": "exam"
+  },
+  {
+    "Spanish": "tarea",
+    "English": "homework"
+  },
+  {
+    "Spanish": "nota",
+    "English": "grade"
+  },
+  {
+    "Spanish": "pregunta",
+    "English": "question"
+  },
+  {
+    "Spanish": "respuesta",
+    "English": "answer"
+  },
+  {
+    "Spanish": "lección",
+    "English": "lesson"
+  },
+  {
+    "Spanish": "biblioteca",
+    "English": "library"
+  },
+  {
+    "Spanish": "laboratorio",
+    "English": "laboratory"
+  },
+  {
+    "Spanish": "mapa",
+    "English": "map"
+  },
+  {
+    "Spanish": "globo",
+    "English": "globe"
+  },
+  {
+    "Spanish": "regla",
+    "English": "ruler"
+  },
+  {
+    "Spanish": "matemáticas",
+    "English": "math"
+  },
+  {
+    "Spanish": "ciencia",
+    "English": "science"
+  },
+  {
+    "Spanish": "historia",
+    "English": "history"
+  },
+  {
+    "Spanish": "geografía",
+    "English": "geography"
+  },
+  {
+    "Spanish": "arte",
+    "English": "art"
+  },
+  {
+    "Spanish": "música",
+    "English": "music"
+  },
+  {
+    "Spanish": "educación física",
+    "English": "physical education"
+  },
+  {
+    "Spanish": "religión",
+    "English": "religion"
+  },
+  {
+    "Spanish": "informática",
+    "English": "computer science"
+  },
+  {
+    "Spanish": "trabajo",
+    "English": "work/job"
+  },
+  {
+    "Spanish": "empleo",
+    "English": "employment"
+  },
+  {
+    "Spanish": "oficina",
+    "English": "office"
+  },
+  {
+    "Spanish": "empresa",
+    "English": "company"
+  },
+  {
+    "Spanish": "negocio",
+    "English": "business"
+  },
+  {
+    "Spanish": "dinero",
+    "English": "money"
+  },
+  {
+    "Spanish": "banco",
+    "English": "bank"
+  },
+  {
+    "Spanish": "tarjeta",
+    "English": "card"
+  },
+  {
+    "Spanish": "efectivo",
+    "English": "cash"
+  },
+  {
+    "Spanish": "precio",
+    "English": "price"
+  },
+  {
+    "Spanish": "oferta",
+    "English": "sale/deal"
+  },
+  {
+    "Spanish": "compra",
+    "English": "purchase"
+  },
+  {
+    "Spanish": "venta",
+    "English": "sale"
+  },
+  {
+    "Spanish": "cliente",
+    "English": "customer"
+  },
+  {
+    "Spanish": "cajero",
+    "English": "cashier (male)"
+  },
+  {
+    "Spanish": "cajera",
+    "English": "cashier (female)"
+  },
+  {
+    "Spanish": "mercado",
+    "English": "market"
+  },
+  {
+    "Spanish": "supermercado",
+    "English": "supermarket"
+  },
+  {
+    "Spanish": "tienda",
+    "English": "store"
+  },
+  {
+    "Spanish": "panadería",
+    "English": "bakery"
+  },
+  {
+    "Spanish": "farmacia",
+    "English": "pharmacy"
+  },
+  {
+    "Spanish": "restaurante",
+    "English": "restaurant"
+  },
+  {
+    "Spanish": "cafetería",
+    "English": "cafeteria"
+  },
+  {
+    "Spanish": "bar",
+    "English": "bar"
+  },
+  {
+    "Spanish": "menú",
+    "English": "menu"
+  },
+  {
+    "Spanish": "plato",
+    "English": "dish/plate"
+  },
+  {
+    "Spanish": "tenedor",
+    "English": "fork"
+  },
+  {
+    "Spanish": "cuchillo",
+    "English": "knife"
+  },
+  {
+    "Spanish": "cuchara",
+    "English": "spoon"
+  },
+  {
+    "Spanish": "vaso",
+    "English": "glass"
+  },
+  {
+    "Spanish": "taza",
+    "English": "cup"
+  },
+  {
+    "Spanish": "servilleta",
+    "English": "napkin"
+  },
+  {
+    "Spanish": "comida",
+    "English": "food"
+  },
+  {
+    "Spanish": "desayuno",
+    "English": "breakfast"
+  },
+  {
+    "Spanish": "almuerzo",
+    "English": "lunch"
+  },
+  {
+    "Spanish": "cena",
+    "English": "dinner"
+  },
+  {
+    "Spanish": "fruta",
+    "English": "fruit"
+  },
+  {
+    "Spanish": "verdura",
+    "English": "vegetable"
+  },
+  {
+    "Spanish": "carne",
+    "English": "meat"
+  },
+  {
+    "Spanish": "pescado",
+    "English": "fish (as food)"
+  },
+  {
+    "Spanish": "pan",
+    "English": "bread"
+  },
+  {
+    "Spanish": "queso",
+    "English": "cheese"
+  },
+  {
+    "Spanish": "huevo",
+    "English": "egg"
+  },
+  {
+    "Spanish": "leche",
+    "English": "milk"
+  },
+  {
+    "Spanish": "agua",
+    "English": "water"
+  },
+  {
+    "Spanish": "jugo",
+    "English": "juice"
+  },
+  {
+    "Spanish": "refresco",
+    "English": "soda"
+  },
+  {
+    "Spanish": "café",
+    "English": "coffee"
+  },
+  {
+    "Spanish": "té",
+    "English": "tea"
+  },
+  {
+    "Spanish": "cerveza",
+    "English": "beer"
+  },
+  {
+    "Spanish": "vino",
+    "English": "wine"
+  },
+  {
+    "Spanish": "postre",
+    "English": "dessert"
+  },
+  {
+    "Spanish": "pastel",
+    "English": "cake"
+  },
+  {
+    "Spanish": "galleta",
+    "English": "cookie"
+  },
+  {
+    "Spanish": "chocolate",
+    "English": "chocolate"
+  },
+  {
+    "Spanish": "helado",
+    "English": "ice cream"
+  },
+  {
+    "Spanish": "sal",
+    "English": "salt"
+  },
+  {
+    "Spanish": "azúcar",
+    "English": "sugar"
+  },
+  {
+    "Spanish": "arroz",
+    "English": "rice"
+  },
+  {
+    "Spanish": "pasta",
+    "English": "pasta"
+  },
+  {
+    "Spanish": "sopa",
+    "English": "soup"
+  },
+  {
+    "Spanish": "aceite",
+    "English": "oil"
+  },
+  {
+    "Spanish": "mantequilla",
+    "English": "butter"
+  },
+  {
+    "Spanish": "limón",
+    "English": "lemon"
+  },
+  {
+    "Spanish": "manzana",
+    "English": "apple"
+  },
+  {
+    "Spanish": "plátano",
+    "English": "banana"
+  },
+  {
+    "Spanish": "naranja",
+    "English": "orange"
+  },
+  {
+    "Spanish": "uva",
+    "English": "grape"
+  },
+  {
+    "Spanish": "fresa",
+    "English": "strawberry"
+  },
+  {
+    "Spanish": "tomate",
+    "English": "tomato"
+  },
+  {
+    "Spanish": "cebolla",
+    "English": "onion"
+  },
+  {
+    "Spanish": "ajo",
+    "English": "garlic"
+  },
+  {
+    "Spanish": "lechuga",
+    "English": "lettuce"
+  },
+  {
+    "Spanish": "zanahoria",
+    "English": "carrot"
+  },
+  {
+    "Spanish": "papa",
+    "English": "potato"
+  },
+  {
+    "Spanish": "maíz",
+    "English": "corn"
+  },
+  {
+    "Spanish": "pepino",
+    "English": "cucumber"
+  },
+  {
+    "Spanish": "ropa",
+    "English": "clothing"
   }
 ]

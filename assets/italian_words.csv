@@ -1,6 +1,501 @@
 Italian,English
-ciao,hello
+io,I
+tu,you (informal singular)
+lui,he
+lei,she
+noi,we
+voi,you (plural)
+loro,they
+mi,myself
+ti,yourself
+si,himself/herself/themselves
+ci,ourselves
+vi,yourselves
+me,me
+te,you
+sé,oneself
+questo,this
+quello,that
+qui,here
+lì,there
+là,over there
+chi,who
+che,what
+cosa,thing/what
+dove,where
+quando,when
+perché,why/because
+come,how
+quanto,how much
+quale,which
+e,and
+o,or
+ma,but
+per,for
+con,with
+senza,without
+tra,between/among
+fra,between/among
+su,on
+giù,down
+sotto,under
+sopra,above
+davanti,in front
+dietro,behind
+dentro,inside
+fuori,outside
+prima,before
+dopo,after
+sempre,always
+mai,never
+spesso,often
+a volte,sometimes
+oggi,today
+ieri,yesterday
+domani,tomorrow
+adesso,now
+poi,then/later
+già,already
+ancora,still/yet
+subito,immediately
+presto,soon
+tardi,late
+ora,now/hour
+uomo,man
+donna,woman
+bambino,child (boy)
+bambina,child (girl)
+persona,person
+gente,people
+amico,friend (male)
+amica,friend (female)
+madre,mother
+padre,father
+fratello,brother
+sorella,sister
+figlio,son
+figlia,daughter
+marito,husband
+moglie,wife
+famiglia,family
+casa,house/home
+scuola,school
+lavoro,work/job
+giorno,day
+notte,night
+mattina,morning
+sera,evening
+tempo,time/weather
+anno,year
+mese,month
+settimana,week
+ora,hour
+minuto,minute
+secondo,second
+vita,life
+mano,hand
+occhio,eye
+testa,head
+cuore,heart
+faccia,face
+bocca,mouth
+naso,nose
+orecchio,ear
+capelli,hair
+piede,foot
+gamba,leg
+braccio,arm
+corpo,body
+voce,voice
+parola,word
+lingua,language/tongue
+nome,name
+numero,number
+colore,color
+cosa,thing
+oggetto,object
+luogo,place
+strada,street
+città,city
+paese,country/town
+mondo,world
+acqua,water
+cibo,food
+pane,bread
+latte,milk
+carne,meat
+pesce,fish
+frutta,fruit
+verdura,vegetable
+zucchero,sugar
+sale,salt
+bevanda,drink
+caffè,coffee
+tè,tea
+birra,beer
+vino,wine
+colazione,breakfast
+pranzo,lunch
+cena,dinner
+ristorante,restaurant
+bar,bar/café
+negozio,shop
+mercato,market
+scuola,school
+università,university
+ospedale,hospital
+farmacia,pharmacy
+medico,doctor
+infermiere,nurse
+polizia,police
+stazione,station
+treno,train
+autobus,bus
+macchina,car
+bicicletta,bicycle
+aereo,airplane
+nave,ship
+viaggio,trip
+vacanza,vacation
+valigia,suitcase
+mappa,map
+biglietto,ticket
+denaro,money
+soldi,money
+prezzo,price
+conto,bill
+moneta,coin
+banconota,bill (paper money)
+borsa,bag/purse
+portafoglio,wallet
+carta,card/paper
+documento,document
+passaporto,passport
+telefono,phone
+computer,computer
+internet,internet
+email,email
+lettera,letter
+giornale,newspaper
+rivista,magazine
+libro,book
+pagina,page
+penna,pen
+matita,pencil
+carta,paper
+sedia,chair
+tavolo,table
+letto,bed
+porta,door
+finestra,window
+muro,wall
+soffitto,ceiling
+pavimento,floor
+chiave,key
+orologio,watch/clock
+specchio,mirror
+doccia,shower
+bagno,bathroom
+cucina,kitchen
+camera,room
+salotto,living room
+giardino,garden
+balcone,balcony
+lavorare,to work
+studiare,to study
+leggere,to read
+scrivere,to write
+parlare,to speak
+ascoltare,to listen
+vedere,to see
+guardare,to watch
+mangiare,to eat
+bere,to drink
+dormire,to sleep
+alzarsi,to get up
+sedersi,to sit down
+camminare,to walk
+correre,to run
+nuotare,to swim
+giocare,to play
+aprire,to open
+chiudere,to close
+entrare,to enter
+uscire,to exit
+comprare,to buy
+vendere,to sell
+pagare,to pay
+cucinare,to cook
+pulire,to clean
+lavare,to wash
+mettere,to put
+prendere,to take
+dare,to give
+ricevere,to receive
+amare,to love
+piacere,to like
+odiare,to hate
+pensare,to think
+credere,to believe
+sapere,to know (facts)
+conoscere,to know (people)
+capire,to understand
+ricordare,to remember
+dimenticare,to forget
+volere,to want
+potere,to be able/can
+dovere,to have to/must
+avere,to have
+essere,to be
+andare,to go
+venire,to come
+tornare,to return
+arrivare,to arrive
+partire,to leave
+stare,to stay
+vivere,to live
+morire,to die
+nascere,to be born
+diventare,to become
+sentire,to hear/feel
+chiedere,to ask
+rispondere,to answer
+iniziare,to start
+finire,to finish
+giocattolo,toy
+animale,animal
+cane,dog
 gatto,cat
-casa,house
-grazie,thank you
+uccello,bird
+pesce,fish
+mucca,cow
+cavallo,horse
+pecora,sheep
+maiale,pig
+scimmia,monkey
+orso,bear
+leone,lion
+tigre,tiger
+elefante,elephant
+zebra,zebra
+animale domestico,pet
+insetto,insect
+ragno,spider
+ape,bee
+formica,ant
+farfalla,butterfly
+tempo,weather/time
+sole,sun
+pioggia,rain
+neve,snow
+vento,wind
+nuvola,cloud
+cielo,sky
+freddo,cold
+caldo,hot
+primavera,spring
+estate,summer
+autunno,autumn
+inverno,winter
+giorno,day
+notte,night
+mattina,morning
+pomeriggio,afternoon
+sera,evening
+oggi,today
+domani,tomorrow
+ieri,yesterday
+settimana,week
+mese,month
+anno,year
+lunedì,Monday
+martedì,Tuesday
+mercoledì,Wednesday
+giovedì,Thursday
+venerdì,Friday
+sabato,Saturday
+domenica,Sunday
+gennaio,January
+febbraio,February
+marzo,March
+aprile,April
+maggio,May
+giugno,June
+luglio,July
+agosto,August
+settembre,September
+ottobre,October
+novembre,November
+dicembre,December
+rosso,red
+blu,blue
+verde,green
+giallo,yellow
+arancione,orange
+rosa,pink
+viola,purple
+marrone,brown
+bianco,white
+nero,black
+grigio,gray
+chiaro,light (color)
+scuro,dark (color)
+alto,tall
+basso,short/low
+grande,big
+piccolo,small
+lungo,long
+corto,short
+veloce,fast
+lento,slow
+forte,strong
+debole,weak
+pesante,heavy
+leggero,light
+facile,easy
+difficile,difficult
+pulito,clean
+sporco,dirty
+giovane,young
+vecchio,old
+nuovo,new
+vecchio,old
+bello,beautiful
+brutto,ugly
+buono,good
+cattivo,bad
+felice,happy
+triste,sad
+arrabbiato,angry
+stanco,tired
+malato,sick
+sano,healthy
+ricco,rich
+povero,poor
+aperto,open
+chiuso,closed
+giusto,right/correct
+sbagliato,wrong
+vero,true
+falso,false
+fortunato,lucky
+sfortunato,unlucky
+contento,content
+preoccupato,worried
+calmo,calm
+nervoso,nervous
+silenzioso,quiet
+rumoroso,noisy
+educato,polite
+scortese,impolite
+gentile,kind
+cattivo,mean
+intelligente,intelligent
+stupido,stupid
+onesto,honest
+bugiardo,liar
+simpatico,nice/friendly
+antipatico,unfriendly
+timido,shy
+sicuro,safe/confident
+pericoloso,dangerous
+occupato,busy
+libero,free
+interessante,interesting
+noioso,boring
+divertente,fun
+importante,important
+necessario,necessary
+utile,useful
+inutile,useless
+pronto,ready
+famoso,famous
+normale,normal
+strano,strange
+locale,local
+internazionale,international
+personale,personal
+pubblico,public
+fortunatamente,fortunately
+sfortunatamente,unfortunately
+probabilmente,probably
+semplicemente,simply
+finalmente,finally
+normalmente,normally
+spesso,often
+raramente,rarely
+ogni,every
+qualche,some
+alcuni,some (plural)
+nessuno,no one
+tutti,everyone
+qualcuno,someone
+qualcosa,something
+niente,nothing
+ognuno,everyone (individual)
+altro,other
+stesso,same
+diverso,different
+prima,before
+dopo,after
+durante,during
+mentre,while
+senza,without
+con,with
+sotto,under
+sopra,above
+contro,against
+verso,toward
+intorno,around
+dentro,inside
+fuori,outside
+oltre,beyond
+circa,about/around
+secondo,according to
+invece,instead
+anche,also
+pure,too/as well
+perfino,even
+neanche,not even
+anzi,on the contrary
+cioè,that is
+infatti,in fact
+dunque,so/therefore
+perciò,therefore
+allora,then/so
+insomma,in short
+comunque,anyway
+magari,maybe/perhaps
+addirittura,even (emphatic)
+appena,just (now)
+quasi,almost
+giusto,right
+esatto,exact
+preciso,precise
+chiaro,clear
+ovviamente,obviously
+naturalmente,naturally
+certamente,certainly
+assolutamente,absolutely
+forse,maybe
+probabile,likely
+impossibile,impossible
+possibile,possible
+vero,true
+falso,false
+pieno,full
+vuoto,empty
+lontano,far
+vicino,near
+dietro,behind
+davanti,in front
+insieme,together
+da solo,alone
+per esempio,for example
 per favore,please
+grazie,thank you
+prego,you’re welcome
+scusa,excuse me/sorry
+mi dispiace,I’m sorry
+sì,yes
+porta,door

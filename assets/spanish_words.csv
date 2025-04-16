@@ -1,4 +1,501 @@
 Spanish,English
-hola,hello
-gato,cat
+yo,I
+tú,you (informal singular)
+él,he
+ella,she
+nosotros,we (masculine/mixed)
+nosotras,we (feminine)
+vosotros,you all
+vosotras,you all
+ellos,they (masculine/mixed)
+ellas,they (feminine)
+usted,you (formal singular)
+ustedes,you all (formal/plural in Latin America)
+me,me
+te,you 
+lo,him/it (masculine)
+la,her/it (feminine)
+nos,us
+os,you all
+los,them (masculine)
+las,them (feminine)
+mi,my
+tu,your (informal)
+su,his/her/your (formal)/their
+nuestro,our (masculine)
+nuestra,our (feminine)
+vuestro,your
+vuestra,your
+este,this (masculine)
+esta,this (feminine)
+estos,these (masculine)
+estas,these (feminine)
+ese,that (masculine)
+esa,that (feminine)
+esos,those (masculine)
+esas,those (feminine)
+a,to
+de,of/from
+con,with
+sin,without
+por,by/through
+para,for/in order to
+en,in/on
+sobre,on/about
+entre,between/among
+hasta,until
+desde,from/since
+del,of the (contraction of de + el)
+al,to the (contraction of a + el)
+sí,yes
+no,no
+y,and
+o,or
+pero,but
+porque,because
+aunque,although
+que,that/which
+quien,who
+cual,which
+donde,where
+cuando,when
+como,how
+cuanto,how much
+cuántos,how many (masculine)
+cuántas,how many (feminine)
+qué,what
+todo,everything
+nada,nothing
+algo,something
+alguien,someone
+nadie,no one
+cada,each
+más,more
+menos,less
+muy,very
+tan,so
+también,also
+tampoco,neither
+ya,already
+todavía,still
+aún,still/yet
+nunca,never
+si,if
+pues,well
+entonces,then
+luego,later/then
+después,after
+antes,before
+ahora,now
+hoy,today
+ayer,yesterday
+mañana,tomorrow
+siempre,always
+pronto,soon
+tarde,late/afternoon
+temprano,early
+bien,well
+mal,badly
+mejor,better
+peor,worse
+grande,big
+pequeño,small
+alto,tall/high
+bajo,short/low
+largo,long
+corto,short
+nuevo,new
+viejo,old
+bueno,good
+malo,bad
+mejor,better
+peor,worse
+fácil,easy
+difícil,difficult
+rápido,fast
+lento,slow
+caliente,hot
+frío,cold
+duro,hard
+blando,soft
+fuerte,strong
+débil,weak
+limpio,clean
+sucio,dirty
+bonito,pretty
+feo,ugly
+feliz,happy
+triste,sad
+enojado,angry
+cansado,tired
+enfermo,sick
+sano,healthy
+rico,rich/delicious
+pobre,poor
+caro,expensive
+barato,cheap
+abierto,open
+cerrado,closed
+correcto,correct
+incorrecto,incorrect
+cierto,true
+falso,false
+lleno,full
+vacío,empty
+cerca,near
+lejos,far
+adentro,inside
+afuera,outside
+arriba,up
+abajo,down
+delante,in front
+detrás,behind
+izquierda,left
+derecha,right
+aquí,here
+ahí,there
+allí,over there
+encima,on top
+debajo,under
+primero,first
+último,last
+anterior,previous
+siguiente,next
+mismo,same
+otro,other/another
+diferente,different
+nuevo,new
+viejo,old
+gracioso,funny
+serio,serious
+tranquilo,calm
+nervioso,nervous
+ocupado,busy
+libre,free (available)
+listo,ready/smart
+importante,important
+interesante,interesting
+aburrido,boring
+útil,useful
+inútil,useless
+posible,possible
+imposible,impossible
+seguro,safe/sure
+peligroso,dangerous
+amable,kind
+educado,polite
+grosero,rude
+famoso,famous
+normal,normal
+extraño,strange
+típico,typical
+común,common
+especial,special
+favorito,favorite
+real,real
+difícil,difficult
+fácil,easy
+rápido,fast
+lento,slow
+pesado,heavy
+ligero,light (weight)
+persona,person
+gente,people
+hombre,man
+mujer,woman
+niño,boy/child
+niña,girl/child
+chico,boy
+chica,girl
+amigo,friend (male)
+amiga,friend (female)
+padre,father
+madre,mother
+hermano,brother
+hermana,sister
+hijo,son
+hija,daughter
+abuelo,grandfather
+abuela,grandmother
+tío,uncle
+tía,aunt
+primo,cousin (male)
+prima,cousin (female)
+esposo,husband
+esposa,wife
+familia,family
+pareja,partner/couple
+bebé,baby
+profesor,teacher (male)
+profesora,teacher (female)
+alumno,student (male)
+alumna,student (female)
+estudiante,student
+doctor,doctor (male)
+doctora,doctor (female)
+paciente,patient
+cliente,client/customer
+jefe,boss (male)
+jefa,boss (female)
+trabajador,worker (male)
+trabajadora,worker (female)
+compañero,colleague/partner
+vecino,neighbor (male)
+vecina,neighbor (female)
+dueño,owner (male)
+dueña,owner (female)
+conductor,driver (male)
+conductora,driver (female)
+policía,police officer
+bombero,firefighter (male)
+bombera,firefighter (female)
+camarero,waiter
+camarera,waitress
+mesero,waiter (Latin America)
+mesera,waitress (Latin America)
+cocinero,cook (male)
+cocinera,cook (female)
+ingeniero,engineer (male)
+ingeniera,engineer (female)
+abogado,lawyer (male)
+abogada,lawyer (female)
+artista,artist
+cantante,singer
+actor,actor
+actriz,actress
+deportista,athlete
+peluquero,hairdresser (male)
+peluquera,hairdresser (female)
+estilista,stylist
+panadero,baker (male)
+panadera,baker (female)
+carpintero,carpenter (male)
+carpintera,carpenter (female)
+electricista,electrician
+mecánico,mechanic (male)
+mecánica,mechanic (female)
+veterinario,veterinarian (male)
+veterinaria,veterinarian (female)
+científico,scientist (male)
+científica,scientist (female)
+secretario,secretary (male)
+secretaria,secretary (female)
+director,director/principal (male)
+directora,director/principal (female)
+repartidor,delivery person (male)
+repartidora,delivery person (female)
+juez,judge
+político,politician (male)
+política,politician (female)
+religioso,religious (person)
+sacerdote,priest
+monja,nun
+rey,king
+reina,queen
+presidente,president
+presidenta,president (female)
+soldado,soldier
+guarda,guard
+criminal,criminal
+ladrón,thief (male)
+ladrona,thief (female)
 casa,house
+hogar,home
+apartamento,apartment
+habitación,room
+cuarto,room
+baño,bathroom
+cocina,kitchen
+comedor,dining room
+sala,living room
+puerta,door
+ventana,window
+pared,wall
+techo,ceiling/roof
+piso,floor/apartment
+escalera,staircase
+ascensor,elevator
+garaje,garage
+jardín,garden
+balcón,balcony
+terraza,terrace
+mueble,furniture
+silla,chair
+mesa,table
+sofá,sofa
+cama,bed
+almohada,pillow
+colchón,mattress
+sábana,sheet
+mantas,blankets
+cobija,blanket
+toalla,towel
+espejo,mirror
+armario,closet
+ropero,wardrobe
+cajón,drawer
+estante,shelf
+luz,light
+lámpara,lamp
+bombilla,lightbulb
+interruptor,light switch
+enchufe,plug
+televisor,TV
+radio,radio
+reloj,clock/watch
+computadora,computer
+ordenador,computer (Spain)
+teléfono,telephone
+celular,cell phone
+cargador,charger
+internet,internet
+correo,email
+papel,paper
+libro,book
+revista,magazine
+periódico,newspaper
+cuaderno,notebook
+bolígrafo,pen
+pluma,pen (Mexico)
+lápiz,pencil
+borrador,eraser
+mochila,backpack
+carpeta,folder
+documento,document
+archivo,file
+impresora,printer
+pantalla,screen
+teclado,keyboard
+ratón,mouse
+altavoz,speaker
+cámara,camera
+foto,photo
+imagen,image
+video,video
+película,movie
+música,music
+canción,song
+voz,voice
+sonido,sound
+silencio,silence
+ruido,noise
+palabra,word
+frase,sentence
+oración,sentence/prayer
+pregunta,question
+respuesta,answer
+historia,story/history
+cuento,short story
+novela,novel
+poema,poem
+lengua,language/tongue
+idioma,language
+traducción,translation
+significado,meaning
+diccionario,dictionary
+escuela,school
+colegio,school (some regions)
+universidad,university
+clase,class
+estudio,study
+maestro,teacher (primary school)
+maestra,teacher
+estudiante,student
+examen,exam
+tarea,homework
+nota,grade
+pregunta,question
+respuesta,answer
+lección,lesson
+biblioteca,library
+laboratorio,laboratory
+mapa,map
+globo,globe
+regla,ruler
+matemáticas,math
+ciencia,science
+historia,history
+geografía,geography
+arte,art
+música,music
+educación física,physical education
+religión,religion
+informática,computer science
+trabajo,work/job
+empleo,employment
+oficina,office
+empresa,company
+negocio,business
+dinero,money
+banco,bank
+tarjeta,card
+efectivo,cash
+precio,price
+oferta,sale/deal
+compra,purchase
+venta,sale
+cliente,customer
+cajero,cashier (male)
+cajera,cashier (female)
+mercado,market
+supermercado,supermarket
+tienda,store
+panadería,bakery
+farmacia,pharmacy
+restaurante,restaurant
+cafetería,cafeteria
+bar,bar
+menú,menu
+plato,dish/plate
+tenedor,fork
+cuchillo,knife
+cuchara,spoon
+vaso,glass
+taza,cup
+servilleta,napkin
+comida,food
+desayuno,breakfast
+almuerzo,lunch
+cena,dinner
+fruta,fruit
+verdura,vegetable
+carne,meat
+pescado,fish (as food)
+pan,bread
+queso,cheese
+huevo,egg
+leche,milk
+agua,water
+jugo,juice
+refresco,soda
+café,coffee
+té,tea
+cerveza,beer
+vino,wine
+postre,dessert
+pastel,cake
+galleta,cookie
+chocolate,chocolate
+helado,ice cream
+sal,salt
+azúcar,sugar
+arroz,rice
+pasta,pasta
+sopa,soup
+aceite,oil
+mantequilla,butter
+limón,lemon
+manzana,apple
+plátano,banana
+naranja,orange
+uva,grape
+fresa,strawberry
+tomate,tomato
+cebolla,onion
+ajo,garlic
+lechuga,lettuce
+zanahoria,carrot
+papa,potato
+maíz,corn
+pepino,cucumber
+ropa,clothing

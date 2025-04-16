@@ -1,6 +1,500 @@
 German,English
-hallo,hello
-katze,cat
-haus,house
-danke,thank you
-bitte,please
+ich,I
+du,you (informal singular)
+er,he
+es,it
+wir,we
+ihr,you (informal plural)
+Sie,you (formal)
+was,what
+wer,who
+wie,how
+wo,where
+warum,why
+wann,when
+nicht,not
+kein,no/none
+ja,yes
+nein,no
+und,and
+aber,but
+oder,or
+denn,because
+dass,that
+wenn,if/when
+weil,because
+ob,whether
+mit,with
+ohne,without
+für,for
+gegen,against
+um,to/in order to
+an,at/on
+auf,on
+in,in
+unter,under
+über,over/about
+neben,next to
+zwischen,between
+vor,before/in front of
+hinter,behind
+aus,out of
+zu,to
+nach,after/to
+von,from/of
+bei,at/near
+seit,since
+bis,until
+durch,through
+dies,this
+das,that/the
+ein,a/an (masculine/neuter)
+eine,a/an (feminine)
+der,the (masculine)
+die,the (feminine/plural)
+mein,my
+dein,your (informal singular)
+sein,his/its
+unser,our
+euer,your (plural informal)
+Ihr,your (formal)
+werde,will/become (1st person)
+wirst,will/become (2nd person)
+wird,will/become (3rd person)
+sind,are (1st/3rd person plural)
+ist,is
+war,was (1st/3rd person)
+waren,were
+hat,has
+habe,have
+hast,have (2nd person)
+hatte,had
+kann,can
+können,can (plural)
+muss,must
+müssen,must (plural)
+soll,should
+sollen,should (plural)
+will,want
+wollen,want (plural)
+mag,like
+mögen,like (plural)
+weiß,know
+wissen,to know
+sehe,see
+siehst,see (2nd person)
+sieht,sees
+sehen,to see
+sage,say
+sagst,say (2nd person)
+sagt,says
+sagen,to say
+mache,do/make
+machst,do/make (2nd person)
+macht,does/makes
+machen,to do/make
+gehe,go
+gehst,go (2nd person)
+geht,goes
+gehen,to go
+komme,come
+kommst,come (2nd person)
+kommt,comes
+kommen,to come
+den,the (accusative masculine)
+dem,the (dative masculine/neuter)
+einen,a/an (accusative masculine)
+einem,a/an (dative masculine/neuter)
+einer,a/an (dative feminine)
+dieser,this (masculine)
+diese,this (feminine/plural)
+dieses,this (neuter)
+jeder,every (masculine)
+jede,every (feminine)
+jedes,every (neuter)
+man,one/people/you (general)
+jemand,someone
+niemand,no one
+alle,everyone/all
+alles,everything
+etwas,something
+nichts,nothing
+viele,many
+wenige,few
+mehr,more
+weniger,less
+andere,other
+neu,new
+alt,old
+jung,young
+groß,large/big
+klein,small
+lang,long
+kurz,short
+gut,good
+schlecht,bad
+schön,beautiful
+hässlich,ugly
+richtig,right/correct
+falsch,wrong/false
+heiß,hot
+kalt,cold
+warm,warm
+freundlich,friendly
+nett,nice
+glücklich,happy
+traurig,sad
+müde,tired
+wach,awake
+krank,sick
+gesund,healthy
+schnell,fast
+langsam,slow
+laut,loud
+leise,quiet
+stark,strong
+schwach,weak
+leicht,light/easy
+schwer,heavy/hard
+früh,early
+spät,late
+bereit,ready
+interessant,interesting
+langweilig,boring
+wichtig,important
+möglich,possible
+unmöglich,impossible
+dunkel,dark
+hell,bright
+nah,near
+fern,far
+oben,up
+unten,down
+drinnen,inside
+draußen,outside
+jetzt,now
+heute,today
+gestern,yesterday
+morgen,tomorrow
+bald,soon
+später,later
+immer,always
+nie,never
+manchmal,sometimes
+oft,often
+selten,rarely
+schon,already
+nicht mehr,no longer
+wieder,again
+einmal,once
+zweimal,twice
+vielleicht,maybe
+natürlich,of course
+wirklich,really
+gern,gladly
+lieber,rather/preferably
+am liebsten,most preferably
+immer noch,still
+schließlich,eventually/finally
+plötzlich,suddenly
+oftmals,often
+beide,both
+mehrere,several
+ein paar,a few
+einige,some
+alleine,alone
+zusammen,together
+manuell,manually
+automatisch,automatically
+sicher,safe/sure
+unsicher,unsafe/uncertain
+fertig,finished/ready
+offen,open
+geschlossen,closed
+leer,empty
+voll,full
+ganz,whole/entire
+halb,half
+vorne,in front
+hinten,at the back
+links,left
+rechts,right
+hier,here
+dort,there
+überall,everywhere
+nirgendwo,nowhere
+irgendwo,somewhere
+niemanden,no one (accusative)
+jemanden,someone (accusative)
+mich,me (accusative)
+dich,you
+ihn,him
+uns,us
+euch,you (plural informal)
+mir,to me (dative)
+dir,to you (informal)
+ihm,to him
+ihnen,to them
+Ihnen,to you (formal)
+jenes,that (neuter)
+solch,such
+welcher,which (masculine)
+welche,which (feminine/plural)
+welches,which (neuter)
+was für,what kind of
+wie viel,how much
+wie viele,how many
+irgendjemand,anybody
+mancher,some (masculine)
+manche,some (feminine/plural)
+manches,some (neuter)
+viel,a lot
+wenig,little
+genug,enough
+zu viel,too much
+zu wenig,too little
+mehr als,more than
+weniger als,less than
+mindestens,at least
+höchstens,at most
+circa,about/approximately
+ungefähr,approximately
+fast,almost
+genau,exactly
+nur,only
+auch,also/too
+sogar,even
+eben,just now
+gerade,just/just now
+doch,however/but/still
+noch,still/yet
+niemals,never
+kaum,hardly
+wohl,probably
+eventuell,possibly
+bestimmt,definitely
+eigentlich,actually
+tatsächlich,indeed/actually
+offensichtlich,obviously
+dennoch,nevertheless
+jedoch,however
+zwar,indeed (but...)
+sowieso,anyway
+übrigens,by the way
+deshalb,therefore
+darum,that’s why
+daher,from there/hence
+weshalb,why/for what reason
+weswegen,why/for what reason
+inzwischen,meanwhile
+mittlerweile,by now
+danach,after that
+darauf,thereon/afterward
+davor,before that
+zuerst,first
+dann,then
+zuletzt,lastly
+endlich,finally
+heutzutage,nowadays
+früher,formerly
+damals,back then
+bisher,so far
+schon einmal,ever before
+noch nie,never before
+ab und zu,now and then
+immer wieder,again and again
+tag,today
+woche,week
+monat,month
+jahr,year
+abend,evening
+nacht,night
+mittwoch,Wednesday
+freitag,Friday
+samstag,Saturday
+sonntag,Sunday
+montag,Monday
+dienstag,Tuesday
+donnerstag,Thursday
+frühstück,breakfast
+mittag,lunch
+abendessen,dinner
+brot,bread
+wasser,water
+kaffee,coffee
+tee,tea
+milch,milk
+saft,juice
+trinken,to drink
+essen,to eat
+kochen,to cook
+backen,to bake
+kaufen,to buy
+verkaufen,to sell
+bezahlen,to pay
+kosten,to cost
+preis,price
+billig,cheap
+teuer,expensive
+laden,store
+supermarkt,supermarket
+geschäft,shop/business
+bäcker,baker
+fleischer,butcher
+markt,market
+öffnen,to open
+schließen,to close
+beginnen,to begin
+enden,to end
+starten,to start
+stoppen,to stop
+arbeiten,to work
+ruhen,to rest
+schlafen,to sleep
+aufwachen,to wake up
+anziehen,to get dressed
+ausziehen,to undress
+duschen,to shower
+baden,to bathe
+putzen,to clean
+waschen,to wash
+frisieren,to do hair
+kämmen,to comb
+rasieren,to shave
+Zähne putzen,to brush teeth
+fahren,to drive
+laufen,to run
+rennen,to sprint
+fliegen,to fly
+steigen,to climb
+fallen,to fall
+sitzen,to sit
+stehen,to stand
+liegen,to lie (recline)
+bringen,to bring
+nehmen,to take
+halten,to hold
+lassen,to let/leave
+geben,to give
+bekommen,to receive
+zeigen,to show
+finden,to find
+suchen,to search
+tun,to do
+denken,to think
+kennen,to know (someone/something)
+verstehen,to understand
+glauben,to believe
+meinen,to mean
+erklären,to explain
+erzählen,to tell
+fragen,to ask
+antworten,to answer
+rufen,to call
+schreien,to scream
+hören,to hear
+fühlen,to feel
+riechen,to smell
+schmecken,to taste
+anfassen,to touch
+lieben,to love
+hassen,to hate
+freuen (sich),to be happy
+ärgern (sich),to be annoyed
+weinen,to cry
+lachen,to laugh
+spielen,to play
+lernen,to learn
+studieren,to study
+unterrichten,to teach
+lesen,to read
+schreiben,to write
+zeichnen,to draw
+malen,to paint
+singen,to sing
+tanzen,to dance
+fotografieren,to take photos
+telefonieren,to make a call
+texten,to text
+reisen,to travel
+besuchen,to visit
+bleiben,to stay
+verlassen,to leave
+leben,to live
+wohnen,to reside
+heiraten,to marry
+gewinnen,to win
+verlieren,to lose
+verdienen,to earn
+zahlen,to pay
+Rechnung,bill/invoice
+Schlüssel,key
+Tür,door
+Fenster,window
+Auto,car
+Zug,train
+Bus,bus
+Fahrrad,bicycle
+Straße,street
+Haus,house
+Wohnung,apartment
+Stadt,city
+Dorf,village
+Land,country
+Welt,world
+Freund,friend (male)
+freundin,friend (female)
+familie,family
+schule,school
+universität,university
+zeit,time
+uhr,clock
+wetter,weather
+regen,rain
+schnee,snow
+schlüsselbund,keychain
+telefon,telephone
+kamera,camera
+computer,computer
+Hund,dog  
+Katze,cat  
+Vogel,bird  
+Fisch,fish  
+Pferd,horse  
+Schwein,pig  
+Huhn,chicken  
+Tisch,table  
+Stuhl,chair  
+Lampe,lamp  
+Buch,book  
+Zeitung,newspaper  
+Heft,notebook  
+Fensterbank,windowsill  
+Kühlschrank,fridge  
+Ofen,oven  
+Herd,stove  
+Besteck,cutlery  
+Löffel,spoon  
+Gabel,fork  
+Messer,knife  
+Teller,plate  
+Schüssel,bowl  
+Tasse,cup  
+Glas,glass  
+Schrank,cabinet  
+Spiegel,mirror  
+Seife,soap  
+Handtuch,towel  
+Zahnbürste,toothbrush  
+Zahnpasta,toothpaste  
+Drucker,printer  
+Bild,picture  
+Treppe,staircase  
+Decke,blanket/ceiling (depending on context)  
+Boden,floor  
+Tasche,bag  
+Kleidung,clothing  
+Jacke,jacket  
+Hose,pants  
+Schuh,shoe 
+Mütze,cap/hat

@@ -1,18 +1,2002 @@
 [
   {
-    "French": "partie",
-    "English": "part"
+    "French": "je",
+    "English": "I"
   },
   {
-    "French": "chien",
-    "English": "dog"
+    "French": "de",
+    "English": "of/from"
+  },
+  {
+    "French": "est",
+    "English": "is"
+  },
+  {
+    "French": "pas",
+    "English": "not"
+  },
+  {
+    "French": "le",
+    "English": "the (masc)"
+  },
+  {
+    "French": "vous",
+    "English": "you (formal/plural)"
+  },
+  {
+    "French": "la",
+    "English": "the (fem)"
+  },
+  {
+    "French": "tu",
+    "English": "you (informal/singular)"
+  },
+  {
+    "French": "que",
+    "English": "that/what"
+  },
+  {
+    "French": "un",
+    "English": "a/one (masc)"
+  },
+  {
+    "French": "une",
+    "English": "a/one (fem)"
+  },
+  {
+    "French": "à",
+    "English": "to/at"
+  },
+  {
+    "French": "il",
+    "English": "he/it"
+  },
+  {
+    "French": "et",
+    "English": "and"
+  },
+  {
+    "French": "en",
+    "English": "in/by"
+  },
+  {
+    "French": "être",
+    "English": "to be"
+  },
+  {
+    "French": "avoir",
+    "English": "to have"
+  },
+  {
+    "French": "pour",
+    "English": "for"
+  },
+  {
+    "French": "dans",
+    "English": "in"
+  },
+  {
+    "French": "ce",
+    "English": "this/that"
+  },
+  {
+    "French": "ne",
+    "English": "not"
+  },
+  {
+    "French": "sur",
+    "English": "on/upon"
+  },
+  {
+    "French": "se",
+    "English": "himself/herself/itself"
+  },
+  {
+    "French": "qui",
+    "English": "who"
+  },
+  {
+    "French": "y",
+    "English": "there"
+  },
+  {
+    "French": "avec",
+    "English": "with"
+  },
+  {
+    "French": "tout",
+    "English": "all/everything"
+  },
+  {
+    "French": "faire",
+    "English": "to do/to make"
+  },
+  {
+    "French": "son",
+    "English": "his/her/its (masc)"
+  },
+  {
+    "French": "mettre",
+    "English": "to put"
+  },
+  {
+    "French": "autre",
+    "English": "other"
+  },
+  {
+    "French": "on",
+    "English": "one/we"
+  },
+  {
+    "French": "mais",
+    "English": "but"
+  },
+  {
+    "French": "nous",
+    "English": "we/us"
+  },
+  {
+    "French": "comme",
+    "English": "like/as"
+  },
+  {
+    "French": "ou",
+    "English": "or"
+  },
+  {
+    "French": "si",
+    "English": "if"
+  },
+  {
+    "French": "leur",
+    "English": "their"
+  },
+  {
+    "French": "y",
+    "English": "there"
+  },
+  {
+    "French": "dire",
+    "English": "to say"
+  },
+  {
+    "French": "elle",
+    "English": "she/it"
+  },
+  {
+    "French": "devant",
+    "English": "in front of"
+  },
+  {
+    "French": "devoir",
+    "English": "to have to/must"
+  },
+  {
+    "French": "même",
+    "English": "same/even"
+  },
+  {
+    "French": "prendre",
+    "English": "to take"
+  },
+  {
+    "French": "aucun",
+    "English": "none/no"
+  },
+  {
+    "French": "celui",
+    "English": "the one/he"
+  },
+  {
+    "French": "donner",
+    "English": "to give"
+  },
+  {
+    "French": "où",
+    "English": "where"
+  },
+  {
+    "French": "fois",
+    "English": "time (occurrence)"
+  },
+  {
+    "French": "vous",
+    "English": "you (formal/plural)"
+  },
+  {
+    "French": "encore",
+    "English": "again/still"
+  },
+  {
+    "French": "nouveau",
+    "English": "new"
+  },
+  {
+    "French": "aller",
+    "English": "to go"
+  },
+  {
+    "French": "cela",
+    "English": "that/it"
+  },
+  {
+    "French": "entre",
+    "English": "between"
+  },
+  {
+    "French": "premier",
+    "English": "first"
+  },
+  {
+    "French": "vouloir",
+    "English": "to want"
+  },
+  {
+    "French": "déjà",
+    "English": "already"
+  },
+  {
+    "French": "grand",
+    "English": "big"
+  },
+  {
+    "French": "mon",
+    "English": "my (masc)"
+  },
+  {
+    "French": "me",
+    "English": "me/myself"
+  },
+  {
+    "French": "moins",
+    "English": "less"
+  },
+  {
+    "French": "aucune",
+    "English": "none/no (fem)"
+  },
+  {
+    "French": "lui",
+    "English": "him"
+  },
+  {
+    "French": "temps",
+    "English": "time/weather"
+  },
+  {
+    "French": "très",
+    "English": "very"
+  },
+  {
+    "French": "savoir",
+    "English": "to know"
+  },
+  {
+    "French": "falloir",
+    "English": "to be necessary"
+  },
+  {
+    "French": "voir",
+    "English": "to see"
+  },
+  {
+    "French": "quelque",
+    "English": "some"
+  },
+  {
+    "French": "sans",
+    "English": "without"
+  },
+  {
+    "French": "raison",
+    "English": "reason"
+  },
+  {
+    "French": "notre",
+    "English": "our"
+  },
+  {
+    "French": "dont",
+    "English": "whose/of which"
+  },
+  {
+    "French": "non",
+    "English": "no"
+  },
+  {
+    "French": "an",
+    "English": "year"
+  },
+  {
+    "French": "monde",
+    "English": "world"
+  },
+  {
+    "French": "jour",
+    "English": "day"
+  },
+  {
+    "French": "madame",
+    "English": "madam"
+  },
+  {
+    "French": "moi",
+    "English": "me"
+  },
+  {
+    "French": "jamais",
+    "English": "never"
+  },
+  {
+    "French": "homme",
+    "English": "man"
+  },
+  {
+    "French": "rien",
+    "English": "nothing"
+  },
+  {
+    "French": "voilà",
+    "English": "there is/here is"
+  },
+  {
+    "French": "après",
+    "English": "after"
+  },
+  {
+    "French": "trouver",
+    "English": "to find"
+  },
+  {
+    "French": "personne",
+    "English": "nobody/person"
+  },
+  {
+    "French": "rendre",
+    "English": "to return (something)"
+  },
+  {
+    "French": "partir",
+    "English": "to leave"
+  },
+  {
+    "French": "dernier",
+    "English": "last"
+  },
+  {
+    "French": "venir",
+    "English": "to come"
+  },
+  {
+    "French": "pendant",
+    "English": "during"
+  },
+  {
+    "French": "passer",
+    "English": "to pass"
+  },
+  {
+    "French": "peu",
+    "English": "little/few"
+  },
+  {
+    "French": "lequel",
+    "English": "which one"
+  },
+  {
+    "French": "suite",
+    "English": "following/series"
+  },
+  {
+    "French": "bon",
+    "English": "good"
+  },
+  {
+    "French": "comprendre",
+    "English": "to understand"
+  },
+  {
+    "French": "depuis",
+    "English": "since"
+  },
+  {
+    "French": "point",
+    "English": "point/dot"
+  },
+  {
+    "French": "ainsi",
+    "English": "thus/so"
+  },
+  {
+    "French": "heure",
+    "English": "hour/time"
+  },
+  {
+    "French": "rester",
+    "English": "to stay"
+  },
+  {
+    "French": "tenir",
+    "English": "to hold"
+  },
+  {
+    "French": "porter",
+    "English": "to wear/to carry"
+  },
+  {
+    "French": "parler",
+    "English": "to speak"
+  },
+  {
+    "French": "fort",
+    "English": "strong"
+  },
+  {
+    "French": "aussi",
+    "English": "also"
+  },
+  {
+    "French": "montrer",
+    "English": "to show"
+  },
+  {
+    "French": "continuer",
+    "English": "to continue"
+  },
+  {
+    "French": "penser",
+    "English": "to think"
+  },
+  {
+    "French": "suivre",
+    "English": "to follow"
+  },
+  {
+    "French": "connaître",
+    "English": "to know (a person)"
+  },
+  {
+    "French": "croire",
+    "English": "to believe"
+  },
+  {
+    "French": "commencer",
+    "English": "to begin"
+  },
+  {
+    "French": "compter",
+    "English": "to count"
+  },
+  {
+    "French": "besoin",
+    "English": "need"
+  },
+  {
+    "French": "oeil",
+    "English": "eye"
+  },
+  {
+    "French": "trouver",
+    "English": "to find"
+  },
+  {
+    "French": "femme",
+    "English": "woman"
+  },
+  {
+    "French": "cas",
+    "English": "case"
+  },
+  {
+    "French": "terre",
+    "English": "earth"
+  },
+  {
+    "French": "arriver",
+    "English": "to arrive"
+  },
+  {
+    "French": "écrire",
+    "English": "to write"
+  },
+  {
+    "French": "niveau",
+    "English": "level"
+  },
+  {
+    "French": "plein",
+    "English": "full"
+  },
+  {
+    "French": "nom",
+    "English": "name"
+  },
+  {
+    "French": "falloir",
+    "English": "it is necessary"
+  },
+  {
+    "French": "gouvernement",
+    "English": "government"
+  },
+  {
+    "French": "rapport",
+    "English": "report"
+  },
+  {
+    "French": "million",
+    "English": "million"
+  },
+  {
+    "French": "part",
+    "English": "part/share"
+  },
+  {
+    "French": "nouvelle",
+    "English": "news"
+  },
+  {
+    "French": "ville",
+    "English": "city"
+  },
+  {
+    "French": "air",
+    "English": "air"
+  },
+  {
+    "French": "permettre",
+    "English": "to allow"
+  },
+  {
+    "French": "mois",
+    "English": "month"
+  },
+  {
+    "French": "loi",
+    "English": "law"
+  },
+  {
+    "French": "aucuns",
+    "English": "none"
+  },
+  {
+    "French": "type",
+    "English": "type/kind"
+  },
+  {
+    "French": "garder",
+    "English": "to keep"
+  },
+  {
+    "French": "mot",
+    "English": "word"
+  },
+  {
+    "French": "question",
+    "English": "question"
+  },
+  {
+    "French": "dieu",
+    "English": "God"
+  },
+  {
+    "French": "plan",
+    "English": "plan"
+  },
+  {
+    "French": "visage",
+    "English": "face"
+  },
+  {
+    "French": "reconnaître",
+    "English": "to recognize"
+  },
+  {
+    "French": "route",
+    "English": "road"
+  },
+  {
+    "French": "penser",
+    "English": "to think"
+  },
+  {
+    "French": "place",
+    "English": "place"
+  },
+  {
+    "French": "école",
+    "English": "school"
+  },
+  {
+    "French": "état",
+    "English": "state"
+  },
+  {
+    "French": "marcher",
+    "English": "to walk"
+  },
+  {
+    "French": "vivre",
+    "English": "to live"
+  },
+  {
+    "French": "objectif",
+    "English": "goal/objective"
+  },
+  {
+    "French": "chambre",
+    "English": "room"
+  },
+  {
+    "French": "aimer",
+    "English": "to like/love"
+  },
+  {
+    "French": "travail",
+    "English": "work"
+  },
+  {
+    "French": "élever",
+    "English": "to raise"
+  },
+  {
+    "French": "droit",
+    "English": "right"
+  },
+  {
+    "French": "chef",
+    "English": "leader/chef"
+  },
+  {
+    "French": "service",
+    "English": "service"
+  },
+  {
+    "French": "fin",
+    "English": "end"
+  },
+  {
+    "French": "attendre",
+    "English": "to wait"
+  },
+  {
+    "French": "envoyer",
+    "English": "to send"
+  },
+  {
+    "French": "important",
+    "English": "important"
+  },
+  {
+    "French": "face",
+    "English": "face"
+  },
+  {
+    "French": "choisir",
+    "English": "to choose"
+  },
+  {
+    "French": "changer",
+    "English": "to change"
+  },
+  {
+    "French": "droite",
+    "English": "right (direction)"
+  },
+  {
+    "French": "créer",
+    "English": "to create"
+  },
+  {
+    "French": "condition",
+    "English": "condition"
+  },
+  {
+    "French": "chercher",
+    "English": "to search"
+  },
+  {
+    "French": "papier",
+    "English": "paper"
+  },
+  {
+    "French": "présenter",
+    "English": "to present"
+  },
+  {
+    "French": "accepter",
+    "English": "to accept"
+  },
+  {
+    "French": "agir",
+    "English": "to act"
+  },
+  {
+    "French": "position",
+    "English": "position"
+  },
+  {
+    "French": "but",
+    "English": "goal"
+  },
+  {
+    "French": "personnel",
+    "English": "personal"
+  },
+  {
+    "French": "interdire",
+    "English": "to forbid"
+  },
+  {
+    "French": "marché",
+    "English": "market"
+  },
+  {
+    "French": "seulement",
+    "English": "only"
+  },
+  {
+    "French": "produit",
+    "English": "product"
+  },
+  {
+    "French": "ouvrir",
+    "English": "to open"
+  },
+  {
+    "French": "lire",
+    "English": "to read"
+  },
+  {
+    "French": "énergie",
+    "English": "energy"
+  },
+  {
+    "French": "perdre",
+    "English": "to lose"
+  },
+  {
+    "French": "conseil",
+    "English": "advice/council"
+  },
+  {
+    "French": "musique",
+    "English": "music"
+  },
+  {
+    "French": "sujet",
+    "English": "subject"
+  },
+  {
+    "French": "milieu",
+    "English": "middle/environment"
+  },
+  {
+    "French": "ajouter",
+    "English": "to add"
+  },
+  {
+    "French": "banque",
+    "English": "bank"
+  },
+  {
+    "French": "payer",
+    "English": "to pay"
+  },
+  {
+    "French": "culture",
+    "English": "culture"
+  },
+  {
+    "French": "société",
+    "English": "society/company"
+  },
+  {
+    "French": "apprendre",
+    "English": "to learn"
+  },
+  {
+    "French": "langue",
+    "English": "language/tongue"
+  },
+  {
+    "French": "niveau",
+    "English": "level"
+  },
+  {
+    "French": "économie",
+    "English": "economy"
+  },
+  {
+    "French": "proposer",
+    "English": "to propose"
+  },
+  {
+    "French": "crise",
+    "English": "crisis"
+  },
+  {
+    "French": "chance",
+    "English": "luck/chance"
+  },
+  {
+    "French": "décider",
+    "English": "to decide"
+  },
+  {
+    "French": "offrir",
+    "English": "to offer"
+  },
+  {
+    "French": "couleur",
+    "English": "color"
+  },
+  {
+    "French": "gagner",
+    "English": "to win/earn"
+  },
+  {
+    "French": "matin",
+    "English": "morning"
+  },
+  {
+    "French": "simple",
+    "English": "simple"
+  },
+  {
+    "French": "situation",
+    "English": "situation"
+  },
+  {
+    "French": "refuser",
+    "English": "to refuse"
+  },
+  {
+    "French": "idée",
+    "English": "idea"
+  },
+  {
+    "French": "différent",
+    "English": "different"
+  },
+  {
+    "French": "trop",
+    "English": "too much"
+  },
+  {
+    "French": "assez",
+    "English": "enough"
+  },
+  {
+    "French": "grandir",
+    "English": "to grow"
+  },
+  {
+    "French": "seul",
+    "English": "alone"
+  },
+  {
+    "French": "formation",
+    "English": "training/education"
+  },
+  {
+    "French": "âge",
+    "English": "age"
+  },
+  {
+    "French": "réussir",
+    "English": "to succeed"
+  },
+  {
+    "French": "changer",
+    "English": "to change"
+  },
+  {
+    "French": "problème",
+    "English": "problem"
+  },
+  {
+    "French": "gros",
+    "English": "big/fat"
+  },
+  {
+    "French": "prix",
+    "English": "price/prize"
+  },
+  {
+    "French": "famille",
+    "English": "family"
+  },
+  {
+    "French": "dormir",
+    "English": "to sleep"
+  },
+  {
+    "French": "long",
+    "English": "long"
+  },
+  {
+    "French": "arrêt",
+    "English": "stop"
+  },
+  {
+    "French": "minute",
+    "English": "minute"
+  },
+  {
+    "French": "dessus",
+    "English": "on top"
+  },
+  {
+    "French": "campagne",
+    "English": "countryside/campaign"
+  },
+  {
+    "French": "diriger",
+    "English": "to lead"
+  },
+  {
+    "French": "étude",
+    "English": "study"
+  },
+  {
+    "French": "liberté",
+    "English": "freedom"
+  },
+  {
+    "French": "organiser",
+    "English": "to organize"
+  },
+  {
+    "French": "blanc",
+    "English": "white"
+  },
+  {
+    "French": "disparaître",
+    "English": "to disappear"
+  },
+  {
+    "French": "ami",
+    "English": "friend"
+  },
+  {
+    "French": "respecter",
+    "English": "to respect"
+  },
+  {
+    "French": "tourner",
+    "English": "to turn"
+  },
+  {
+    "French": "avenir",
+    "English": "future"
+  },
+  {
+    "French": "passé",
+    "English": "past"
+  },
+  {
+    "French": "découverte",
+    "English": "discovery"
+  },
+  {
+    "French": "manière",
+    "English": "way/manner"
+  },
+  {
+    "French": "valeur",
+    "English": "value"
+  },
+  {
+    "French": "écrire",
+    "English": "to write"
+  },
+  {
+    "French": "courir",
+    "English": "to run"
+  },
+  {
+    "French": "sujet",
+    "English": "subject"
+  },
+  {
+    "French": "article",
+    "English": "article"
+  },
+  {
+    "French": "action",
+    "English": "action"
+  },
+  {
+    "French": "table",
+    "English": "table"
+  },
+  {
+    "French": "sentir",
+    "English": "to feel/smell"
+  },
+  {
+    "French": "impossible",
+    "English": "impossible"
+  },
+  {
+    "French": "reflet",
+    "English": "reflection"
+  },
+  {
+    "French": "présence",
+    "English": "presence"
+  },
+  {
+    "French": "chemin",
+    "English": "path/way"
+  },
+  {
+    "French": "vivant",
+    "English": "alive"
+  },
+  {
+    "French": "porter",
+    "English": "to carry/wear"
+  },
+  {
+    "French": "jeter",
+    "English": "to throw"
+  },
+  {
+    "French": "froid",
+    "English": "cold"
+  },
+  {
+    "French": "chaud",
+    "English": "hot"
+  },
+  {
+    "French": "pauvre",
+    "English": "poor"
+  },
+  {
+    "French": "riche",
+    "English": "rich"
+  },
+  {
+    "French": "facile",
+    "English": "easy"
+  },
+  {
+    "French": "difficile",
+    "English": "difficult"
+  },
+  {
+    "French": "mari",
+    "English": "husband"
+  },
+  {
+    "French": "femme",
+    "English": "wife/woman"
+  },
+  {
+    "French": "épouser",
+    "English": "to marry"
+  },
+  {
+    "French": "souvent",
+    "English": "often"
+  },
+  {
+    "French": "parfois",
+    "English": "sometimes"
+  },
+  {
+    "French": "toujours",
+    "English": "always"
+  },
+  {
+    "French": "jamais",
+    "English": "never"
+  },
+  {
+    "French": "rarement",
+    "English": "rarely"
+  },
+  {
+    "French": "quelquefois",
+    "English": "sometimes"
+  },
+  {
+    "French": "bientôt",
+    "English": "soon"
+  },
+  {
+    "French": "tard",
+    "English": "late"
+  },
+  {
+    "French": "tôt",
+    "English": "early"
+  },
+  {
+    "French": "maintenant",
+    "English": "now"
+  },
+  {
+    "French": "hier",
+    "English": "yesterday"
+  },
+  {
+    "French": "demain",
+    "English": "tomorrow"
+  },
+  {
+    "French": "ensemble",
+    "English": "together"
+  },
+  {
+    "French": "seulement",
+    "English": "only"
+  },
+  {
+    "French": "début",
+    "English": "beginning"
+  },
+  {
+    "French": "fin",
+    "English": "end"
+  },
+  {
+    "French": "rire",
+    "English": "to laugh"
+  },
+  {
+    "French": "pleurer",
+    "English": "to cry"
+  },
+  {
+    "French": "chanter",
+    "English": "to sing"
+  },
+  {
+    "French": "danser",
+    "English": "to dance"
+  },
+  {
+    "French": "ouvrir",
+    "English": "to open"
+  },
+  {
+    "French": "fermer",
+    "English": "to close"
+  },
+  {
+    "French": "envie",
+    "English": "desire"
+  },
+  {
+    "French": "mal",
+    "English": "badly/hurt"
+  },
+  {
+    "French": "bien",
+    "English": "well/good"
+  },
+  {
+    "French": "malade",
+    "English": "sick"
+  },
+  {
+    "French": "docteur",
+    "English": "doctor"
+  },
+  {
+    "French": "hopital",
+    "English": "hospital"
+  },
+  {
+    "French": "santé",
+    "English": "health"
+  },
+  {
+    "French": "médecin",
+    "English": "doctor"
+  },
+  {
+    "French": "corps",
+    "English": "body"
+  },
+  {
+    "French": "tête",
+    "English": "head"
+  },
+  {
+    "French": "main",
+    "English": "hand"
+  },
+  {
+    "French": "pied",
+    "English": "foot"
+  },
+  {
+    "French": "jambe",
+    "English": "leg"
+  },
+  {
+    "French": "bras",
+    "English": "arm"
+  },
+  {
+    "French": "coeur",
+    "English": "heart"
+  },
+  {
+    "French": "yeux",
+    "English": "eyes"
+  },
+  {
+    "French": "nez",
+    "English": "nose"
+  },
+  {
+    "French": "bouche",
+    "English": "mouth"
+  },
+  {
+    "French": "oreille",
+    "English": "ear"
+  },
+  {
+    "French": "cheveu",
+    "English": "hair"
+  },
+  {
+    "French": "visage",
+    "English": "face"
+  },
+  {
+    "French": "peau",
+    "English": "skin"
+  },
+  {
+    "French": "maladie",
+    "English": "illness"
+  },
+  {
+    "French": "blessure",
+    "English": "injury"
+  },
+  {
+    "French": "remède",
+    "English": "remedy"
+  },
+  {
+    "French": "médicament",
+    "English": "medicine"
+  },
+  {
+    "French": "pharmacie",
+    "English": "pharmacy"
+  },
+  {
+    "French": "heure",
+    "English": "time/hour"
+  },
+  {
+    "French": "semaine",
+    "English": "week"
+  },
+  {
+    "French": "mois",
+    "English": "month"
+  },
+  {
+    "French": "année",
+    "English": "year"
+  },
+  {
+    "French": "calendrier",
+    "English": "calendar"
+  },
+  {
+    "French": "lundi",
+    "English": "Monday"
+  },
+  {
+    "French": "mardi",
+    "English": "Tuesday"
+  },
+  {
+    "French": "mercredi",
+    "English": "Wednesday"
+  },
+  {
+    "French": "jeudi",
+    "English": "Thursday"
+  },
+  {
+    "French": "vendredi",
+    "English": "Friday"
+  },
+  {
+    "French": "samedi",
+    "English": "Saturday"
+  },
+  {
+    "French": "dimanche",
+    "English": "Sunday"
+  },
+  {
+    "French": "matin",
+    "English": "morning"
+  },
+  {
+    "French": "après-midi",
+    "English": "afternoon"
+  },
+  {
+    "French": "soir",
+    "English": "evening"
+  },
+  {
+    "French": "nuit",
+    "English": "night"
+  },
+  {
+    "French": "minute",
+    "English": "minute"
+  },
+  {
+    "French": "seconde",
+    "English": "second"
+  },
+  {
+    "French": "horloge",
+    "English": "clock"
+  },
+  {
+    "French": "montre",
+    "English": "watch"
+  },
+  {
+    "French": "temps",
+    "English": "time/weather"
+  },
+  {
+    "French": "météo",
+    "English": "weather"
+  },
+  {
+    "French": "pluie",
+    "English": "rain"
+  },
+  {
+    "French": "neige",
+    "English": "snow"
+  },
+  {
+    "French": "soleil",
+    "English": "sun"
+  },
+  {
+    "French": "nuage",
+    "English": "cloud"
+  },
+  {
+    "French": "vent",
+    "English": "wind"
+  },
+  {
+    "French": "froid",
+    "English": "cold"
+  },
+  {
+    "French": "chaud",
+    "English": "hot"
+  },
+  {
+    "French": "température",
+    "English": "temperature"
+  },
+  {
+    "French": "saison",
+    "English": "season"
+  },
+  {
+    "French": "printemps",
+    "English": "spring"
+  },
+  {
+    "French": "été",
+    "English": "summer"
+  },
+  {
+    "French": "automne",
+    "English": "autumn"
+  },
+  {
+    "French": "hiver",
+    "English": "winter"
   },
   {
     "French": "maison",
     "English": "house"
   },
   {
-    "French": "livre",
-    "English": "book"
+    "French": "appartement",
+    "English": "apartment"
+  },
+  {
+    "French": "pièce",
+    "English": "room"
+  },
+  {
+    "French": "porte",
+    "English": "door"
+  },
+  {
+    "French": "fenêtre",
+    "English": "window"
+  },
+  {
+    "French": "lit",
+    "English": "bed"
+  },
+  {
+    "French": "chaise",
+    "English": "chair"
+  },
+  {
+    "French": "table",
+    "English": "table"
+  },
+  {
+    "French": "cuisine",
+    "English": "kitchen"
+  },
+  {
+    "French": "salle de bain",
+    "English": "bathroom"
+  },
+  {
+    "French": "toilettes",
+    "English": "toilet"
+  },
+  {
+    "French": "douche",
+    "English": "shower"
+  },
+  {
+    "French": "bain",
+    "English": "bath"
+  },
+  {
+    "French": "savon",
+    "English": "soap"
+  },
+  {
+    "French": "serviette",
+    "English": "towel"
+  },
+  {
+    "French": "miroir",
+    "English": "mirror"
+  },
+  {
+    "French": "placard",
+    "English": "closet"
+  },
+  {
+    "French": "réfrigérateur",
+    "English": "refrigerator"
+  },
+  {
+    "French": "four",
+    "English": "oven"
+  },
+  {
+    "French": "cuisinière",
+    "English": "stove"
+  },
+  {
+    "French": "évier",
+    "English": "sink"
+  },
+  {
+    "French": "balcon",
+    "English": "balcony"
+  },
+  {
+    "French": "jardin",
+    "English": "garden"
+  },
+  {
+    "French": "garage",
+    "English": "garage"
+  },
+  {
+    "French": "mur",
+    "English": "wall"
+  },
+  {
+    "French": "plafond",
+    "English": "ceiling"
+  },
+  {
+    "French": "sol",
+    "English": "floor"
+  },
+  {
+    "French": "tapis",
+    "English": "carpet"
+  },
+  {
+    "French": "lampe",
+    "English": "lamp"
+  },
+  {
+    "French": "lumière",
+    "English": "light"
+  },
+  {
+    "French": "électricité",
+    "English": "electricity"
+  },
+  {
+    "French": "eau",
+    "English": "water"
+  },
+  {
+    "French": "chauffage",
+    "English": "heating"
+  },
+  {
+    "French": "clé",
+    "English": "key"
+  },
+  {
+    "French": "voisin",
+    "English": "neighbor"
+  },
+  {
+    "French": "immeuble",
+    "English": "building"
+  },
+  {
+    "French": "ascenseur",
+    "English": "elevator"
+  },
+  {
+    "French": "escalier",
+    "English": "staircase"
+  },
+  {
+    "French": "rue",
+    "English": "street"
+  },
+  {
+    "French": "route",
+    "English": "road"
+  },
+  {
+    "French": "pont",
+    "English": "bridge"
+  },
+  {
+    "French": "carrefour",
+    "English": "crossroad"
+  },
+  {
+    "French": "feu",
+    "English": "traffic light"
+  },
+  {
+    "French": "voiture",
+    "English": "car"
+  },
+  {
+    "French": "camion",
+    "English": "truck"
+  },
+  {
+    "French": "bus",
+    "English": "bus"
+  },
+  {
+    "French": "train",
+    "English": "train"
+  },
+  {
+    "French": "avion",
+    "English": "plane"
+  },
+  {
+    "French": "métro",
+    "English": "subway"
+  },
+  {
+    "French": "vélo",
+    "English": "bike"
+  },
+  {
+    "French": "moto",
+    "English": "motorcycle"
+  },
+  {
+    "French": "taxi",
+    "English": "taxi"
+  },
+  {
+    "French": "gare",
+    "English": "train station"
+  },
+  {
+    "French": "aéroport",
+    "English": "airport"
+  },
+  {
+    "French": "station",
+    "English": "station"
+  },
+  {
+    "French": "billet",
+    "English": "ticket"
+  },
+  {
+    "French": "valise",
+    "English": "suitcase"
+  },
+  {
+    "French": "bagage",
+    "English": "luggage"
+  },
+  {
+    "French": "voyage",
+    "English": "trip"
+  },
+  {
+    "French": "vacances",
+    "English": "holiday"
+  },
+  {
+    "French": "carte",
+    "English": "map"
+  },
+  {
+    "French": "hôtel",
+    "English": "hotel"
+  },
+  {
+    "French": "restaurant",
+    "English": "restaurant"
+  },
+  {
+    "French": "café",
+    "English": "cafe"
+  },
+  {
+    "French": "bar",
+    "English": "bar"
+  },
+  {
+    "French": "menu",
+    "English": "menu"
+  },
+  {
+    "French": "plat",
+    "English": "dish"
+  },
+  {
+    "French": "repas",
+    "English": "meal"
+  },
+  {
+    "French": "petit déjeuner",
+    "English": "breakfast"
+  },
+  {
+    "French": "déjeuner",
+    "English": "lunch"
+  },
+  {
+    "French": "dîner",
+    "English": "dinner"
+  },
+  {
+    "French": "eau",
+    "English": "water"
+  },
+  {
+    "French": "vin",
+    "English": "wine"
+  },
+  {
+    "French": "bière",
+    "English": "beer"
+  },
+  {
+    "French": "jus",
+    "English": "juice"
+  },
+  {
+    "French": "café",
+    "English": "coffee"
+  },
+  {
+    "French": "thé",
+    "English": "tea"
+  },
+  {
+    "French": "pain",
+    "English": "bread"
+  },
+  {
+    "French": "fromage",
+    "English": "cheese"
+  },
+  {
+    "French": "viande",
+    "English": "meat"
+  },
+  {
+    "French": "poisson",
+    "English": "fish"
+  },
+  {
+    "French": "poulet",
+    "English": "chicken"
+  },
+  {
+    "French": "fruit",
+    "English": "fruit"
+  },
+  {
+    "French": "légume",
+    "English": "vegetable"
+  },
+  {
+    "French": "gâteau",
+    "English": "cake"
+  },
+  {
+    "French": "dessert",
+    "English": "dessert"
+  },
+  {
+    "French": "sel",
+    "English": "salt"
+  },
+  {
+    "French": "poivre",
+    "English": "pepper"
+  },
+  {
+    "French": "sucre",
+    "English": "sugar"
+  },
+  {
+    "French": "cuillère",
+    "English": "spoon"
+  },
+  {
+    "French": "fourchette",
+    "English": "fork"
+  },
+  {
+    "French": "couteau",
+    "English": "knife"
+  },
+  {
+    "French": "assiette",
+    "English": "plate"
+  },
+  {
+    "French": "verre",
+    "English": "glass"
+  },
+  {
+    "French": "tasse",
+    "English": "cup"
+  },
+  {
+    "French": "nappe",
+    "English": "tablecloth"
+  },
+  {
+    "French": "serveur",
+    "English": "waiter"
+  },
+  {
+    "French": "serveuse",
+    "English": "waitress"
+  },
+  {
+    "French": "addition",
+    "English": "bill"
+  },
+  {
+    "French": "argent",
+    "English": "money"
+  },
+  {
+    "French": "carte bancaire",
+    "English": "bank card"
+  },
+  {
+    "French": "pièce",
+    "English": "coin"
+  },
+  {
+    "French": "billet",
+    "English": "bill (money)"
+  },
+  {
+    "French": "prix",
+    "English": "price"
+  },
+  {
+    "French": "bon marché",
+    "English": "cheap"
+  },
+  {
+    "French": "cher",
+    "English": "expensive"
+  },
+  {
+    "French": "magasin",
+    "English": "store"
+  },
+  {
+    "French": "supermarché",
+    "English": "supermarket"
+  },
+  {
+    "French": "boulangerie",
+    "English": "bakery"
+  },
+  {
+    "French": "boucherie",
+    "English": "butcher shop"
+  },
+  {
+    "French": "pharmacie",
+    "English": "pharmacy"
+  },
+  {
+    "French": "marché",
+    "English": "market"
+  },
+  {
+    "French": "vendre",
+    "English": "to sell"
+  },
+  {
+    "French": "acheter",
+    "English": "to buy"
+  },
+  {
+    "French": "payer",
+    "English": "to pay"
+  },
+  {
+    "French": "ouvrir",
+    "English": "to open"
+  },
+  {
+    "French": "fermer",
+    "English": "to close"
+  },
+  {
+    "French": "heures d'ouverture",
+    "English": "opening hours"
+  },
+  {
+    "French": "client",
+    "English": "customer"
+  },
+  {
+    "French": "vendeur",
+    "English": "seller"
+  },
+  {
+    "French": "produit",
+    "English": "product"
+  },
+  {
+    "French": "panier",
+    "English": "basket"
+  },
+  {
+    "French": "sac",
+    "English": "bag"
+  },
+  {
+    "French": "taille",
+    "English": "size"
+  },
+  {
+    "French": "essayer",
+    "English": "to try on"
+  },
+  {
+    "French": "caisse",
+    "English": "cash register"
+  },
+  {
+    "French": "file d'attente",
+    "English": "line/queue"
+  },
+  {
+    "French": "rabais",
+    "English": "discount"
+  },
+  {
+    "French": "remboursement",
+    "English": "refund"
+  },
+  {
+    "French": "échange",
+    "English": "exchange"
+  },
+  {
+    "French": "réduction",
+    "English": "sale"
+  },
+  {
+    "French": "réservation",
+    "English": "reservation"
+  },
+  {
+    "French": "commande",
+    "English": "order"
+  },
+  {
+    "French": "livraison",
+    "English": "delivery"
+  },
+  {
+    "French": "adresse",
+    "English": "address"
+  },
+  {
+    "French": "nom",
+    "English": "name"
+  },
+  {
+    "French": "prénom",
+    "English": "first name"
+  },
+  {
+    "French": "téléphone",
+    "English": "phone"
+  },
+  {
+    "French": "email",
+    "English": "email"
+  },
+  {
+    "French": "internet",
+    "English": "internet"
+  },
+  {
+    "French": "ordinateur",
+    "English": "computer"
+  },
+  {
+    "French": "portable",
+    "English": "cell phone/laptop"
+  },
+  {
+    "French": "mot de passe",
+    "English": "password"
+  },
+  {
+    "French": "compte",
+    "English": "account"
+  },
+  {
+    "French": "imprimante",
+    "English": "printer"
+  },
+  {
+    "French": "pain",
+    "English": "bread"
   }
 ]

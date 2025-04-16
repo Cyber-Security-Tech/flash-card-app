@@ -1,6 +1,501 @@
 French,English
-partie,part
-chien,dog
-rouge,red
+je,I
+de,of/from
+est,is
+pas,not
+le,the (masc)
+vous,you (formal/plural)
+la,the (fem)
+tu,you (informal/singular)
+que,that/what
+un,a/one (masc)
+une,a/one (fem)
+à,to/at
+il,he/it
+et,and
+en,in/by
+être,to be
+avoir,to have
+pour,for
+dans,in
+ce,this/that
+ne,not
+sur,on/upon
+se,himself/herself/itself
+qui,who
+y,there
+avec,with
+tout,all/everything
+faire,to do/to make
+son,his/her/its (masc)
+mettre,to put
+autre,other
+on,one/we
+mais,but
+nous,we/us
+comme,like/as
+ou,or
+si,if
+leur,their
+y,there
+dire,to say
+elle,she/it
+devant,in front of
+devoir,to have to/must
+même,same/even
+prendre,to take
+aucun,none/no
+celui,the one/he
+donner,to give
+où,where
+fois,time (occurrence)
+vous,you (formal/plural)
+encore,again/still
+nouveau,new
+aller,to go
+cela,that/it
+entre,between
+premier,first
+vouloir,to want
+déjà,already
+grand,big
+mon,my (masc)
+me,me/myself
+moins,less
+aucune,none/no (fem)
+lui,him
+temps,time/weather
+très,very
+savoir,to know
+falloir,to be necessary
+voir,to see
+quelque,some
+sans,without
+raison,reason
+notre,our
+dont,whose/of which
+non,no
+an,year
+monde,world
+jour,day
+madame,madam
+moi,me
+jamais,never
+homme,man
+rien,nothing
+voilà,there is/here is
+après,after
+trouver,to find
+personne,nobody/person
+rendre,to return (something)
+partir,to leave
+dernier,last
+venir,to come
+pendant,during
+passer,to pass
+peu,little/few
+lequel,which one
+suite,following/series
+bon,good
+comprendre,to understand
+depuis,since
+point,point/dot
+ainsi,thus/so
+heure,hour/time
+rester,to stay
+tenir,to hold
+porter,to wear/to carry
+parler,to speak
+fort,strong
+aussi,also
+montrer,to show
+continuer,to continue
+penser,to think
+suivre,to follow
+connaître,to know (a person)
+croire,to believe
+commencer,to begin
+compter,to count
+besoin,need
+oeil,eye
+trouver,to find
+femme,woman
+cas,case
+terre,earth
+arriver,to arrive
+écrire,to write
+niveau,level
+plein,full
+nom,name
+falloir,it is necessary
+gouvernement,government
+rapport,report
+million,million
+part,part/share
+nouvelle,news
+ville,city
+air,air
+permettre,to allow
+mois,month
+loi,law
+aucuns,none
+type,type/kind
+garder,to keep
+mot,word
+question,question
+dieu,God
+plan,plan
+visage,face
+reconnaître,to recognize
+route,road
+penser,to think
+place,place
+école,school
+état,state
+marcher,to walk
+vivre,to live
+objectif,goal/objective
+chambre,room
+aimer,to like/love
+travail,work
+élever,to raise
+droit,right
+chef,leader/chef
+service,service
+fin,end
+attendre,to wait
+envoyer,to send
+important,important
+face,face
+choisir,to choose
+changer,to change
+droite,right (direction)
+créer,to create
+condition,condition
+chercher,to search
+papier,paper
+présenter,to present
+accepter,to accept
+agir,to act
+position,position
+but,goal
+personnel,personal
+interdire,to forbid
+marché,market
+seulement,only
+produit,product
+ouvrir,to open
+lire,to read
+énergie,energy
+perdre,to lose
+conseil,advice/council
+musique,music
+sujet,subject
+milieu,middle/environment
+ajouter,to add
+banque,bank
+payer,to pay
+culture,culture
+société,society/company
+apprendre,to learn
+langue,language/tongue
+niveau,level
+économie,economy
+proposer,to propose
+crise,crisis
+chance,luck/chance
+décider,to decide
+offrir,to offer
+couleur,color
+gagner,to win/earn
+matin,morning
+simple,simple
+situation,situation
+refuser,to refuse
+idée,idea
+différent,different
+trop,too much
+assez,enough
+grandir,to grow
+seul,alone
+formation,training/education
+âge,age
+réussir,to succeed
+changer,to change
+problème,problem
+gros,big/fat
+prix,price/prize
+famille,family
+dormir,to sleep
+long,long
+arrêt,stop
+minute,minute
+dessus,on top
+campagne,countryside/campaign
+diriger,to lead
+étude,study
+liberté,freedom
+organiser,to organize
+blanc,white
+disparaître,to disappear
+ami,friend
+respecter,to respect
+tourner,to turn
+avenir,future
+passé,past
+découverte,discovery
+manière,way/manner
+valeur,value
+écrire,to write
+courir,to run
+sujet,subject
+article,article
+action,action
+table,table
+sentir,to feel/smell
+impossible,impossible
+reflet,reflection
+présence,presence
+chemin,path/way
+vivant,alive
+porter,to carry/wear
+jeter,to throw
+froid,cold
+chaud,hot
+pauvre,poor
+riche,rich
+facile,easy
+difficile,difficult
+mari,husband
+femme,wife/woman
+épouser,to marry
+souvent,often
+parfois,sometimes
+toujours,always
+jamais,never
+rarement,rarely
+quelquefois,sometimes
+bientôt,soon
+tard,late
+tôt,early
+maintenant,now
+hier,yesterday
+demain,tomorrow
+ensemble,together
+seulement,only
+début,beginning
+fin,end
+rire,to laugh
+pleurer,to cry
+chanter,to sing
+danser,to dance
+ouvrir,to open
+fermer,to close
+envie,desire
+mal,badly/hurt
+bien,well/good
+malade,sick
+docteur,doctor
+hopital,hospital
+santé,health
+médecin,doctor
+corps,body
+tête,head
+main,hand
+pied,foot
+jambe,leg
+bras,arm
+coeur,heart
+yeux,eyes
+nez,nose
+bouche,mouth
+oreille,ear
+cheveu,hair
+visage,face
+peau,skin
+maladie,illness
+blessure,injury
+remède,remedy
+médicament,medicine
+pharmacie,pharmacy
+heure,time/hour
+semaine,week
+mois,month
+année,year
+calendrier,calendar
+lundi,Monday
+mardi,Tuesday
+mercredi,Wednesday
+jeudi,Thursday
+vendredi,Friday
+samedi,Saturday
+dimanche,Sunday
+matin,morning
+après-midi,afternoon
+soir,evening
+nuit,night
+minute,minute
+seconde,second
+horloge,clock
+montre,watch
+temps,time/weather
+météo,weather
+pluie,rain
+neige,snow
+soleil,sun
+nuage,cloud
+vent,wind
+froid,cold
+chaud,hot
+température,temperature
+saison,season
+printemps,spring
+été,summer
+automne,autumn
+hiver,winter
 maison,house
-livre,book
+appartement,apartment
+pièce,room
+porte,door
+fenêtre,window
+lit,bed
+chaise,chair
+table,table
+cuisine,kitchen
+salle de bain,bathroom
+toilettes,toilet
+douche,shower
+bain,bath
+savon,soap
+serviette,towel
+miroir,mirror
+placard,closet
+réfrigérateur,refrigerator
+four,oven
+cuisinière,stove
+évier,sink
+balcon,balcony
+jardin,garden
+garage,garage
+mur,wall
+plafond,ceiling
+sol,floor
+tapis,carpet
+lampe,lamp
+lumière,light
+électricité,electricity
+eau,water
+chauffage,heating
+clé,key
+voisin,neighbor
+immeuble,building
+ascenseur,elevator
+escalier,staircase
+rue,street
+route,road
+pont,bridge
+carrefour,crossroad
+feu,traffic light
+voiture,car
+camion,truck
+bus,bus
+train,train
+avion,plane
+métro,subway
+vélo,bike
+moto,motorcycle
+taxi,taxi
+gare,train station
+aéroport,airport
+station,station
+billet,ticket
+valise,suitcase
+bagage,luggage
+voyage,trip
+vacances,holiday
+carte,map
+hôtel,hotel
+restaurant,restaurant
+café,cafe
+bar,bar
+menu,menu
+plat,dish
+repas,meal
+petit déjeuner,breakfast
+déjeuner,lunch
+dîner,dinner
+eau,water
+vin,wine
+bière,beer
+jus,juice
+café,coffee
+thé,tea
+pain,bread
+fromage,cheese
+viande,meat
+poisson,fish
+poulet,chicken
+fruit,fruit
+légume,vegetable
+gâteau,cake
+dessert,dessert
+sel,salt
+poivre,pepper
+sucre,sugar
+cuillère,spoon
+fourchette,fork
+couteau,knife
+assiette,plate
+verre,glass
+tasse,cup
+nappe,tablecloth
+serveur,waiter
+serveuse,waitress
+addition,bill
+argent,money
+carte bancaire,bank card
+pièce,coin
+billet,bill (money)
+prix,price
+bon marché,cheap
+cher,expensive
+magasin,store
+supermarché,supermarket
+boulangerie,bakery
+boucherie,butcher shop
+pharmacie,pharmacy
+marché,market
+vendre,to sell
+acheter,to buy
+payer,to pay
+ouvrir,to open
+fermer,to close
+heures d'ouverture,opening hours
+client,customer
+vendeur,seller
+produit,product
+panier,basket
+sac,bag
+taille,size
+essayer,to try on
+caisse,cash register
+file d'attente,line/queue
+rabais,discount
+remboursement,refund
+échange,exchange
+réduction,sale
+réservation,reservation
+commande,order
+livraison,delivery
+adresse,address
+nom,name
+prénom,first name
+téléphone,phone
+email,email
+internet,internet
+ordinateur,computer
+portable,cell phone/laptop
+mot de passe,password
+compte,account
+imprimante,printer
+pain,bread
