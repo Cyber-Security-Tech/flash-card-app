@@ -25,11 +25,13 @@ An elegant, animated flashcard app that helps you master daily conversational vo
 
 ## 🖼️ Screenshots
 
-| Home Screen | Flashcard View |
-|-------------|----------------|
-| ![Home](media/screenshots/home.png) | ![Flashcard](media/screenshots/flashcard.png) |
+| Language Selection | Flashcard – Front | Flashcard – Back |
+|--------------------|-------------------|------------------|
+| ![Select](media/screenshots/language_selection.png) | ![Front](media/screenshots/flashcard_front.png) | ![Back](media/screenshots/flashcard_back.png) |
 
-*(Optional – you can add these images to `media/screenshots/`)*
+| Feedback Buttons | Completion Screen |
+|------------------|-------------------|
+| ![Buttons](media/screenshots/feedback_buttons.png) | ![Done](media/screenshots/flashcard_done.png) |
 
 ---
 
@@ -94,7 +96,7 @@ flash_card_app/
 ├── images/                 # Card front/back + icon images
 ├── media/
 │   ├── demo/               # GIF demo
-│   └── screenshots/        # Optional screenshots for README
+│   └── screenshots/        # Screenshot PNGs used in README
 ├── flashcard_ui.py         # Flashcard UI logic and animation
 ├── data_manager.py         # Word loading and progress management
 ├── main.py                 # Home screen launcher
